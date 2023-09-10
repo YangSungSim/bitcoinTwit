@@ -1,0 +1,7 @@
+venv/
+.env
+main.py
+preprocess/config.ini
+preprocess/config.py
+__pycache__
+.idea/
