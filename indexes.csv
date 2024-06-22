@@ -1,0 +1,1379 @@
+,country,name,full_name,symbol,currency,class,market
+0,united states,NQ US Mid Cap Value,NASDAQ US Mid Cap Value,NQUSMV,USD,other_indices,global_indices
+1,united states,NQ US Mid Cap Growth,NASDAQ US Mid Cap Growth,NQUSMG,USD,other_indices,global_indices
+2,united states,NQ US Mid Cap Telecommunications Equipment,NASDAQ US Mid Cap Telecommunications Equipment,NQUSM9578,USD,other_indices,global_indices
+3,united states,NQ US Mid Cap Semiconductors,NASDAQ US Mid Cap Semiconductors,NQUSM9576,USD,other_indices,global_indices
+4,united states,NQ US Mid Cap Computer Hardware,NASDAQ US Mid Cap Computer Hardware,NQUSM9572,USD,other_indices,global_indices
+5,united states,NQ US Mid Cap Technology Hardware & Equipment,NASDAQ US Mid Cap Technology Hardware & Equipment,NQUSM9570,USD,other_indices,global_indices
+6,united states,NQ US Mid Cap Technology,NASDAQ US Mid Cap Technology,NQUSM9000,USD,other_indices,global_indices
+7,united states,NQ US Mid Cap Software,NASDAQ US Mid Cap Software,NQUSM9537,USD,other_indices,global_indices
+8,united states,NQ US Mid Cap Software & Computer Services,NASDAQ US Mid Cap Software & Computer Services,NQUSM9530,USD,other_indices,global_indices
+9,united states,NQ US Mid Cap Investment Services,NASDAQ US Mid Cap Investment Services,NQUSM8777,USD,other_indices,global_indices
+10,united states,NQ US Mid Cap Asset Managers,NASDAQ US Mid Cap Asset Managers,NQUSM8771,USD,other_indices,global_indices
+11,united states,NQ US Small Cap Oil & Gas,NASDAQ US Small Cap Oil & Gas,NQUSS0001,USD,other_indices,global_indices
+12,united states,NQ US Mid Cap Financial Service,NASDAQ US Mid Cap Financial Service,NQUSM8700,USD,other_indices,global_indices
+13,united states,NQ US Mid Cap Financial Services Sector,NASDAQ US Mid Cap Financial Services Sector,NQUSM8770,USD,other_indices,global_indices
+14,united states,NQ US Mid Cap Mortgage REITs,NASDAQ US Mid Cap Mortgage REITs,NQUSM8676,USD,other_indices,global_indices
+15,united states,NQ US Small Cap Oil & Gas Producers,NASDAQ US Small Cap Oil & Gas Producers,NQUSS0530,USD,other_indices,global_indices
+16,united states,NQ US Small Cap Forestry & Paper,NASDAQ US Small Cap Forestry & Paper,NQUSS1730,USD,other_indices,global_indices
+17,united states,NQ US Small Cap Oil Equipment & Services,NASDAQ US Small Cap Oil Equipment & Services,NQUSS0573,USD,other_indices,global_indices
+18,united states,NQ US Small Cap General Mining,NASDAQ US Small Cap General Mining,NQUSS1775,USD,other_indices,global_indices
+19,united states,NQ US Small Cap Coal,NASDAQ US Small Cap Coal,NQUSS1771,USD,other_indices,global_indices
+20,united states,NQ US Mid Cap Specialty REITs,NASDAQ US Mid Cap Specialty REITs,NQUSM8675,USD,other_indices,global_indices
+21,united states,NQ US Small Cap Mining,NASDAQ US Small Cap Mining,NQUSS1770,USD,other_indices,global_indices
+22,united states,NQ US Small Cap Iron & Steel,NASDAQ US Small Cap Iron & Steel,NQUSS1757,USD,other_indices,global_indices
+23,united states,NQ US Small Cap Nonferrous Metals,NASDAQ US Small Cap Nonferrous Metals,NQUSS1755,USD,other_indices,global_indices
+24,united states,NQ US Small Cap Industrial Metals & Mining,NASDAQ US Small Cap Industrial Metals & Mining,NQUSS1750,USD,other_indices,global_indices
+25,united states,NQ US Small Cap Paper,NASDAQ US Small Cap Paper,NQUSS1737,USD,other_indices,global_indices
+26,united states,NQ US Small Cap Basic Resources,NASDAQ US Small Cap Basic Resources,NQUSS1700,USD,other_indices,global_indices
+27,united states,NQ US Small Cap Specialty Chemicals,NASDAQ US Small Cap Specialty Chemicals,NQUSS1357,USD,other_indices,global_indices
+28,united states,NQ US Small Cap Commodity Chemicals,NASDAQ US Small Cap Commodity Chemicals,NQUSS1353,USD,other_indices,global_indices
+29,united states,NQ US Small Cap Chemicals,NASDAQ US Small Cap Chemicals,NQUSS1300,USD,other_indices,global_indices
+30,united states,NQ US Small Cap Basic Materials,NASDAQ US Small Cap Basic Materials,NQUSS1000,USD,other_indices,global_indices
+31,united states,NQ US Small Cap Renewable Energy Equipment,NASDAQ US Small Cap Renewable Energy Equipment,NQUSS0583,USD,other_indices,global_indices
+32,united states,NQ US Small Cap Alternative Energy,NASDAQ US Small Cap Alternative Energy,NQUSS0580,USD,other_indices,global_indices
+33,united states,NQ US Small Cap Exploration & Production,NASDAQ US Small Cap Exploration & Production,NQUSS0533,USD,other_indices,global_indices
+34,united states,NQ US Mid Cap Residential REITs,NASDAQ US Mid Cap Residential REITs,NQUSM8673,USD,other_indices,global_indices
+35,united states,NQ US Mid Cap Specialty Retailers,NASDAQ US Mid Cap Specialty Retailers,NQUSM5379,USD,other_indices,global_indices
+36,united states,NQ US Mid Cap Industrial & Office REITs,NASDAQ US Mid Cap Industrial & Office REITs,NQUSM8671,USD,other_indices,global_indices
+37,united states,NQ US Mid Cap Broadcasting & Entertainment,NASDAQ US Mid Cap Broadcasting & Entertainment,NQUSM5553,USD,other_indices,global_indices
+38,united states,NQ US Mid Cap Media,NASDAQ US Mid Cap Media,NQUSM5500,USD,other_indices,global_indices
+39,united states,NQ US Mid Cap Specialized Consumer Services,NASDAQ US Mid Cap Specialized Consumer Services,NQUSM5377,USD,other_indices,global_indices
+40,united states,NQ US Mid Cap Apparel Retailers,NASDAQ US Mid Cap Apparel Retailers,NQUSM5371,USD,other_indices,global_indices
+41,united states,NQ US Mid Cap General Retailers,NASDAQ US Mid Cap General Retailers,NQUSM5370,USD,other_indices,global_indices
+42,united states,NQ US Mid Cap Food Retailers & Wholesalers,NASDAQ US Mid Cap Food Retailers & Wholesalers,NQUSM5337,USD,other_indices,global_indices
+43,united states,NQ US Mid Cap Food & Drug Retailers,NASDAQ US Mid Cap Food & Drug Retailers,NQUSM5330,USD,other_indices,global_indices
+44,united states,NQ US Mid Cap Retail,NASDAQ US Mid Cap Retail,NQUSM5300,USD,other_indices,global_indices
+45,united states,NQ US Mid Cap Consumer Services,NASDAQ US Mid Cap Consumer Services,NQUSM5000,USD,other_indices,global_indices
+46,united states,NQ US Mid Cap Pharmaceuticals,NASDAQ US Mid Cap Pharmaceuticals,NQUSM4577,USD,other_indices,global_indices
+47,united states,NQ US Mid Cap Biotechnology,NASDAQ US Mid Cap Biotechnology,NQUSM4573,USD,other_indices,global_indices
+48,united states,NQ US Mid Cap Pharmaceuticals & Biotechnology,NASDAQ US Mid Cap Pharmaceuticals & Biotechnology,NQUSM4570,USD,other_indices,global_indices
+49,united states,NQ US Mid Cap Medical Supplies,NASDAQ US Mid Cap Medical Supplies,NQUSM4537,USD,other_indices,global_indices
+50,united states,NQ US Small Cap Gold Mining,NASDAQ US Small Cap Gold Mining,NQUSS1777,USD,other_indices,global_indices
+51,united states,NQ US Mid Cap Medical Equipment,NASDAQ US Mid Cap Medical Equipment,NQUSM4535,USD,other_indices,global_indices
+52,united states,NQ US Mid Cap Publishing,NASDAQ US Mid Cap Publishing,NQUSM5557,USD,other_indices,global_indices
+53,united states,NQ US Mid Cap Retail REITs,NASDAQ US Mid Cap Retail REITs,NQUSM8672,USD,other_indices,global_indices
+54,united states,NQ US Mid Cap Travel & Leisure,NASDAQ US Mid Cap Travel & Leisure,NQUSM5700,USD,other_indices,global_indices
+55,united states,NQ US Mid Cap Restaurants & Bars,NASDAQ US Mid Cap Restaurants & Bars,NQUSM5757,USD,other_indices,global_indices
+56,united states,NQ US Mid Cap Real Estate Investment Trusts,NASDAQ US Mid Cap Real Estate Investment Trusts,NQUSM8670,USD,other_indices,global_indices
+57,united states,NQ US Mid Cap Real Estate Investment & Services,NASDAQ US Mid Cap Real Estate Investment & Services,NQUSM8630,USD,other_indices,global_indices
+58,united states,NQ US Mid Cap Real Estate,NASDAQ US Mid Cap Real Estate,NQUSM8600,USD,other_indices,global_indices
+59,united states,NQ US Mid Cap Life Insurance,NASDAQ US Mid Cap Life Insurance,NQUSM8570,USD,other_indices,global_indices
+60,united states,NQ US Mid Cap Reinsurance,NASDAQ US Mid Cap Reinsurance,NQUSM8538,USD,other_indices,global_indices
+61,united states,NQ US Mid Cap Property & Casualty Insurance,NASDAQ US Mid Cap Property & Casualty Insurance,NQUSM8536,USD,other_indices,global_indices
+62,united states,NQ US Mid Cap Nonlife Insurance,NASDAQ US Mid Cap Nonlife Insurance,NQUSM8530,USD,other_indices,global_indices
+63,united states,NQ US Mid Cap Insurance,NASDAQ US Mid Cap Insurance,NQUSM8500,USD,other_indices,global_indices
+64,united states,NQ US Mid Cap Banks,NASDAQ US Mid Cap Banks,NQUSM8300,USD,other_indices,global_indices
+65,united states,NQ US Mid Cap Financials,NASDAQ US Mid Cap Financials,NQUSM8000,USD,other_indices,global_indices
+66,united states,"NQ US Mid Cap Gas, Water & Multiutilities","NASDAQ US Mid Cap Gas, Water & Multiutilities",NQUSM7570,USD,other_indices,global_indices
+67,united states,NQ US Mid Cap Conventional Electricity,NASDAQ US Mid Cap Conventional Electricity,NQUSM7535,USD,other_indices,global_indices
+68,united states,NQ US Mid Cap Electricity,NASDAQ US Mid Cap Electricity,NQUSM7530,USD,other_indices,global_indices
+69,united states,NQ US Mid Cap Utilities,NASDAQ US Mid Cap Utilities,NQUSM7000,USD,other_indices,global_indices
+70,united states,NQ US Mid Cap Telecom,NASDAQ US Mid Cap Telecom,NQUSM6000,USD,other_indices,global_indices
+71,united states,NQ US Mid Cap Recreational Services,NASDAQ US Mid Cap Recreational Services,NQUSM5755,USD,other_indices,global_indices
+72,united states,NQ US Small Cap Industrials,NASDAQ US Small Cap Industrials,NQUSS2000,USD,other_indices,global_indices
+73,united states,NQ US Small Cap Pharmaceuticals,NASDAQ US Small Cap Pharmaceuticals,NQUSS4577,USD,other_indices,global_indices
+74,united states,NQ US Small Cap Building Materials & Fixtures,NASDAQ US Small Cap Building Materials & Fixtures,NQUSS2353,USD,other_indices,global_indices
+75,united states,NQ US Small Cap Food Retailers & Wholesalers,NASDAQ US Small Cap Food Retailers & Wholesalers,NQUSS5337,USD,other_indices,global_indices
+76,united states,NQ US Small Cap Food & Drug Retailers,NASDAQ US Small Cap Food & Drug Retailers,NQUSS5330,USD,other_indices,global_indices
+77,united states,NQ US Small Cap Retail,NASDAQ US Small Cap Retail,NQUSS5300,USD,other_indices,global_indices
+78,united states,NQ US Small Cap Consumer Services,NASDAQ US Small Cap Consumer Services,NQUSS5000,USD,other_indices,global_indices
+79,united states,NQ US Small Cap Biotechnology,NASDAQ US Small Cap Biotechnology,NQUSS4573,USD,other_indices,global_indices
+80,united states,NQ US Small Cap Pharmaceuticals & Biotechnology,NASDAQ US Small Cap Pharmaceuticals & Biotechnology,NQUSS4570,USD,other_indices,global_indices
+81,united states,NQ US Small Cap General Retailers,NASDAQ US Small Cap General Retailers,NQUSS5370,USD,other_indices,global_indices
+82,united states,NQ US Small Cap Medical Supplies,NASDAQ US Small Cap Medical Supplies,NQUSS4537,USD,other_indices,global_indices
+83,united states,NQ US Small Cap Health Care Providers,NASDAQ US Small Cap Health Care Providers,NQUSS4533,USD,other_indices,global_indices
+84,united states,NQ US Small Cap Health Care Equipment & Services,NASDAQ US Small Cap Health Care Equipment & Services,NQUSS4530,USD,other_indices,global_indices
+85,united states,NQ US Small Cap Health Care,NASDAQ US Small Cap Health Care,NQUSS4000,USD,other_indices,global_indices
+86,united states,NQ US Small Cap Tobacco,NASDAQ US Small Cap Tobacco,NQUSS3780,USD,other_indices,global_indices
+87,united states,NQ US Small Cap Personal Products,NASDAQ US Small Cap Personal Products,NQUSS3767,USD,other_indices,global_indices
+88,united states,NQ US Small Cap Footwear,NASDAQ US Small Cap Footwear,NQUSS3765,USD,other_indices,global_indices
+89,united states,NQ US Small Cap Medical Equipment,NASDAQ US Small Cap Medical Equipment,NQUSS4535,USD,other_indices,global_indices
+90,united states,NQ US Small Cap Apparel Retailers,NASDAQ US Small Cap Apparel Retailers,NQUSS5371,USD,other_indices,global_indices
+91,united states,NQ US Small Cap Broadline Retailers,NASDAQ US Small Cap Broadline Retailers,NQUSS5373,USD,other_indices,global_indices
+92,united states,NQ US Small Cap Home Improvement Retailers,NASDAQ US Small Cap Home Improvement Retailers,NQUSS5375,USD,other_indices,global_indices
+93,united states,NQ US Mid Cap Health Care Providers,NASDAQ US Mid Cap Health Care Providers,NQUSM4533,USD,other_indices,global_indices
+94,united states,NQ US Sml Cap Telecommunicati,NASDAQ US Sml Cap Telecommunicati,NQUSS6000,USD,other_indices,global_indices
+95,united states,NQ US Small Cap Travel & Tourism,NASDAQ US Small Cap Travel & Tourism,NQUSS5759,USD,other_indices,global_indices
+96,united states,NQ US Small Cap Restaurants & Bars,NASDAQ US Small Cap Restaurants & Bars,NQUSS5757,USD,other_indices,global_indices
+97,united states,NQ US Small Cap Recreational Services,NASDAQ US Small Cap Recreational Services,NQUSS5755,USD,other_indices,global_indices
+98,united states,NQ US Small Cap Hotels,NASDAQ US Small Cap Hotels,NQUSS5753,USD,other_indices,global_indices
+99,united states,NQ US Small Cap Gambling,NASDAQ US Small Cap Gambling,NQUSS5752,USD,other_indices,global_indices
+100,united states,NQ US Small Cap Airlines,NASDAQ US Small Cap Airlines,NQUSS5751,USD,other_indices,global_indices
+101,united states,NQ US Sml Cap Travel & Leisure,NASDAQ US Sml Cap Travel & Leisure,NQUSS5700,USD,other_indices,global_indices
+102,united states,NQ US Small Cap Publishing,NASDAQ US Small Cap Publishing,NQUSS5557,USD,other_indices,global_indices
+103,united states,NQ US Small Cap Media Agencies,NASDAQ US Small Cap Media Agencies,NQUSS5555,USD,other_indices,global_indices
+104,united states,NQ US Small Cap Broadcasting & Entertainment,NASDAQ US Small Cap Broadcasting & Entertainment,NQUSS5553,USD,other_indices,global_indices
+105,united states,NQ US Small Cap Media,NASDAQ US Small Cap Media,NQUSS5500,USD,other_indices,global_indices
+106,united states,NQ US Small Cap Specialty Retailers,NASDAQ US Small Cap Specialty Retailers,NQUSS5379,USD,other_indices,global_indices
+107,united states,NQ US Small Cap Specialized Consumer Services,NASDAQ US Small Cap Specialized Consumer Services,NQUSS5377,USD,other_indices,global_indices
+108,united states,NQ US Small Cap Clothing & Accessories,NASDAQ US Small Cap Clothing & Accessories,NQUSS3763,USD,other_indices,global_indices
+109,united states,NQ US Small Cap Personal Goods,NASDAQ US Small Cap Personal Goods,NQUSS3760,USD,other_indices,global_indices
+110,united states,NQ US Small Cap Toys,NASDAQ US Small Cap Toys,NQUSS3747,USD,other_indices,global_indices
+111,united states,NQ US Small Cap Recreational Products,NASDAQ US Small Cap Recreational Products,NQUSS3745,USD,other_indices,global_indices
+112,united states,NQ US Small Cap Trucking,NASDAQ US Small Cap Trucking,NQUSS2779,USD,other_indices,global_indices
+113,united states,NQ US Small Cap Transportation Services,NASDAQ US Small Cap Transportation Services,NQUSS2777,USD,other_indices,global_indices
+114,united states,NQ US Small Cap Industrial Transportation,NASDAQ US Small Cap Industrial Transportation,NQUSS2770,USD,other_indices,global_indices
+115,united states,NQ US Small Cap Industrial Machinery,NASDAQ US Small Cap Industrial Machinery,NQUSS2757,USD,other_indices,global_indices
+116,united states,NQ US Small Cap Commercial Vehicles & Trucks,NASDAQ US Small Cap Commercial Vehicles & Trucks,NQUSS2753,USD,other_indices,global_indices
+117,united states,NQ US Small Cap Industrial Engineering,NASDAQ US Small Cap Industrial Engineering,NQUSS2750,USD,other_indices,global_indices
+118,united states,NQ US Small Cap Electronic Equipment,NASDAQ US Small Cap Electronic Equipment,NQUSS2737,USD,other_indices,global_indices
+119,united states,NQ US Small Cap Electrical Components & Equipment,NASDAQ US Small Cap Electrical Components & Equipment,NQUSS2733,USD,other_indices,global_indices
+120,united states,NQ US Small Cap Electronic & Electrical Equipment,NASDAQ US Small Cap Electronic & Electrical Equipment,NQUSS2730,USD,other_indices,global_indices
+121,united states,NQ US Small Cap Containers & Packaging,NASDAQ US Small Cap Containers & Packaging,NQUSS2723,USD,other_indices,global_indices
+122,united states,NQ US Small Cap General Industrials,NASDAQ US Small Cap General Industrials,NQUSS2720,USD,other_indices,global_indices
+123,united states,NQ US Small Cap Defense,NASDAQ US Small Cap Defense,NQUSS2717,USD,other_indices,global_indices
+124,united states,NQ US Small Cap Aerospace,NASDAQ US Small Cap Aerospace,NQUSS2713,USD,other_indices,global_indices
+125,united states,NQ US Small Cap Aerospace & Defense,NASDAQ US Small Cap Aerospace & Defense,NQUSS2710,USD,other_indices,global_indices
+126,united states,NQ US Small Cap Industrial G&S,NASDAQ US Small Cap Industrial G&S,NQUSS2700,USD,other_indices,global_indices
+127,united states,NQ US Small Cap Support Services,NASDAQ US Small Cap Support Services,NQUSS2790,USD,other_indices,global_indices
+128,united states,NQ US Sml Cap Construct & Mtrl,NASDAQ US Sml Cap Construct & Mtrl,NQUSS2300,USD,other_indices,global_indices
+129,united states,NQ US Small Cap Business Support Services,NASDAQ US Small Cap Business Support Services,NQUSS2791,USD,other_indices,global_indices
+130,united states,NQ US Small Cap Financial Administration,NASDAQ US Small Cap Financial Administration,NQUSS2795,USD,other_indices,global_indices
+131,united states,NQ US Small Cap Consumer Electronics,NASDAQ US Small Cap Consumer Electronics,NQUSS3743,USD,other_indices,global_indices
+132,united states,NQ US Small Cap Leisure Goods,NASDAQ US Small Cap Leisure Goods,NQUSS3740,USD,other_indices,global_indices
+133,united states,NQ US Small Cap Furnishings,NASDAQ US Small Cap Furnishings,NQUSS3726,USD,other_indices,global_indices
+134,united states,NQ US Small Cap Nondurable Household Products,NASDAQ US Small Cap Nondurable Household Products,NQUSS3724,USD,other_indices,global_indices
+135,united states,NQ US Small Cap Durable Household Products,NASDAQ US Small Cap Durable Household Products,NQUSS3722,USD,other_indices,global_indices
+136,united states,NQ US Small Cap Personal & Household Goods,NASDAQ US Small Cap Personal & Household Goods,NQUSS3700,USD,other_indices,global_indices
+137,united states,NQ US Small Cap Food Products,NASDAQ US Small Cap Food Products,NQUSS3577,USD,other_indices,global_indices
+138,united states,NQ US Small Cap Food Producers,NASDAQ US Small Cap Food Producers,NQUSS3570,USD,other_indices,global_indices
+139,united states,NQ US Small Cap Beverages,NASDAQ US Small Cap Beverages,NQUSS3530,USD,other_indices,global_indices
+140,united states,NQ US Small Cap Food & Beverage,NASDAQ US Small Cap Food & Beverage,NQUSS3500,USD,other_indices,global_indices
+141,united states,NQ US Small Cap Auto Parts,NASDAQ US Small Cap Auto Parts,NQUSS3355,USD,other_indices,global_indices
+142,united states,NQ US Small Cap Automobiles & Parts,NASDAQ US Small Cap Automobiles & Parts,NQUSS3300,USD,other_indices,global_indices
+143,united states,NQ US Small Cap Consumer Goods,NASDAQ US Small Cap Consumer Goods,NQUSS3000,USD,other_indices,global_indices
+144,united states,NQ US Small Cap Waste & Disposal Services,NASDAQ US Small Cap Waste & Disposal Services,NQUSS2799,USD,other_indices,global_indices
+145,united states,NQ US Small Cap Industrial Suppliers,NASDAQ US Small Cap Industrial Suppliers,NQUSS2797,USD,other_indices,global_indices
+146,united states,NQ US Small Cap Business Training & Employment Age,NASDAQ US Small Cap Business Training & Employment Agencies,NQUSS2793,USD,other_indices,global_indices
+147,united states,NQ US Mid Cap Health Care Equipment & Services,NASDAQ US Mid Cap Health Care Equipment & Services,NQUSM4530,USD,other_indices,global_indices
+148,united states,NQ US Large Cap Industrial Machinery,NASDAQ US Large Cap Industrial Machinery,NQUSL2757,USD,other_indices,global_indices
+149,united states,NQ US Mid Cap Clothing and Accessories,NASDAQ US Mid Cap Clothing and Accessories,NQUSM3763,USD,other_indices,global_indices
+150,united states,NQ US Large Cap Consumer Goods,NASDAQ US Large Cap Consumer Goods,NQUSL3000,USD,other_indices,global_indices
+151,united states,NQ US Large Cap Financial Administration,NASDAQ US Large Cap Financial Administration,NQUSL2795,USD,other_indices,global_indices
+152,united states,NQ US Large Cap Business Support Services,NASDAQ US Large Cap Business Support Services,NQUSL2791,USD,other_indices,global_indices
+153,united states,NQ US Large Cap Support Services,NASDAQ US Large Cap Support Services,NQUSL2790,USD,other_indices,global_indices
+154,united states,NQ US Large Cap Industrial Transportation,NASDAQ US Large Cap Industrial Transportation,NQUSL2770,USD,other_indices,global_indices
+155,united states,NQ US Small Cap Fixed Line Telecommunications,NASDAQ US Small Cap Fixed Line Telecommunications,NQUSS6530,USD,other_indices,global_indices
+156,united states,NQ US Large Cap Automobiles & Parts,NASDAQ US Large Cap Automobiles & Parts,NQUSL3300,USD,other_indices,global_indices
+157,united states,NQ US Large Cap Commercial Vehicles & Trucks,NASDAQ US Large Cap Commercial Vehicles & Trucks,NQUSL2753,USD,other_indices,global_indices
+158,united states,NQ US Large Cap Electronic Equipment,NASDAQ US Large Cap Electronic Equipment,NQUSL2737,USD,other_indices,global_indices
+159,united states,NQ US Large Cap Electronic & Electrical Equipment,NASDAQ US Large Cap Electronic & Electrical Equipment,NQUSL2730,USD,other_indices,global_indices
+160,united states,NQ US Large Cap Diversified Industrials,NASDAQ US Large Cap Diversified Industrials,NQUSL2727,USD,other_indices,global_indices
+161,united states,NQ US Large Cap General Industrials,NASDAQ US Large Cap General Industrials,NQUSL2720,USD,other_indices,global_indices
+162,united states,NQ US Large Cap Defense,NASDAQ US Large Cap Defense,NQUSL2717,USD,other_indices,global_indices
+163,united states,NQ US Large Cap Aerospace,NASDAQ US Large Cap Aerospace,NQUSL2713,USD,other_indices,global_indices
+164,united states,NQ US Large Cap Industrial Engineering,NASDAQ US Large Cap Industrial Engineering,NQUSL2750,USD,other_indices,global_indices
+165,united states,NQ US Large Cap Food & Beverage,NASDAQ US Large Cap Food & Beverage,NQUSL3500,USD,other_indices,global_indices
+166,united states,NQ US Large Cap Beverages,NASDAQ US Large Cap Beverages,NQUSL3530,USD,other_indices,global_indices
+167,united states,NQ US Large Cap Food Producers,NASDAQ US Large Cap Food Producers,NQUSL3570,USD,other_indices,global_indices
+168,united states,NQ US Large Cap Drug Retailers,NASDAQ US Large Cap Drug Retailers,NQUSL5333,USD,other_indices,global_indices
+169,united states,NQ US Large Cap Food & Drug Retailers,NASDAQ US Large Cap Food & Drug Retailers,NQUSL5330,USD,other_indices,global_indices
+170,united states,NQ US Large Cap Retail,NASDAQ US Large Cap Retail,NQUSL5300,USD,other_indices,global_indices
+171,united states,NQ US Large Cap Consumer Services,NASDAQ US Large Cap Consumer Services,NQUSL5000,USD,other_indices,global_indices
+172,united states,NQ US Large Cap Pharmaceuticals,NASDAQ US Large Cap Pharmaceuticals,NQUSL4577,USD,other_indices,global_indices
+173,united states,NQ US Large Cap Biotechnology,NASDAQ US Large Cap Biotechnology,NQUSL4573,USD,other_indices,global_indices
+174,united states,NQ US Large Cap Pharmaceuticals & Biotechnology,NASDAQ US Large Cap Pharmaceuticals & Biotechnology,NQUSL4570,USD,other_indices,global_indices
+175,united states,NQ US Large Cap Medical Supplies,NASDAQ US Large Cap Medical Supplies,NQUSL4537,USD,other_indices,global_indices
+176,united states,NQ US Large Cap Medical Equipment,NASDAQ US Large Cap Medical Equipment,NQUSL4535,USD,other_indices,global_indices
+177,united states,NQ US Large Cap Health Care Providers,NASDAQ US Large Cap Health Care Providers,NQUSL4533,USD,other_indices,global_indices
+178,united states,NQ US Large Cap Health Care Equipment & Services,NASDAQ US Large Cap Health Care Equipment & Services,NQUSL4530,USD,other_indices,global_indices
+179,united states,NQ US Large Cap Health Care,NASDAQ US Large Cap Health Care,NQUSL4000,USD,other_indices,global_indices
+180,united states,NQ US Large Cap Personal Goods,NASDAQ US Large Cap Personal Goods,NQUSL3760,USD,other_indices,global_indices
+181,united states,NQ US Large Cap Personal & Household Goods,NASDAQ US Large Cap Personal & Household Goods,NQUSL3700,USD,other_indices,global_indices
+182,united states,NQ US Large Cap Food Products,NASDAQ US Large Cap Food Products,NQUSL3577,USD,other_indices,global_indices
+183,united states,NQ US Large Cap Aerospace & Defense,NASDAQ US Large Cap Aerospace & Defense,NQUSL2710,USD,other_indices,global_indices
+184,united states,NQ US Large Cap Industrial G&S,NASDAQ US Large Cap Industrial G&S,NQUSL2700,USD,other_indices,global_indices
+185,united states,NQ US Large Cap Industrials,NASDAQ US Large Cap Industrials,NQUSL2000,USD,other_indices,global_indices
+186,united states,NQ US Large Cap Industrial Metals & Mining,NASDAQ US Large Cap Industrial Metals & Mining,NQUSL1750,USD,other_indices,global_indices
+187,united states,NQ US Benchmark Mortgage Finance,NASDAQ US Benchmark Mortgage Finance,NQUSB8779,USD,other_indices,global_indices
+188,united states,NQ US Benchmark Investment Services,NASDAQ US Benchmark Investment Services,NQUSB8777,USD,other_indices,global_indices
+189,united states,NQ US Benchmark Specialty Finance,NASDAQ US Benchmark Specialty Finance,NQUSB8775,USD,other_indices,global_indices
+190,united states,NQ US Benchmark Consumer Finance,NASDAQ US Benchmark Consumer Finance,NQUSB8773,USD,other_indices,global_indices
+191,united states,NQ US Benchmark Asset Managers,NASDAQ US Benchmark Asset Managers,NQUSB8771,USD,other_indices,global_indices
+192,united states,NQ US Benchmark Financial Services Sector,NASDAQ US Benchmark Financial Services Sector,NQUSB8770,USD,other_indices,global_indices
+193,united states,NQ US Benchmark Hotel & Lodging REITs,NASDAQ US Benchmark Hotel & Lodging REITs,NQUSB8677,USD,other_indices,global_indices
+194,united states,NQ US Benchmark Mortgage REITs,NASDAQ US Benchmark Mortgage REITs,NQUSB8676,USD,other_indices,global_indices
+195,united states,NQ US Benchmark Specialty REITs,NASDAQ US Benchmark Specialty REITs,NQUSB8675,USD,other_indices,global_indices
+196,united states,NQ US Benchmark Diversified REITs,NASDAQ US Benchmark Diversified REITs,NQUSB8674,USD,other_indices,global_indices
+197,united states,NQ US Benchmark Residential REITs,NASDAQ US Benchmark Residential REITs,NQUSB8673,USD,other_indices,global_indices
+198,united states,NQ US Benchmark Retail REITs,NASDAQ US Benchmark Retail REITs,NQUSB8672,USD,other_indices,global_indices
+199,united states,NQ US Benchmark Industrial & Office REITs,NASDAQ US Benchmark Industrial & Office REITs,NQUSB8671,USD,other_indices,global_indices
+200,united states,NQ US Benchmark Real Estate Investment Trusts,NASDAQ US Benchmark Real Estate Investment Trusts,NQUSB8670,USD,other_indices,global_indices
+201,united states,NQ US Benchmark Real Estate Services,NASDAQ US Benchmark Real Estate Services,NQUSB8637,USD,other_indices,global_indices
+202,united states,NQ US Benchmark Software & Computer Services,NASDAQ US Benchmark Software & Computer Services,NQUSB9530,USD,other_indices,global_indices
+203,united states,NQ US Large Cap General Retailers,NASDAQ US Large Cap General Retailers,NQUSL5370,USD,other_indices,global_indices
+204,united states,NQ US Benchmark Computer Services,NASDAQ US Benchmark Computer Services,NQUSB9533,USD,other_indices,global_indices
+205,united states,NQ US Benchmark Software,NASDAQ US Benchmark Software,NQUSB9537,USD,other_indices,global_indices
+206,united states,NQ US Large Cap Basic Resources,NASDAQ US Large Cap Basic Resources,NQUSL1700,USD,other_indices,global_indices
+207,united states,NQ US Large Cap Specialty Chemicals,NASDAQ US Large Cap Specialty Chemicals,NQUSL1357,USD,other_indices,global_indices
+208,united states,NQ US Large Cap Commodity Chemicals,NASDAQ US Large Cap Commodity Chemicals,NQUSL1353,USD,other_indices,global_indices
+209,united states,NQ US Large Cap Chemicals,NASDAQ US Large Cap Chemicals,NQUSL1300,USD,other_indices,global_indices
+210,united states,NQ US Large Cap Basic Materials,NASDAQ US Large Cap Basic Materials,NQUSL1000,USD,other_indices,global_indices
+211,united states,NQ US Large Cap Oil Equipment & Services,NASDAQ US Large Cap Oil Equipment & Services,NQUSL0573,USD,other_indices,global_indices
+212,united states,NQ US Large Cap Integrated Oil & Gas,NASDAQ US Large Cap Integrated Oil & Gas,NQUSL0537,USD,other_indices,global_indices
+213,united states,NQ US Large Cap Exploration & Production,NASDAQ US Large Cap Exploration & Production,NQUSL0533,USD,other_indices,global_indices
+214,united states,NQ US Large Cap Oil & Gas Producers,NASDAQ US Large Cap Oil & Gas Producers,NQUSL0530,USD,other_indices,global_indices
+215,united states,NQ US Large Cap Oil & Gas,NASDAQ US Large Cap Oil & Gas,NQUSL0001,USD,other_indices,global_indices
+216,united states,NQ Chaikin Power US Small Cap,NASDAQ Chaikin Power US Small Cap,NQUSCHK,USD,other_indices,global_indices
+217,united states,NQ US Benchmark Telecommunications Equipment,NASDAQ US Benchmark Telecommunications Equipment,NQUSB9578,USD,other_indices,global_indices
+218,united states,NQ US Benchmark Semiconductors,NASDAQ US Benchmark Semiconductors,NQUSB9576,USD,other_indices,global_indices
+219,united states,NQ US Benchmark Computer Hardware,NASDAQ US Benchmark Computer Hardware,NQUSB9572,USD,other_indices,global_indices
+220,united states,NQ US Benchmark Technology Hardware & Equipment,NASDAQ US Benchmark Technology Hardware & Equipment,NQUSB9570,USD,other_indices,global_indices
+221,united states,NQ US Benchmark Internet,NASDAQ US Benchmark Internet,NQUSB9535,USD,other_indices,global_indices
+222,united states,NQ US Mid Cap Health Care,NASDAQ US Mid Cap Health Care,NQUSM4000,USD,other_indices,global_indices
+223,united states,NQ US Large Cap Apparel Retailers,NASDAQ US Large Cap Apparel Retailers,NQUSL5371,USD,other_indices,global_indices
+224,united states,NQ US Large Cap Specialty Retailers,NASDAQ US Large Cap Specialty Retailers,NQUSL5379,USD,other_indices,global_indices
+225,united states,NQ US Mid Cap Aerospace,NASDAQ US Mid Cap Aerospace,NQUSM2713,USD,other_indices,global_indices
+226,united states,NQ US Mid Cap Industrial G&S,NASDAQ US Mid Cap Industrial G&S,NQUSM2700,USD,other_indices,global_indices
+227,united states,NQ US Mid Cap Building Materials & Fixtures,NASDAQ US Mid Cap Building Materials & Fixtures,NQUSM2353,USD,other_indices,global_indices
+228,united states,NQ US Mid Cap Construct & Mater,NASDAQ US Mid Cap Construct & Mater,NQUSM2300,USD,other_indices,global_indices
+229,united states,NQ US Mid Cap Industrials,NASDAQ US Mid Cap Industrials,NQUSM2000,USD,other_indices,global_indices
+230,united states,NQ US Mid Cap Iron and Steel,NASDAQ US Mid Cap Iron and Steel,NQUSM1757,USD,other_indices,global_indices
+231,united states,NQ US Mid Cap General Industrials,NASDAQ US Mid Cap General Industrials,NQUSM2720,USD,other_indices,global_indices
+232,united states,NQ US Mid Cap Basic Resources,NASDAQ US Mid Cap Basic Resources,NQUSM1700,USD,other_indices,global_indices
+233,united states,NQ US Mid Cap Commodity Chemicals,NASDAQ US Mid Cap Commodity Chemicals,NQUSM1353,USD,other_indices,global_indices
+234,united states,NQ US Mid Cap Chemicals,NASDAQ US Mid Cap Chemicals,NQUSM1300,USD,other_indices,global_indices
+235,united states,NQ US Mid Cap Basic Materials,NASDAQ US Mid Cap Basic Materials,NQUSM1000,USD,other_indices,global_indices
+236,united states,NQ US Mid Cap Oil Equipment & Services,NASDAQ US Mid Cap Oil Equipment & Services,NQUSM0573,USD,other_indices,global_indices
+237,united states,NQ US Mid Cap Exploration & Production,NASDAQ US Mid Cap Exploration & Production,NQUSM0533,USD,other_indices,global_indices
+238,united states,NQ US Mid Cap Oil & Gas Producers,NASDAQ US Mid Cap Oil & Gas Producers,NQUSM0530,USD,other_indices,global_indices
+239,united states,NQ US Mid Cap Specialty Chemicals,NASDAQ US Mid Cap Specialty Chemicals,NQUSM1357,USD,other_indices,global_indices
+240,united states,NQ US Mid Cap Containers & Packaging,NASDAQ US Mid Cap Containers & Packaging,NQUSM2723,USD,other_indices,global_indices
+241,united states,NQ US Mid Cap Electronic & Electrical Equipment,NASDAQ US Mid Cap Electronic & Electrical Equipment,NQUSM2730,USD,other_indices,global_indices
+242,united states,NQ US Mid Cap Electrical Components & Equipment,NASDAQ US Mid Cap Electrical Components & Equipment,NQUSM2733,USD,other_indices,global_indices
+243,united states,NQ US Mid Cap Leisure Goods,NASDAQ US Mid Cap Leisure Goods,NQUSM3740,USD,other_indices,global_indices
+244,united states,NQ US Mid Cap Personal & Household Goods,NASDAQ US Mid Cap Personal & Household Goods,NQUSM3700,USD,other_indices,global_indices
+245,united states,NQ US Mid Cap Food Products,NASDAQ US Mid Cap Food Products,NQUSM3577,USD,other_indices,global_indices
+246,united states,NQ US Mid Cap Food Producers,NASDAQ US Mid Cap Food Producers,NQUSM3570,USD,other_indices,global_indices
+247,united states,NQ US Mid Cap Food & Beverage,NASDAQ US Mid Cap Food & Beverage,NQUSM3500,USD,other_indices,global_indices
+248,united states,NQ US Mid Cap Automobiles & Parts,NASDAQ US Mid Cap Automobiles & Parts,NQUSM3300,USD,other_indices,global_indices
+249,united states,NQ US Mid Cap Consumer Goods,NASDAQ US Mid Cap Consumer Goods,NQUSM3000,USD,other_indices,global_indices
+250,united states,NQ US Mid Cap Financial Administration,NASDAQ US Mid Cap Financial Administration,NQUSM2795,USD,other_indices,global_indices
+251,united states,NQ US Mid Cap Business Support Services,NASDAQ US Mid Cap Business Support Services,NQUSM2791,USD,other_indices,global_indices
+252,united states,NQ US Mid Cap Support Services,NASDAQ US Mid Cap Support Services,NQUSM2790,USD,other_indices,global_indices
+253,united states,NQ US Md Cap Ind Transportation,NASDAQ US Md Cap Ind Transportation,NQUSM2770,USD,other_indices,global_indices
+254,united states,NQ US Mid Cap Industrial Machinery,NASDAQ US Mid Cap Industrial Machinery,NQUSM2757,USD,other_indices,global_indices
+255,united states,NQ US Mid Cap Commercial Vehicles & Trucks,NASDAQ US Mid Cap Commercial Vehicles & Trucks,NQUSM2753,USD,other_indices,global_indices
+256,united states,NQ US Mid Cap Industrial Engineering,NASDAQ US Mid Cap Industrial Engineering,NQUSM2750,USD,other_indices,global_indices
+257,united states,NQ US Mid Cap Electronic Equipment,NASDAQ US Mid Cap Electronic Equipment,NQUSM2737,USD,other_indices,global_indices
+258,united states,NQ US Mid Cap Oil & Gas,NASDAQ US Mid Cap Oil & Gas,NQUSM0001,USD,other_indices,global_indices
+259,united states,NQ US Large Cap Value,NASDAQ US Large Cap Value,NQUSLV,USD,other_indices,global_indices
+260,united states,NQ US Large Cap Growth,NASDAQ US Large Cap Growth,NQUSLG,USD,other_indices,global_indices
+261,united states,NQ US Large Cap Telecommunications Equipment,NASDAQ US Large Cap Telecommunications Equipment,NQUSL9578,USD,other_indices,global_indices
+262,united states,NQ US Large Cap Nonlife Insurance,NASDAQ US Large Cap Nonlife Insurance,NQUSL8530,USD,other_indices,global_indices
+263,united states,NQ US Large Cap Insurance,NASDAQ US Large Cap Insurance,NQUSL8500,USD,other_indices,global_indices
+264,united states,NQ US Large Cap Banks,NASDAQ US Large Cap Banks,NQUSL8300,USD,other_indices,global_indices
+265,united states,NQ US Large Cap Financials,NASDAQ US Large Cap Financials,NQUSL8000,USD,other_indices,global_indices
+266,united states,NQ US Large Cap Multiutilities,NASDAQ US Large Cap Multiutilities,NQUSL7575,USD,other_indices,global_indices
+267,united states,"NQ US Large Cap Gas, Water & Multiutilities","NASDAQ US Large Cap Gas, Water & Multiutilities",NQUSL7570,USD,other_indices,global_indices
+268,united states,NQ US Large Cap Conventional Electricity,NASDAQ US Large Cap Conventional Electricity,NQUSL7535,USD,other_indices,global_indices
+269,united states,NQ US Large Cap Electricity,NASDAQ US Large Cap Electricity,NQUSL7530,USD,other_indices,global_indices
+270,united states,NQ US Large Cap Utilities,NASDAQ US Large Cap Utilities,NQUSL7000,USD,other_indices,global_indices
+271,united states,NQ US Large Cap Fixed Line Telecommunications,NASDAQ US Large Cap Fixed Line Telecommunications,NQUSL6530,USD,other_indices,global_indices
+272,united states,NQ US Large Cap Telecommunications,NASDAQ US Large Cap Telecommunications,NQUSL6000,USD,other_indices,global_indices
+273,united states,NQ US Large Cap Restaurants & Bars,NASDAQ US Large Cap Restaurants & Bars,NQUSL5757,USD,other_indices,global_indices
+274,united states,NQ US Large Cap Travel& Leisure,NASDAQ US Large Cap Travel& Leisure,NQUSL5700,USD,other_indices,global_indices
+275,united states,NQ US Large Cap Broadcasting & Entertainment,NASDAQ US Large Cap Broadcasting & Entertainment,NQUSL5553,USD,other_indices,global_indices
+276,united states,NQ US Large Cap Media,NASDAQ US Large Cap Media,NQUSL5500,USD,other_indices,global_indices
+277,united states,NQ US Large Cap Property & Casualty Insurance,NASDAQ US Large Cap Property & Casualty Insurance,NQUSL8536,USD,other_indices,global_indices
+278,united states,NQ US Large Cap Broadline Retailers,NASDAQ US Large Cap Broadline Retailers,NQUSL5373,USD,other_indices,global_indices
+279,united states,NQ US Large Cap Life Insurance,NASDAQ US Large Cap Life Insurance,NQUSL8570,USD,other_indices,global_indices
+280,united states,NQ US Large Cap Real Estate Investment Trusts,NASDAQ US Large Cap Real Estate Investment Trusts,NQUSL8670,USD,other_indices,global_indices
+281,united states,NQ US Large Cap Semiconductors,NASDAQ US Large Cap Semiconductors,NQUSL9576,USD,other_indices,global_indices
+282,united states,NQ US Large Cap Computer Hardware,NASDAQ US Large Cap Computer Hardware,NQUSL9572,USD,other_indices,global_indices
+283,united states,NQ US Large Cap Technology Hardware & Equipment,NASDAQ US Large Cap Technology Hardware & Equipment,NQUSL9570,USD,other_indices,global_indices
+284,united states,NQ US Large Cap Software,NASDAQ US Large Cap Software,NQUSL9537,USD,other_indices,global_indices
+285,united states,NQ US Large Cap Computer Services,NASDAQ US Large Cap Computer Services,NQUSL9533,USD,other_indices,global_indices
+286,united states,NQ US Large Cap Software & Computer Services,NASDAQ US Large Cap Software & Computer Services,NQUSL9530,USD,other_indices,global_indices
+287,united states,NQ US Large Cap Technology,NASDAQ US Large Cap Technology,NQUSL9000,USD,other_indices,global_indices
+288,united states,NQ US Large Cap Investment Services,NASDAQ US Large Cap Investment Services,NQUSL8777,USD,other_indices,global_indices
+289,united states,NQ US Large Cap Consumer Finance,NASDAQ US Large Cap Consumer Finance,NQUSL8773,USD,other_indices,global_indices
+290,united states,NQ US Large Cap Asset Managers,NASDAQ US Large Cap Asset Managers,NQUSL8771,USD,other_indices,global_indices
+291,united states,NQ US Large Cap Financial Services Sector,NASDAQ US Large Cap Financial Services Sector,NQUSL8770,USD,other_indices,global_indices
+292,united states,NQ US Lr Cap Financial Services,NASDAQ US Lr Cap Financial Services,NQUSL8700,USD,other_indices,global_indices
+293,united states,NQ US Large Cap Specialty REITs,NASDAQ US Large Cap Specialty REITs,NQUSL8675,USD,other_indices,global_indices
+294,united states,NQ US Large Cap Retail REITs,NASDAQ US Large Cap Retail REITs,NQUSL8672,USD,other_indices,global_indices
+295,united states,NQ US Large Cap Industrial and Office REITs,NASDAQ US Large Cap Industrial and Office REITs,NQUSL8671,USD,other_indices,global_indices
+296,united states,NQ US Large Cap Real Estate,NASDAQ US Large Cap Real Estate,NQUSL8600,USD,other_indices,global_indices
+297,united states,NQ US Small Cap Mobile Telecommunications,NASDAQ US Small Cap Mobile Telecommunications,NQUSS6570,USD,other_indices,global_indices
+298,united states,Low Volatility Short Only TR,FTSE US Risk Premium Series: Low Volatility Short Only TR,TRIFTUSVSUT,USD,other_indices,global_indices
+299,united states,NQ US Small Cap Electricity,NASDAQ US Small Cap Electricity,NQUSS7530,USD,other_indices,global_indices
+300,united states,DJ Asset Managers,Dow Jones Asset Managers,DJUSAG,USD,other_indices,world_indices
+301,united states,DJ Auto Parts Makers,Dow Jones Auto Parts Makers,DJUSAT,USD,other_indices,world_indices
+302,united states,DJ Automobiles,Dow Jones Automobiles,DJUSAU,USD,other_indices,world_indices
+303,united states,DJ Automobiles & Parts,Dow Jones Automobiles & Parts,DJUSAP,USD,other_indices,world_indices
+304,united states,DJ Banks,Dow Jones Banks,DJUSBK,USD,other_indices,world_indices
+305,united states,DJ Basic Resources,Dow Jones Basic Resources,DJUSBS,USD,other_indices,world_indices
+306,united states,DJ Apparel Retailers,Dow Jones Apparel Retailers,DJUSRA,USD,other_indices,world_indices
+307,united states,DJ Beverages,Dow Jones Beverages,DJUSBV,USD,other_indices,world_indices
+308,united states,DJ Brewers,Dow Jones Brewers,DJUSDB,USD,other_indices,world_indices
+309,united states,DJ Broadcasting & Entertainment,Dow Jones Broadcasting & Entertainment,DJUSBC,USD,other_indices,world_indices
+310,united states,DJ Broadline Retailers,Dow Jones Broadline Retailers,DJUSRB,USD,other_indices,world_indices
+311,united states,DJ Building Materials & Fixtures,Dow Jones Building Materials & Fixtures,DJUSBD,USD,other_indices,world_indices
+312,united states,DJ Business Support Services,Dow Jones Business Support Services,DJUSIV,USD,other_indices,world_indices
+313,united states,DJ Business Training & Employment Agencies,Dow Jones Business Training & Employment Agencies,DJUSBE,USD,other_indices,world_indices
+314,united states,DJ Biotechnology,Dow Jones Biotechnology,DJUSBT,USD,other_indices,world_indices
+315,united states,DJ Aluminum,Dow Jones Aluminum,DJUSAL,USD,other_indices,world_indices
+316,united states,DJ Airlines,Dow Jones Airlines,DJUSAR,USD,other_indices,world_indices
+317,united states,DJ Aerospace & Defense,Dow Jones Aerospace & Defense,DJUSAE,USD,other_indices,world_indices
+318,united states,ARCA Mini-Natural Gas,ARCA Mini-Natural Gas,MNG,USD,other_indices,world_indices
+319,united states,ARCA Mini-Oil,ARCA Mini-Oil,BZJ,USD,other_indices,world_indices
+320,united states,ARCA Mini-Pharmaceutical,ARCA Mini-Pharmaceutical,KBK,USD,other_indices,world_indices
+321,united states,ARCA Mini-Securities,ARCA Mini-Securities Broker/Dealer,JBV,USD,other_indices,world_indices
+322,united states,ARCA Natural Gas,ARCA Natural Gas,XNG,USD,other_indices,world_indices
+323,united states,ARCA Networking,ARCA Networking,NWX,USD,other_indices,world_indices
+324,united states,ARCA North American Telecommunications,ARCA North American Telecommunications,XTC,USD,other_indices,world_indices
+325,united states,ARCA Oil,ARCA Oil,XOI,USD,other_indices,world_indices
+326,united states,ARCA Pharmaceutical,ARCA Pharmaceutical,DRG,USD,other_indices,world_indices
+327,united states,ARCA Securities Broker,ARCA Securities Broker,XBD,USD,other_indices,world_indices
+328,united states,ARCA Steel,ARCA Steel,STTL,USD,other_indices,world_indices
+329,united states,ARCA Technology 100,ARCA Technology 100,PSE,USD,other_indices,world_indices
+330,united states,ARCA Telecom,ARCA Telecommunications,PHN,USD,other_indices,world_indices
+331,united states,ARCA Tobacco,ARCA Tobacco,TOB,USD,other_indices,world_indices
+332,united states,DJ Aerospace,Dow Jones Aerospace,DJUSAS,USD,other_indices,world_indices
+333,united states,DJ Chemicals,Dow Jones Chemicals,DJUSCH,USD,other_indices,world_indices
+334,united states,DJ Clothing & Accessories,Dow Jones Clothing & Accessories,DJUSCF,USD,other_indices,world_indices
+335,united states,DJ Coal,Dow Jones Coal,DJUSCL,USD,other_indices,world_indices
+336,united states,DJ Commercial Vehicles & Trucks,Dow Jones Commercial Vehicles & Trucks,DJUSHR,USD,other_indices,world_indices
+337,united states,DJ Equity All REIT,Dow Jones Equity All REIT,REI,USD,other_indices,world_indices
+338,united states,DJ Exploration & Production,Dow Jones Exploration & Production,DJUSOS,USD,other_indices,world_indices
+339,united states,DJ Financial Administration,Dow Jones Financial Administration,DJUSFA,USD,other_indices,world_indices
+340,united states,DJ Financial Services,Dow Jones Financial Services,DJUSFI,USD,other_indices,world_indices
+341,united states,DJ Financial Services,Dow Jones Financial Services,DJUSGF,USD,other_indices,world_indices
+342,united states,DJ Financial Services Composite,Dow Jones Financial Services Composite,DJUSFV,USD,other_indices,world_indices
+343,united states,DJ Food & Beverage Makers,Dow Jones Food & Beverage Makers,DJUSFB,USD,other_indices,world_indices
+344,united states,DJ Food & Drug Retailers,Dow Jones Food & Drug Retailers,DJUSDR,USD,other_indices,world_indices
+345,united states,DJ Food Producers,Dow Jones Food Producers,DJUSFO,USD,other_indices,world_indices
+346,united states,DJ Food Product Makers,Dow Jones Food Product Makers,DJUSFP,USD,other_indices,world_indices
+347,united states,DJ Food Retail & Wholesale,Dow Jones Food Retail & Wholesale,DJUSFD,USD,other_indices,world_indices
+348,united states,DJ Footwear,Dow Jones Footwear,DJUSFT,USD,other_indices,world_indices
+349,united states,DJ Forestry & Paper,Dow Jones Forestry & Paper,DJUSFR,USD,other_indices,world_indices
+350,united states,DJ Full Line Insurance,Dow Jones Full Line Insurance,DJUSIF,USD,other_indices,world_indices
+351,united states,DJ Furnishings,Dow Jones Furnishings,DJUSFH,USD,other_indices,world_indices
+352,united states,DJ Electronic Equipment,Dow Jones Electronic Equipment,DJUSAI,USD,other_indices,world_indices
+353,united states,ARCA Mini-Biotechnology,ARCA Mini-Biotechnology,BJE,USD,other_indices,world_indices
+354,united states,DJ Electronic & Electrical Equipment,Dow Jones Electronic & Electrical Equipment,DJUSEE,USD,other_indices,world_indices
+355,united states,DJ Electrical Components & Equipment,Dow Jones Electrical Components & Equipment,DJUSEC,USD,other_indices,world_indices
+356,united states,DJ Commodity Chemicals,Dow Jones Commodity Chemicals,DJUSCC,USD,other_indices,world_indices
+357,united states,DJ Composite,Dow Jones Composite All REIT,RCI,USD,other_indices,world_indices
+358,united states,DJ Computer Hardware,Dow Jones Computer Hardware,DJUSCR,USD,other_indices,world_indices
+359,united states,DJ Computer Services,Dow Jones Computer Services,DJUSDV,USD,other_indices,world_indices
+360,united states,DJ Construction & Materials,Dow Jones Construction & Materials,DJUSCN,USD,other_indices,world_indices
+361,united states,DJ Consumer Finance,Dow Jones Consumer Finance,DJUSSF,USD,other_indices,world_indices
+362,united states,DJ Containers & Packaging,Dow Jones Containers & Packaging,DJUSCP,USD,other_indices,world_indices
+363,united states,DJ Conventional Electricity,Dow Jones Conventional Electricity,DJUSVE,USD,other_indices,world_indices
+364,united states,DJ Defense,Dow Jones Defense,DJUSDN,USD,other_indices,world_indices
+365,united states,DJ Delivery Services,Dow Jones Delivery Services,DJUSAF,USD,other_indices,world_indices
+366,united states,DJ Distillers & Vintners,Dow Jones Distillers & Vintners,DJUSVN,USD,other_indices,world_indices
+367,united states,DJ Diversified Industrials,Dow Jones Diversified Industrials,DJUSID,USD,other_indices,world_indices
+368,united states,DJ Diversified REITs,Dow Jones Diversified REITs,DJUSDT,USD,other_indices,world_indices
+369,united states,DJ Drug Retailers,Dow Jones Drug Retailers,DJUSRD,USD,other_indices,world_indices
+370,united states,DJ Durable Household Products,Dow Jones Durable Household Products,DJUSHD,USD,other_indices,world_indices
+371,united states,DJ Electricity,Dow Jones Electricity,DJUSEU,USD,other_indices,world_indices
+372,united states,DJ Gambling,Dow Jones Gambling,DJUSCA,USD,other_indices,world_indices
+373,united states,ARCA Junior Gold BUGS,ARCA Junior Gold BUGS,JHUI,USD,other_indices,world_indices
+374,united states,ARCA Gold Miners,ARCA Gold Miners,GDM,USD,other_indices,world_indices
+375,united states,NQ Industrial,NASDAQ Industrial,IXID,USD,primary_sectors,world_indices
+376,united states,NQ Insurance,NASDAQ Insurance,IXIS,USD,primary_sectors,world_indices
+377,united states,NQ Internet,NASDAQ Internet,QNET,USD,primary_sectors,world_indices
+378,united states,NQ Other Finance,NASDAQ Other Finance,IXFN,USD,primary_sectors,world_indices
+379,united states,NQ Telecommunications,NASDAQ Telecommunications,IXUT,USD,primary_sectors,world_indices
+380,united states,NQ Transportation,NASDAQ Transportation,IXTR,USD,primary_sectors,world_indices
+381,united states,NASDAQ Health Care,NASDAQ Health Care,IXC,USD,primary_sectors,world_indices
+382,united states,NYSE Energy,NYSE Energy,NYE,USD,primary_sectors,world_indices
+383,united states,NYSE Healthcare,NYSE Healthcare,NYP,USD,primary_sectors,world_indices
+384,united states,NYSE TMT,NYSE TMT,NTM,USD,primary_sectors,world_indices
+385,united states,PHLX Semiconductor,Philadelphia Semiconductor Index,SOX,USD,primary_sectors,world_indices
+386,united states,Russell 1000 Financial Services,Russell 1000 Financial Services,R1RGSFS,USD,primary_sectors,world_indices
+387,united states,S&P 500 Consumer Discretionary,S&P 500 Consumer Discretionary,SPLRCD,USD,primary_sectors,world_indices
+388,united states,S&P 500 Consumer Staples,S&P 500 Consumer Staples,SPLRCS,USD,primary_sectors,world_indices
+389,united states,NYSE Financials,NYSE Financials,NYK,USD,primary_sectors,world_indices
+390,united states,NQ Financial 100,NASDAQ Financial 100,IXF,USD,primary_sectors,world_indices
+391,united states,NQ Computer,NASDAQ Computer,IXK,USD,primary_sectors,world_indices
+392,united states,NQ Biotechnology,NASDAQ Biotechnology,NBI,USD,primary_sectors,world_indices
+393,united states,Dow 30,Dow Jones Industrial Average,DJI,USD,major_indices,world_indices
+394,united states,Nasdaq 100,Nasdaq 100,NDX,USD,major_indices,world_indices
+395,united states,Nasdaq,NASDAQ Composite,IXIC,USD,major_indices,world_indices
+396,united states,S&P 500,S&P 500,SPX,USD,major_indices,world_indices
+397,united states,DJ Basic Materials,Dow Jones Basic Materials,DJUSBM,USD,primary_sectors,world_indices
+398,united states,DJ Consumer Goods,Dow Jones Consumer Goods,DJUSNC,USD,primary_sectors,world_indices
+399,united states,DJ Consumer Services,Dow Jones Consumer Services,DJUSCY,USD,primary_sectors,world_indices
+400,united states,DJ Financials,Dow Jones Financials,DJUSFN,USD,primary_sectors,world_indices
+401,united states,DJ Health Care,Dow Jones Health Care,DJUSHC,USD,primary_sectors,world_indices
+402,united states,DJ Industrials,Dow Jones Industrials,DJUSIN,USD,primary_sectors,world_indices
+403,united states,DJ Oil&Gas,Dow Jones Oil & Gas,DJUSEN,USD,primary_sectors,world_indices
+404,united states,DJ Technology,Dow Jones Technology,DJUSTC,USD,primary_sectors,world_indices
+405,united states,DJ Telecom,Dow Jones Telecommunications,DJUSTL,USD,primary_sectors,world_indices
+406,united states,DJ Utilities,Dow Jones Utilities,DJUSUT,USD,primary_sectors,world_indices
+407,united states,NQ Bank,NASDAQ Bank,IXBK,USD,primary_sectors,world_indices
+408,united states,S&P 500 Energy,S&P 500 Energy,SPNY,USD,primary_sectors,world_indices
+409,united states,S&P 500 Financials,S&P 500 Financials,SPSY,USD,primary_sectors,world_indices
+410,united states,S&P 500 Health Care,S&P 500 Health Care,SPXHC,USD,primary_sectors,world_indices
+411,united states,S&P 500 Industrials,S&P 500 Industrials,SPLRCI,USD,primary_sectors,world_indices
+412,united states,Braclays Capital Commodities,Braclays Capital Commodities,BCNYCXPT,USD,other_indices,world_indices
+413,united states,Canadian Crude Excess Return,Canadian Crude Excess Return,CCIER,USD,other_indices,world_indices
+414,united states,Canadian Crude Reference Price,Canadian Crude Reference Price,CDNCRUDE,USD,other_indices,world_indices
+415,united states,ISE Natural Gas TR,ISE Natural Gas TR,FUMTR,USD,other_indices,world_indices
+416,united states,ARCA Airline,ARCA Airline,XAL,USD,other_indices,world_indices
+417,united states,ARCA Biotechnology,ARCA Biotechnology,BTK,USD,other_indices,world_indices
+418,united states,ARCA Computer Hardware,ARCA Computer Hardware,HWI,USD,other_indices,world_indices
+419,united states,ARCA Computer Technology,ARCA Computer Technology,XCI,USD,other_indices,world_indices
+420,united states,ARCA Defense,ARCA Defense,DFII,USD,other_indices,world_indices
+421,united states,ARCA Disk Drive,ARCA Disk Drive,DDX,USD,other_indices,world_indices
+422,united states,ARCA Electric Power & Natural Gas Infrastructure,ARCA Electric Power & Natural Gas Infrastructure,RPE,USD,other_indices,world_indices
+423,united states,ARCA Environmental Svcs,ARCA Environmental Services,AXES,USD,other_indices,world_indices
+424,united states,ARCA Equal Weighted Pharmaceutical,ARCA Equal Weighted Pharmaceutical,DGE,USD,other_indices,world_indices
+425,united states,ARCA Global Airline,ARCA Global Airline,AXGAL,USD,other_indices,world_indices
+426,united states,ARCA Gold BUGS,ARCA Gold BUGS,HUI,USD,other_indices,world_indices
+427,united states,Bloomberg Corn Subindex TR,Bloomberg Corn Subindex Total Return,BCOMCNTR,USD,other_indices,world_indices
+428,united states,ARCA Institutional,ARCA Institutional,XII,USD,other_indices,world_indices
+429,united states,Bloomberg Brent Crude Subindex TR,Bloomberg Brent Crude Subindex Total Return,BCOMCOT,USD,other_indices,world_indices
+430,united states,10-year US Treasury VIX,CBOE/CBOT 10-year US Treasury Note Volatility,TYVIX,USD,other_indices,world_indices
+431,united states,S&P 500 Information Technology,S&P 500 Information Technology,SPLRCT,USD,primary_sectors,world_indices
+432,united states,S&P 500 Materials,S&P 500 Materials,SPLRCM,USD,primary_sectors,world_indices
+433,united states,S&P 500 Real Estate,S&P 500 Real Estate,SPLRCREC,USD,primary_sectors,world_indices
+434,united states,S&P 500 Telecom Services,S&P 500 Telecom Services,SPLRCL,USD,primary_sectors,world_indices
+435,united states,S&P 500 Utilities,S&P 500 Utilities,SPLRCU,USD,primary_sectors,world_indices
+436,united states,S&P 500 VIX,CBOE Volatility Index,VIX,USD,additional_indices,world_indices
+437,united states,DJ Composite,Dow Jones Composite,DJA,USD,additional_indices,world_indices
+438,united states,DJ Transportation,Dow Jones Transportation,DJT,USD,additional_indices,world_indices
+439,united states,DJ Utility,Dow Jones Utility,DJU,USD,additional_indices,world_indices
+440,united states,NYSE AMEX Composite,NYSE AMEX Composite,XAX,USD,additional_indices,world_indices
+441,united states,NYSE Composite,NYSE Composite,NYA,USD,additional_indices,world_indices
+442,united states,OTCM ADR,OTCM ADR,OTCDR,USD,additional_indices,world_indices
+443,united states,OTCM QX ADR 30,OTCM QX ADR 30,OTCQX30,USD,additional_indices,world_indices
+444,united states,S&P 100,S&P 100,OEX,USD,additional_indices,world_indices
+445,united states,SmallCap 2000,US SmallCap 2000,RUT,USD,additional_indices,world_indices
+446,united states,Barclays WTI Crude Oil Pure Beta TR,Barclays WTI Crude Oil Pure Beta TR,BCNYCLPT,USD,other_indices,world_indices
+447,united states,DJ Gas Distribution,Dow Jones Gas Distribution,DJUSGU,USD,other_indices,world_indices
+448,united states,DJ Gas Water & Multiutilities,Dow Jones Gas Water & Multiutilities,DJUSUO,USD,other_indices,world_indices
+449,united states,DJ General Industrials,Dow Jones General Industrials,DJUSGI,USD,other_indices,world_indices
+450,united states,FTSE USA Large Cap Super Liquid Net Of Tax,FTSE USA Large Cap Super Liquid Net Of Tax,FTFTUSLNU,USD,other_indices,global_indices
+451,united states,FTSE RAFI US Low Volatility,FTSE RAFI US Low Volatility,FTFRUSLVQ,USD,other_indices,global_indices
+452,united states,FTSE RAFI US 3000 QSR,FTSE RAFI US 3000 QSR,FTFR30Q,USD,other_indices,global_indices
+453,united states,FTSE RAFI US 1500 Mid Small QSR,FTSE RAFI US 1500 Mid Small QSR,FTFR15Q,USD,other_indices,global_indices
+454,united states,FTSE RAFI US 1000 QSR,FTSE RAFI US 1000 QSR,FTFR10Q,USD,other_indices,global_indices
+455,united states,FTSE EPRA/NAREIT US Dividend+,FTSE EPRA/NAREIT US Dividend+,FTENUD,USD,other_indices,global_indices
+456,united states,FTSE USA Super Liquid,FTSE USA Super Liquid,FTFTUSLU,USD,other_indices,global_indices
+457,united states,WisdomTree US Equity Income iNAV,WisdomTree US Equity Income iNAV,DHSEIV,EUR,other_indices,global_indices
+458,united states,NQ 100 Settlement,NASDAQ 100 Settlement,XQO,USD,other_indices,global_indices
+459,united states,NQ Composite Settlement,NASDAQ Composite Settlement,XCQ,USD,other_indices,global_indices
+460,united states,NQ Premarket,NASDAQ Premarket,QMI,USD,other_indices,global_indices
+461,united states,NQ After Market,NASDAQ After Market,QIV,USD,other_indices,global_indices
+462,united states,NQ US Small Cap Value,NASDAQ US Small Cap Value,NQUSSV,USD,other_indices,global_indices
+463,united states,NQ US Small Cap Growth,NASDAQ US Small Cap Growth,NQUSSG,USD,other_indices,global_indices
+464,united states,WisdomTree US SmallCap Dividend iNAV,WisdomTree US SmallCap Dividend iNAV,DESEEIV,EUR,other_indices,global_indices
+465,united states,FTSE Renaissance US IPO,FTSE Renaissance US IPO,FTIPOS,USD,other_indices,global_indices
+466,united states,FTSE Renaissance US IPO Investable,FTSE Renaissance US IPO Investable,FTIPOST,USD,other_indices,global_indices
+467,united states,FTSE USA Large Cap Super Liquid 2x Daily Leveraged,FTSE USA Large Cap Super Liquid 2x Daily Leveraged,FTSLQUSL2,USD,other_indices,global_indices
+468,united states,Stoxx USA 50  Daily EUR,Stoxx USA 50  Daily EUR,SUSODLEG,EUR,other_indices,global_indices
+469,united states,Stoxx USA 50 Daily EUR,Stoxx USA 50 Daily EUR,SUSDLEG,EUR,other_indices,global_indices
+470,united states,Stoxx USA 50 Daily 4 EUR,Stoxx USA 50 Daily 4 EUR,SUSDL4EG,EUR,other_indices,global_indices
+471,united states,Federal Funds Composite Interest Rate,Federal Funds Composite Interest Rate,USONFFE=,USD,other_indices,global_indices
+472,united states,MSCI US Small Gross,MSCI International United States Small Gross Real time,MIUS000S0GUS,USD,other_indices,global_indices
+473,united states,MSCI USA Quality GR,MSCI USA Quality Gross Return in currency,MIUS0000VGUS,USD,other_indices,global_indices
+474,united states,FTSE RAFI US 1000 Hedged In CAD,FTSE RAFI US 1000 Hedged In CAD,FTFR10CHC,CAD,other_indices,global_indices
+475,united states,DJ U.S. Select REIT TR,Dow Jones U.S. Select REIT Total Return,DWRTFT,USD,other_indices,global_indices
+476,united states,DJ U.S. Select Dividend TR,Dow Jones U.S. Select Dividend Total Return,DJDVY,USD,other_indices,global_indices
+477,united states,DJ U.S. Select Dividend Net TR,Dow Jones U.S. Select Dividend Net Total Return,DJDVN,USD,other_indices,global_indices
+478,united states,FTSE USA Large Cap Super Liquid 3x Daily Leveraged,FTSE USA Large Cap Super Liquid 3x Daily Leveraged,FTSLQUSL3,USD,other_indices,global_indices
+479,united states,FTSE USA Large Cap Super Liquid 3x Daily Short,FTSE USA Large Cap Super Liquid 3x Daily Short,FTSLQUSS3,USD,other_indices,global_indices
+480,united states,FTSE USA Large Cap Super Liquid 2x Daily Short,FTSE USA Large Cap Super Liquid 2x Daily Short,FTSLQUSS2,USD,other_indices,global_indices
+481,united states,FTSE USA Large Cap Super Liquid Daily Short,FTSE USA Large Cap Super Liquid Daily Short,FTSLQUSS1,USD,other_indices,global_indices
+482,united states,FTSE USA Large Cap Super Liquid 4x Daily Leveraged,FTSE USA Large Cap Super Liquid 4x Daily Leveraged,FTSLQUSL4,USD,other_indices,global_indices
+483,united states,NQ US Small Cap Telecommunications Equipment,NASDAQ US Small Cap Telecommunications Equipment,NQUSS9578,USD,other_indices,global_indices
+484,united states,NQ US Small Cap Semiconductors,NASDAQ US Small Cap Semiconductors,NQUSS9576,USD,other_indices,global_indices
+485,united states,NQ US Small Cap Computer Hardware,NASDAQ US Small Cap Computer Hardware,NQUSS9572,USD,other_indices,global_indices
+486,united states,NQ US Small Cap Technology Hardware & Equipment,NASDAQ US Small Cap Technology Hardware & Equipment,NQUSS9570,USD,other_indices,global_indices
+487,united states,NQ US Small Cap Real Estate Investment Trusts,NASDAQ US Small Cap Real Estate Investment Trusts,NQUSS8670,USD,other_indices,global_indices
+488,united states,NQ US Small Cap Real Estate Services,NASDAQ US Small Cap Real Estate Services,NQUSS8637,USD,other_indices,global_indices
+489,united states,NQ US Small Cap Real Estate Holding & Development,NASDAQ US Small Cap Real Estate Holding & Development,NQUSS8633,USD,other_indices,global_indices
+490,united states,NQ US Small Cap Real Estate Investment & Services,NASDAQ US Small Cap Real Estate Investment & Services,NQUSS8630,USD,other_indices,global_indices
+491,united states,NQ US Small Cap Real Estate,NASDAQ US Small Cap Real Estate,NQUSS8600,USD,other_indices,global_indices
+492,united states,NQ US Small Cap Life Insurance,NASDAQ US Small Cap Life Insurance,NQUSS8570,USD,other_indices,global_indices
+493,united states,NQ US Small Cap Reinsurance,NASDAQ US Small Cap Reinsurance,NQUSS8538,USD,other_indices,global_indices
+494,united states,NQ US Small Cap Property & Casualty Insurance,NASDAQ US Small Cap Property & Casualty Insurance,NQUSS8536,USD,other_indices,global_indices
+495,united states,NQ US Small Cap Nonlife Insurance,NASDAQ US Small Cap Nonlife Insurance,NQUSS8530,USD,other_indices,global_indices
+496,united states,NQ US Small Cap Insurance,NASDAQ US Small Cap Insurance,NQUSS8500,USD,other_indices,global_indices
+497,united states,NQ US Small Cap Banks,NASDAQ US Small Cap Banks,NQUSS8300,USD,other_indices,global_indices
+498,united states,NQ US Small Cap Financials,NASDAQ US Small Cap Financials,NQUSS8000,USD,other_indices,global_indices
+499,united states,NQ US Small Cap Water,NASDAQ US Small Cap Water,NQUSS7577,USD,other_indices,global_indices
+500,united states,"NQ US Small Cap Gas, Water & Multiutilities","NASDAQ US Small Cap Gas, Water & Multiutilities",NQUSS7570,USD,other_indices,global_indices
+501,united states,NQ US Small Cap Conventional Electricity,NASDAQ US Small Cap Conventional Electricity,NQUSS7535,USD,other_indices,global_indices
+502,united states,NQ US Small Cap Industrial & Office REITs,NASDAQ US Small Cap Industrial & Office REITs,NQUSS8671,USD,other_indices,global_indices
+503,united states,Stoxx USA 50 Risk 10% RV USD,Stoxx USA 50 Risk 10% RV USD,SUSR10DG,USD,other_indices,global_indices
+504,united states,NQ US Small Cap Retail REITs,NASDAQ US Small Cap Retail REITs,NQUSS8672,USD,other_indices,global_indices
+505,united states,NQ US Small Cap Diversified REITs,NASDAQ US Small Cap Diversified REITs,NQUSS8674,USD,other_indices,global_indices
+506,united states,NQ US Small Cap Software,NASDAQ US Small Cap Software,NQUSS9537,USD,other_indices,global_indices
+507,united states,NQ US Small Cap Internet,NASDAQ US Small Cap Internet,NQUSS9535,USD,other_indices,global_indices
+508,united states,NQ US Small Cap Computer Services,NASDAQ US Small Cap Computer Services,NQUSS9533,USD,other_indices,global_indices
+509,united states,NQ US Small Cap Software & Computer Services,NASDAQ US Small Cap Software & Computer Services,NQUSS9530,USD,other_indices,global_indices
+510,united states,NQ US Small Cap Technology,NASDAQ US Small Cap Technology,NQUSS9000,USD,other_indices,global_indices
+511,united states,NQ US Small Cap Mortgage Finance,NASDAQ US Small Cap Mortgage Finance,NQUSS8779,USD,other_indices,global_indices
+512,united states,NQ US Small Cap Investment Services,NASDAQ US Small Cap Investment Services,NQUSS8777,USD,other_indices,global_indices
+513,united states,NQ US Small Cap Specialty Finance,NASDAQ US Small Cap Specialty Finance,NQUSS8775,USD,other_indices,global_indices
+514,united states,NQ US Small Cap Consumer Finance,NASDAQ US Small Cap Consumer Finance,NQUSS8773,USD,other_indices,global_indices
+515,united states,NQ US Small Cap Asset Managers,NASDAQ US Small Cap Asset Managers,NQUSS8771,USD,other_indices,global_indices
+516,united states,NQ US Small Cap Financial Services Sector,NASDAQ US Small Cap Financial Services Sector,NQUSS8770,USD,other_indices,global_indices
+517,united states,NQ US Small Cap Financial Services,NASDAQ US Small Cap Financial Services,NQUSS8700,USD,other_indices,global_indices
+518,united states,NQ US Small Cap Hotel & Lodging REITs,NASDAQ US Small Cap Hotel & Lodging REITs,NQUSS8677,USD,other_indices,global_indices
+519,united states,NQ US Small Cap Mortgage REITs,NASDAQ US Small Cap Mortgage REITs,NQUSS8676,USD,other_indices,global_indices
+520,united states,NQ US Small Cap Specialty REITs,NASDAQ US Small Cap Specialty REITs,NQUSS8675,USD,other_indices,global_indices
+521,united states,NQ US Small Cap Residential REITs,NASDAQ US Small Cap Residential REITs,NQUSS8673,USD,other_indices,global_indices
+522,united states,Stoxx USA 50 Risk 10% RV EUR,Stoxx USA 50 Risk 10% RV EUR,SUSR10EG,EUR,other_indices,global_indices
+523,united states,Stoxx USA 50 Risk 15% RV USD,Stoxx USA 50 Risk 15% RV USD,SUSR15DG,USD,other_indices,global_indices
+524,united states,Stoxx USA 50 Risk 15% RV EUR,Stoxx USA 50 Risk 15% RV EUR,SUSR15EG,EUR,other_indices,global_indices
+525,united states,Merrill Lynch MOVE Index 1 Month,Merrill Lynch MOVE Index 1 Month,MERMOVE1M,USD,other_indices,global_indices
+526,united states,FTSE USA Core Infrastructure Capped Net Tax,FTSE USA Core Infrastructure Capped Net Tax,TRIFUCICN,USD,other_indices,global_indices
+527,united states,FTSE US Risk Premium Dividend Yield Short only TR,FTSE US Risk Premium Dividend Yield Short only TR,TFTFTUSDSUT,USD,other_indices,global_indices
+528,united states,FTSE US Risk Premium Dividend Yield Long only TR,FTSE US Risk Premium Dividend Yield Long only TR,TFTFTUSDLUT,USD,other_indices,global_indices
+529,united states,Forward Earnings Yield Short only TR,FTSE US Risk Premium Series: Forward Earnings Yield Short only TR,TRIFTUSPSUT,USD,other_indices,global_indices
+530,united states,Dividend Yield Long only TR,FTSE US Risk Premium Series: Dividend Yield Long only TR,TRIFTUSDLUT,USD,other_indices,global_indices
+531,united states,Seasonality Short only TR,FTSE US Risk Premium Series: Seasonality Short only TR,TRIFTUSNSUT,USD,other_indices,global_indices
+532,united states,FTSE US Risk Premium Dividend Yield Long only Pric,FTSE US Risk Premium Dividend Yield Long only Price Return,FTFTUSDLUT,USD,other_indices,global_indices
+533,united states,Cash flow Yield Long only Net Tax,FTSE US Risk Premium Series: Cash flow Yield Long only Net Tax,TRIFTUSFLUTN,USD,other_indices,global_indices
+534,united states,Low Volatility Long Only TR,FTSE US Risk Premium Series: Low Volatility Long Only TR,TRIFTUSVLUT,USD,other_indices,global_indices
+535,united states,Cash flow Yield short only TR,FTSE US Risk Premium Series: Cash flow Yield short only TR,TRIFTUSFSUT,USD,other_indices,global_indices
+536,united states,FTSE US Risk Premium Dividend Yield Short only Pri,FTSE US Risk Premium Dividend Yield Short only Price Return,FTFTUSDSUT,USD,other_indices,global_indices
+537,united states,Cash flow/Invested Capital short only TR,FTSE US Risk Premium Series: Cash flow/Invested Capital short only TR,TRIFTUSISUT,USD,other_indices,global_indices
+538,united states,Forward Dividend Yield Short only TR,FTSE US Risk Premium Series: Forward Dividend Yield Short only TR,TRIFTUSWSUT,USD,other_indices,global_indices
+539,united states,Scaled NOA Differential Long only TR,FTSE US Risk Premium Series: Scaled NOA Differential Long only TR,TRIFTUSALUT,USD,other_indices,global_indices
+540,united states,Merrill Lynch MOVE Index 3 Month,Merrill Lynch MOVE Index 3 Month,MERMOVE3M,USD,other_indices,global_indices
+541,united states,Cash flow/Invested Capital Trend long only TR,FTSE US Risk Premium Series: Cash flow/Invested Capital Trend long only TR,TRIFTUSYLUT,USD,other_indices,global_indices
+542,united states,Merrill Lynch MOVE Index 6 Month,Merrill Lynch MOVE Index 6 Month,MERMOVE6M,USD,other_indices,global_indices
+543,united states,DJ Industrial Suppliers,Dow Jones Industrial Suppliers,DJUSDS,USD,other_indices,world_indices
+544,united states,DJ General Retailers,Dow Jones General Retailers,DJUSGT,USD,other_indices,world_indices
+545,united states,DJ Gold Mining,Dow Jones Gold Mining,DJUSPM,USD,other_indices,world_indices
+546,united states,DJ Health Care Equipment & Services,Dow Jones Health Care Equipment & Services,DJUSMC,USD,other_indices,world_indices
+547,united states,DJ Health Care Providers,Dow Jones Health Care Providers,DJUSHP,USD,other_indices,world_indices
+548,united states,DJ Heavy Construction,Dow Jones Heavy Construction,DJUSHV,USD,other_indices,world_indices
+549,united states,DJ Home Construction,Dow Jones Home Construction,DJUSHB,USD,other_indices,world_indices
+550,united states,DJ Home Improvement Retailers,Dow Jones Home Improvement Retailers,DJUSHI,USD,other_indices,world_indices
+551,united states,DJ Hotel & Lodging REITs,Dow Jones Hotel & Lodging REITs,DJUSHL,USD,other_indices,world_indices
+552,united states,DJ Hotels,Dow Jones Hotels,DJUSLG,USD,other_indices,world_indices
+553,united states,DJ Household Goods & Home Construction,Dow Jones Household Goods & Home Construction,DJUSHG,USD,other_indices,world_indices
+554,united states,DJ Industrial & Office REITs,Dow Jones Industrial & Office REITs,DJUSIO,USD,other_indices,world_indices
+555,united states,DJ Industrial Engineering,Dow Jones Industrial Engineering,DJUSIQ,USD,other_indices,world_indices
+556,united states,DJ Industrial Goods & Services,Dow Jones Industrial Goods & Services,DJUSIG,USD,other_indices,world_indices
+557,united states,DJ Industrial Machinery,Dow Jones Industrial Machinery,DJUSFE,USD,other_indices,world_indices
+558,united states,DJ Industrial Metals & Mining,Dow Jones Industrial Metals & Mining,DJUSIM,USD,other_indices,world_indices
+559,united states,DJ Industrial Transportation,Dow Jones Industrial Transportation,DJUSIT,USD,other_indices,world_indices
+560,united states,NQ US Small Cap Utilities,NASDAQ US Small Cap Utilities,NQUSS7000,USD,other_indices,global_indices
+561,united states,Forward Dividend Yield Long only TR,FTSE US Risk Premium Series: Forward Dividend Yield Long only TR,TRIFTUSWLUT,USD,other_indices,global_indices
+562,united states,ROE short only TR,FTSE US Risk Premium Series: ROE short only TR,TRIFTUSESUT,USD,other_indices,global_indices
+563,united states,S&P Midcap 400 Growth Total Return,S&P Midcap 400 Growth Total Return,SPMGTR,USD,other_indices,global_indices
+564,united states,S&P 500 Growth Total Return,S&P 500 Growth Total Return,SPXGTR,USD,other_indices,global_indices
+565,united states,MSCI United States Broad Gross,MSCI International United States Broad Gross,MIUS000B0GUS,USD,other_indices,global_indices
+566,united states,S&P 500 Net TR,S&P 500 Net TR,SPXNTR,USD,other_indices,global_indices
+567,united states,CEMP US Small Cap 500 Vol Weighted TR,CEMP US Small Cap 500 Volatility Weighted TR,CEMPUSST,USD,other_indices,global_indices
+568,united states,CEMP US Small Cap 500 Vol Weighted,CEMP US Small Cap 500 Volatility Weighted,CEMPUSS,USD,other_indices,global_indices
+569,united states,CEMP US Large Cap 500 Vol Weighted TR,CEMP US Large Cap 500 Volatility Weighted TR,CEMPUSLT,USD,other_indices,global_indices
+570,united states,CEMP US Large Cap 500 Vol Weighted,CEMP US Large Cap 500 Volatility Weighted,CEMPUSL,USD,other_indices,global_indices
+571,united states,CEMP US Equity Hedge Vol Weighted TR,CEMP US Equity Hedge Volatility Weighted TR,CEMPUSHG,USD,other_indices,global_indices
+572,united states,CEMP US Large Cap High Dividend,CEMP US Large Cap High Dividend,CEMPULDT,USD,other_indices,global_indices
+573,united states,CEMP US Large Cap High Dividend 100 Vol Weighted,CEMP US Large Cap High Dividend 100 Volatility Weighted,CEMPULD,USD,other_indices,global_indices
+574,united states,Stoxx USA 50 Risk 5% RV EUR,Stoxx USA 50 Risk 5% RV EUR,SUSR5EG,EUR,other_indices,global_indices
+575,united states,Stoxx USA 50 Risk 5% RV USD,Stoxx USA 50 Risk 5% RV USD,SUSR5DG,USD,other_indices,global_indices
+576,united states,Stoxx USA 50 Risk 20% RV EUR,Stoxx USA 50 Risk 20% RV EUR,SUSR20EG,EUR,other_indices,global_indices
+577,united states,Stoxx USA 50 Risk 20% RV USD,Stoxx USA 50 Risk 20% RV USD,SUSR20DG,USD,other_indices,global_indices
+578,united states,S&P Midcap 400 Value Total Return,S&P Midcap 400 Value Total Return,SPMVTR,USD,other_indices,global_indices
+579,united states,Price Momentum long only TR,FTSE US Risk Premium Series: Price Momentum long only TR,TRIFTUSMLUT,USD,other_indices,global_indices
+580,united states,S&P SmallCap 600 Growth Total Return,S&P SmallCap 600 Growth Total Return,SPSGTR,USD,other_indices,global_indices
+581,united states,S&P 400 Total Return,S&P 400 Total Return,TR4GSPC,USD,other_indices,global_indices
+582,united states,Cash flow/Invested Capital Trend short only TR,FTSE US Risk Premium Series: Cash flow/Invested Capital Trend short only TR,TRIFTUSYSUT,USD,other_indices,global_indices
+583,united states,Cash flow Yield Long only TR,FTSE US Risk Premium Series: Cash flow Yield Long only TR,TRIFTUSFLUT,USD,other_indices,global_indices
+584,united states,Extended Price Momentum Long only TR,FTSE US Risk Premium Series: Extended Price Momentum Long only TR,TRIFTUSXLUT,USD,other_indices,global_indices
+585,united states,Size Long only TR,FTSE US Risk Premium Series: Size Long only TR,TRIFTUSZLUT,USD,other_indices,global_indices
+586,united states,Price Momentum short only TR,FTSE US Risk Premium Series: Price Momentum short only TR,TRIFTUSMSUT,USD,other_indices,global_indices
+587,united states,Cash flow/Invested Capital long only TR,FTSE US Risk Premium Series: Cash flow/Invested Capital long only TR,TRIFTUSILUT,USD,other_indices,global_indices
+588,united states,Scaled NOA Differential short only TR,FTSE US Risk Premium Series: Scaled NOA Differential short only TR,TRIFTUSASUT,USD,other_indices,global_indices
+589,united states,Dividend Yield Short only TR,FTSE US Risk Premium Series: Dividend Yield Short only TR,TRIFTUSDSUT,USD,other_indices,global_indices
+590,united states,NQ US Benchmark Real Estate Holding & Development,NASDAQ US Benchmark Real Estate Holding & Development,NQUSB8633,USD,other_indices,global_indices
+591,united states,Extended Price Momentum Short only TR,FTSE US Risk Premium Series: Extended Price Momentum Short only TR,TRIFTUSXSUT,USD,other_indices,global_indices
+592,united states,Size Short only TR,FTSE US Risk Premium Series: Size Short only TR,TRIFTUSZSUT,USD,other_indices,global_indices
+593,united states,Forward Earnings Yield Long only TR,FTSE US Risk Premium Series: Forward Earnings Yield Long only TR,TRIFTUSPLUT,USD,other_indices,global_indices
+594,united states,Seasonality Long only TR,FTSE US Risk Premium Series: Seasonality Long only TR,TRIFTUSNLUT,USD,other_indices,global_indices
+595,united states,ROE Long only TR,FTSE US Risk Premium Series: ROE Long only TR,TRIFTUSELUT,USD,other_indices,global_indices
+596,united states,LadderRite 0-10year USD Corporate Bond,LadderRite 0-10year USD Corporate Bond,LDRIG010,USD,other_indices,global_indices
+597,united states,S&P SmallCap 600 Value Total Return,S&P SmallCap 600 Value Total Return,SPSVTR,USD,other_indices,global_indices
+598,united states,NQ US Benchmark Real Estate Investment & Services,NASDAQ US Benchmark Real Estate Investment & Services,NQUSB8630,USD,other_indices,global_indices
+599,united states,MSCI US Gross,MSCI International United States Gross Real time,MIUS00000GUS,USD,other_indices,global_indices
+600,united states,NQ US Benchmark Reinsurance,NASDAQ US Benchmark Reinsurance,NQUSB8538,USD,other_indices,global_indices
+601,united states,CBOE Energy Sector Etf Volitlity,CBOE Energy Sector Etf Volitlity,VXXLE,USD,other_indices,world_indices
+602,united states,CBOE Equity VIX on Amazon,CBOE Equity VIX on Amazon,VXAZN,USD,other_indices,world_indices
+603,united states,CBOE Equity VIX on Apple,CBOE Equity VIX on Apple,VXAPL,USD,other_indices,world_indices
+604,united states,CBOE Equity VIX on Goldman Sachs,CBOE Equity VIX on Goldman Sachs,VXGS,USD,other_indices,world_indices
+605,united states,CBOE Equity VIX on Google,CBOE Equity VIX on Google,VXGOG,USD,other_indices,world_indices
+606,united states,Sabrient Global Balanced Income,Sabrient Global Balanced Income,SBRGBI,USD,other_indices,world_indices
+607,united states,Sabrient Global Balanced Growth,Sabrient Global Balanced Growth,SBRGBG,USD,other_indices,world_indices
+608,united states,S&P Smallcap 600 Value,S&P Smallcap 600 Value,CVK,USD,other_indices,world_indices
+609,united states,S&P SmallCap 600 Pure Value,S&P SmallCap 600 Pure Value,SPSPVX,USD,other_indices,world_indices
+610,united states,CBOE Emerging Markets Etf Volitlity,CBOE Emerging Markets Etf Volitlity,VXEEM,USD,other_indices,world_indices
+611,united states,S&P SmallCap 600 Pure Growth,S&P SmallCap 600 Pure Growth,SPSPGX,USD,other_indices,world_indices
+612,united states,S&P Midcap 400 Value,S&P Midcap 400 Value,MUV,USD,other_indices,world_indices
+613,united states,S&P MidCap 400 Pure Value,S&P MidCap 400 Pure Value,SPMPVX,USD,other_indices,world_indices
+614,united states,S&P MidCap 400 Pure Growth,S&P MidCap 400 Pure Growth,SPMPGX,USD,other_indices,world_indices
+615,united states,S&P Midcap 400 Growth,S&P Midcap 400 Growth,MGD,USD,other_indices,world_indices
+616,united states,S&P Midcap 400,S&P Midcap 400,MID,USD,other_indices,world_indices
+617,united states,S&P High Yield Dividend Aristocrats,S&P High Yield Dividend Aristocrats,SPHYDA,USD,other_indices,world_indices
+618,united states,S&P GSCI Natural Gas ER,S&P GSCI Natural Gas Index Excess Return,SPGSNGP,USD,other_indices,world_indices
+619,united states,S&P GSCI Crude Oil ER,S&P GSCI Crude Oil Index Excess Return,SPGSCLP,USD,other_indices,world_indices
+620,united states,SP GSCI 3Month Forward Capped Sector EW,S&P GSCI 3Month Forward Capped Sector Equal Weight,SG3MCE,USD,other_indices,world_indices
+621,united states,S&P Smallcap 600 Growth,S&P Smallcap 600 Growth,CKG,USD,other_indices,world_indices
+622,united states,S&P Goldman Sachs Commodity,S&P Goldman Sachs Commodity Index,SPGSCI,USD,other_indices,world_indices
+623,united states,CBOE Dyn Short Vix Fut,CBOE Dyn Short Vix Fut,DSVIX,USD,other_indices,world_indices
+624,united states,CBOE Crude Oil Volatility,CBOE Crude Oil Volatility,OVX,USD,other_indices,world_indices
+625,united states,ARCA Hong Kong Option,ARCA Hong Kong Option,HKO,USD,other_indices,world_indices
+626,united states,ARCA International Market,ARCA International Market,ADR,USD,other_indices,world_indices
+627,united states,ARCA Japan,ARCA Japan,JPN,USD,other_indices,world_indices
+628,united states,ARCA Major Markets,ARCA Major Markets,XMI,USD,other_indices,world_indices
+629,united states,ARCA Mexico,ARCA Mexico,MXY,USD,other_indices,world_indices
+630,united states,Total Return Fed Funds Investable,Total Return Fed Funds Investable,SGIXFFC,USD,other_indices,world_indices
+631,united states,Barron’s 400,Barron’s 400,B400,USD,other_indices,world_indices
+632,united states,Barron’s 400 TR,Barron’s 400 Total Return,B400T,USD,other_indices,world_indices
+633,united states,Gemini Bitcoin,The Gemini Bitcoin Trade Price,GXBT,USD,other_indices,world_indices
+634,united states,CBOE Dyn Long Vix Fut,CBOE Dyn Long Vix Fut,DLVIX,USD,other_indices,world_indices
+635,united states,Bitcoin Real-Time,Bitcoin Real-Time,BRTI,USD,other_indices,world_indices
+636,united states,SP500 VIX Futures Enhanced Roll TR,SP500 VIX Futures Enhanced Roll TR,SPVIXETR,USD,other_indices,world_indices
+637,united states,SmallCap 2000 NR,SmallCap 2000 NR,RUTNU,USD,other_indices,world_indices
+638,united states,CBOE Binary Options S&P 500,CBOE Binary Options S&P 500,BSZ,USD,other_indices,world_indices
+639,united states,CBOE Binary Options Volatility,CBOE Binary Options Volatility,BVZ,USD,other_indices,world_indices
+640,united states,SGI Smart WTI Long Invest,SGI Smart WTI Long Invest,SGIXWTIL,USD,other_indices,world_indices
+641,united states,CBOE Brazil Etf Volatility,CBOE Brazil Etf Volatility,VXEWZ,USD,other_indices,world_indices
+642,united states,CBOE Capped Vix Premium Strateg,CBOE Capped Vix Premium Strateg,VPN,USD,other_indices,world_indices
+643,united states,CBOE China Etf Volatility,CBOE China Etf Volatility,VXFXI,USD,other_indices,world_indices
+644,united states,CBOE Citigroup Bxm Pistons Net,CBOE Citigroup Bxm Pistons Net,PCJ,USD,other_indices,world_indices
+645,united states,Brent Oil x5 Leveraged,Brent Oil x5 Leveraged,SGIXBR5L,USD,other_indices,world_indices
+646,united states,S&P Composite 1500,S&P Composite 1500,SPSUPX,USD,other_indices,world_indices
+647,united states,S&P Completion,S&P Completion,SPCMI,USD,other_indices,world_indices
+648,united states,S&P 600 Small Cap,S&P 600 Small Cap,SPCY,USD,other_indices,world_indices
+649,united states,CBOE NASDAQ 100 Settle,CBOE NASDAQ 100 Settle,NDS,USD,other_indices,world_indices
+650,united states,SP 500 CAD Hdg TR,S&P 500 CAD Hdg Total Return,TRGSPCCH,CAD,other_indices,world_indices
+651,united states,SP 500 Buyback NTR,S&P 500 Buyback NTR,SPBUYUN,USD,other_indices,world_indices
+652,united states,S&P 1000,S&P 1000,SPMIDSM,USD,other_indices,world_indices
+653,united states,Russell Midcap TR,Russell Midcap Total Return,RUMTU,USD,other_indices,world_indices
+654,united states,Russell 3000 TR,Russell 3000 Total Return,RUATU,USD,other_indices,world_indices
+655,united states,Russell 1000,Russell 1000,RUI,USD,other_indices,world_indices
+656,united states,Reality Shares Drone PR,Reality Shares Drone PR,RSD,USD,other_indices,world_indices
+657,united states,Reality Shares Drone NTR,Reality Shares Drone NTR,RSDNTR,USD,other_indices,world_indices
+658,united states,CBOE Ms Strategic Total Return,CBOE Ms Strategic Total Return,BYB,USD,other_indices,world_indices
+659,united states,Reality Shares Drone GTR,Reality Shares Drone GTR,RSDTR,USD,other_indices,world_indices
+660,united states,PHLX Euro,PHLX Euro,XDE,USD,other_indices,world_indices
+661,united states,PHLX Canadian Dollar,PHLX Canadian Dollar,XDC,USD,other_indices,world_indices
+662,united states,PHLX Australian Dollar,PHLX Australian Dollar,XDA,USD,other_indices,world_indices
+663,united states,Philadelphia Gold/Silver,Philadelphia Gold/Silver,XAU,USD,other_indices,world_indices
+664,united states,OTCM ADR TR,OTCM ADR TR,OTCDRTR,USD,other_indices,world_indices
+665,united states,NYSE World Leaders Mini Value,NYSE World Leaders Mini Value,NWLMN,USD,other_indices,world_indices
+666,united states,NYSE World Leaders,NYSE World Leaders,NWL,USD,other_indices,world_indices
+667,united states,NYSE TOP US 100,NYSE TOP US 100,NUS,USD,other_indices,world_indices
+668,united states,NYSE TOP International 100,NYSE TOP International 100,NIN,USD,other_indices,world_indices
+669,united states,PHLX Swiss Franc,PHLX Swiss Franc,XDS,USD,other_indices,world_indices
+670,united states,CBOE Ms 8% Targeted Income Stra,CBOE Ms 8% Targeted Income Stra,BYC,USD,other_indices,world_indices
+671,united states,CBOE Morgan Stanley U.S. Strate,CBOE Morgan Stanley U.S. Strate,MSV,USD,other_indices,world_indices
+672,united states,CBOE Mid Term Volatility,CBOE Mid-Term Volatility,VXMT,USD,other_indices,world_indices
+673,united states,S&P 600,S&P 600,SP600,USD,other_indices,world_indices
+674,united states,S&P 500 Vix Short Term Futures ER,S&P 500 Vix Short Term Futures ER,SPVXSPID,USD,other_indices,world_indices
+675,united states,S&P 500 Value TR,S&P 500 Value TR,SPXVTR,USD,other_indices,world_indices
+676,united states,S&P500 Pure Value,S&P 500 Pure Value,SPXPVX,USD,other_indices,world_indices
+677,united states,S&P500 Pure Growth,S&P 500 Pure Growth,SPXPGX,USD,other_indices,world_indices
+678,united states,SP 500 Minimum Volatility Net TR,S&P 500 Minimum Volatility Net Total Return,SP5MVN,USD,other_indices,world_indices
+679,united states,SP 500 Low Volatility TR,S&P 500 Low Volatility CAD Hedged TR,SP5LVCTH,CAD,other_indices,world_indices
+680,united states,S&P500 Equal Weighted,S&P 500 Equal Weighted,SPXEW1,USD,other_indices,world_indices
+681,united states,CBOE Equity VIX on Ibm,CBOE Equity VIX on Ibm,VXIBM,USD,other_indices,world_indices
+682,united states,SP 500 Dividends Aristocrats TR,S&P 500 Dividends Aristocrats Total Return,SPDAUDT,USD,other_indices,world_indices
+683,united states,S&P 500 Daily Hedged EUR Net TR,S&P 500 Daily Hedged EUR Net TR,SPXDHEN,EUR,other_indices,world_indices
+684,united states,CBOE Euro Currency Volatility,CBOE Euro Currency Volatility,EVZ,USD,other_indices,world_indices
+685,united states,CBOE Far-Term Vix,CBOE Far-Term Vix,VIF,USD,other_indices,world_indices
+686,united states,CBOE Gold Miners Etf Volatility,CBOE Gold Miners Etf Volatility,VXGDX,USD,other_indices,world_indices
+687,united states,CBOE Gold Volatitity,CBOE Gold Volatitity,GVZ,USD,other_indices,world_indices
+688,united states,CBOE Jumbo Dj Volatility Ask,CBOE Jumbo Dj Volatility Ask,DDA,USD,other_indices,world_indices
+689,united states,CBOE Jumbo Dj Volatility Bid,CBOE Jumbo Dj Volatility Bid,DDB,USD,other_indices,world_indices
+690,united states,CBOE Large Cap Over Small Cap S,CBOE Large Cap Over Small Cap S,CYJ,USD,other_indices,world_indices
+691,united states,CBOE Low Volatility,CBOE Low Volatility,LOVOL,USD,other_indices,world_indices
+692,united states,CBOE Market Volatility Spx Bid,CBOE Market Volatility Spx Bid,VWB,USD,other_indices,world_indices
+693,united states,CBOE Market Volatility Spx Offe,CBOE Market Volatility Spx Offe,VWA,USD,other_indices,world_indices
+694,united states,ARCA Hong Kong 30,ARCA Hong Kong 30,HKX,HKD,other_indices,world_indices
+695,united states,ARCA China,ARCA China,CZH,USD,other_indices,world_indices
+696,united states,US Dollar Index,US Dollar Index,DXY,USD,other_indices,world_indices
+697,united states,AMEX TRIN,AMEX Short Term Trade Index,STI.A,USD,other_indices,world_indices
+698,united states,PHLX Gold Silver Settlement,PHLX Gold Silver Settlement,XAG,USD,other_indices,world_indices
+699,united states,PHLX Gold Silver TR,PHLX Gold Silver TR,XXAU,USD,other_indices,world_indices
+700,united states,PHLX Housing,PHLX Housing,HGX,USD,other_indices,world_indices
+701,united states,PHLX Housing Settlement,PHLX Housing Settlement,HGD,USD,other_indices,world_indices
+702,united states,PHLX Housing TR,PHLX Housing TR,XHGX,USD,other_indices,world_indices
+703,united states,PHLX Oil Service,PHLX Oil Service,OSX,USD,other_indices,world_indices
+704,united states,PHLX Semiconductor Settlement,PHLX Semiconductor Settlement,SX,USD,other_indices,world_indices
+705,united states,PHLX Semiconductor TR,PHLX Semiconductor TR,XSOX,USD,other_indices,world_indices
+706,united states,PHLX Utility,PHLX Utility,UTY,USD,other_indices,world_indices
+707,united states,NYSE Technology,NYSE Technology,NYTECH,USD,other_indices,world_indices
+708,united states,PHLX Utility Settlement,PHLX Utility Settlement,UUW,USD,other_indices,world_indices
+709,united states,S&P 400 Consumer Discretionary,S&P 400 Consumer Discretionary,SPMDCD,USD,other_indices,world_indices
+710,united states,S&P 400 Consumer Staples,S&P 400 Consumer Staples,SPMDCS,USD,other_indices,world_indices
+711,united states,S&P 400 Energy,S&P 400 Energy,SPMDCE,USD,other_indices,world_indices
+712,united states,S&P 400 Financials,S&P 400 Financials,SPMDCF,USD,other_indices,world_indices
+713,united states,S&P 400 Health Care,S&P 400 Health Care,SPMDCA,USD,other_indices,world_indices
+714,united states,S&P 400 Industrials,S&P 400 Industrials,SPMDCI,USD,other_indices,world_indices
+715,united states,S&P 400 Information Technology,S&P 400 Information Technology,SPMDCT,USD,other_indices,world_indices
+716,united states,S&P 400 Materials,S&P 400 Materials,SPMDCM,USD,other_indices,world_indices
+717,united states,S&P 400 Telecommunication Services,S&P 400 Telecommunication Services,SPMDCL,USD,other_indices,world_indices
+718,united states,PHLX Utility TR,PHLX Utility TR,XUTY,USD,other_indices,world_indices
+719,united states,NYSE Market Composite Technology,NYSE Market Composite Technology,XIT,USD,other_indices,world_indices
+720,united states,NYSE Market Composite Natural Resources,NYSE Market Composite Natural Resources,XNA,USD,other_indices,world_indices
+721,united states,NYSE Market Composite Industrial,NYSE Market Composite Industrial,XID,USD,other_indices,world_indices
+722,united states,NQ OMX Natural Resources,NASDAQ OMX Natural Resources,GRNNR,USD,other_indices,world_indices
+723,united states,NQ OMX Natural Resources TR,NASDAQ OMX Natural Resources TR,GRNNRX,USD,other_indices,world_indices
+724,united states,NQ OMX Pollution Mitigation,NASDAQ OMX Pollution Mitigation,GRNPOL,USD,other_indices,world_indices
+725,united states,NQ OMX Pollution Mitigation TR,NASDAQ OMX Pollution Mitigation TR,GRNPOLX,USD,other_indices,world_indices
+726,united states,NQ OMX Recycling,NASDAQ OMX Recycling,GRNREC,USD,other_indices,world_indices
+727,united states,NQ OMX Recycling TR,NASDAQ OMX Recycling TR,GRNRECX,USD,other_indices,world_indices
+728,united states,NQ OMX Renewable Energy Generation,NASDAQ OMX Renewable Energy Generation,GRNREG,USD,other_indices,world_indices
+729,united states,NQ OMX Renewable Energy Generation TR,NASDAQ OMX Renewable Energy Generation TR,GRNREGX,USD,other_indices,world_indices
+730,united states,NQ OMX Smart Grid,NASDAQ OMX Smart Grid,GRNGRD,USD,other_indices,world_indices
+731,united states,NQ OMX Smart Grid TR,NASDAQ OMX Smart Grid TR,GRNGRDX,USD,other_indices,world_indices
+732,united states,NQ OMX Solar,NASDAQ OMX Solar,GRNSOLAR,USD,other_indices,world_indices
+733,united states,NQ OMX Solar Total Return,NASDAQ OMX Solar Total Return,GRNSOLARX,USD,other_indices,world_indices
+734,united states,NQ OMX US Water,NASDAQ OMX US Water,GRNWATUSL,USD,other_indices,world_indices
+735,united states,NQ OMX US Water TR,NASDAQ OMX US Water Total Return,GRNWATUSLX,USD,other_indices,world_indices
+736,united states,NQ OMX Water,NASDAQ OMX Water,GRNWATER,USD,other_indices,world_indices
+737,united states,NQ OMX Water TR,NASDAQ OMX Water TR,GRNWATERX,USD,other_indices,world_indices
+738,united states,NQ OMX Wind,NASDAQ OMX Wind,GRNWIND,USD,other_indices,world_indices
+739,united states,NQ OMX Wind TR,NASDAQ OMX Wind Total Return,GRNWINDX,USD,other_indices,world_indices
+740,united states,NYSE Arca Gold Miners GTR,NYSE Arca Gold Miners GTR,GDMTR,USD,other_indices,world_indices
+741,united states,NYSE Market Composite Financial,NYSE Market Composite Financial,XFI,USD,other_indices,world_indices
+742,united states,NYSE Market Composite Healthcare,NYSE Market Composite Healthcare,XHL,USD,other_indices,world_indices
+743,united states,S&P 400 Utilities,S&P 400 Utilities,SPMDCU,USD,other_indices,world_indices
+744,united states,NYSE Tick Index,NYSE Tick Index,TIC.N,USD,other_indices,world_indices
+745,united states,S&P 600 Consumer Discretionary,S&P 600 Consumer Discretionary,SPSMCD,USD,other_indices,world_indices
+746,united states,S&P 600 Energy,S&P 600 Energy,SPSMCE,USD,other_indices,world_indices
+747,united states,S&P Computer Hardware,S&P Computer Hardware Select Industry,SPXSCH,USD,other_indices,world_indices
+748,united states,S&P Health Care Equipment,S&P Health Care Equipment Select Industry,SPXSHE,USD,other_indices,world_indices
+749,united states,S&P Health Care Services,S&P Health Care Services Select Industry,SPXSHP,USD,other_indices,world_indices
+750,united states,S&P Homebuilders,S&P Homebuilders Select Industry,SPHOMES,USD,other_indices,world_indices
+751,united states,S&P Industrials Composite,S&P Industrials Composite,SPIND,USD,other_indices,world_indices
+752,united states,S&P Metals & Mining,S&P Metals & Mining Select Industry,SPXSMM,USD,other_indices,world_indices
+753,united states,S&P Oil & Gas Equipment & Services,S&P Oil & Gas Equipment & Services Select Industry,SPXSOS,USD,other_indices,world_indices
+754,united states,S&P Oil & Gas Exploration & Production,S&P Oil & Gas Exploration & Production Select Industry,SPXSOP,USD,other_indices,world_indices
+755,united states,S&P Pharmaceuticals,S&P Pharmaceuticals Select Industry,SPXSPH,USD,other_indices,world_indices
+756,united states,Wilder Hill New Energy Global,Wilder Hill New Energy Global,NEX,USD,other_indices,world_indices
+757,united states,S&P Retail Select Industry,S&P Retail Select Industry,SPXSRE,USD,other_indices,world_indices
+758,united states,S&P Telecom Select Industry,S&P Telecom Select Industry,SPXSTE,USD,other_indices,world_indices
+759,united states,S&P Transportation SI,S&P Transportation Select Industry,SPXSTN,USD,other_indices,world_indices
+760,united states,Technology Select Sector NTR,Technology Select Sector NTR,IXTNTR,USD,other_indices,world_indices
+761,united states,1/100 Dow Jones Industrial Average,1/100 Dow Jones Industrial Average,DJX,USD,other_indices,world_indices
+762,united states,Alerian MLP EW,Alerian MLP Equal Weight,AMZE,USD,other_indices,world_indices
+763,united states,Alerian MLP EW TR,Alerian MLP Equal Weight TR,AMZEX,USD,other_indices,world_indices
+764,united states,Alerian MLP Infrastructure TR,Alerian MLP Infrastructure TR,AMZIX,USD,other_indices,world_indices
+765,united states,AMEX Japan,AMEX Japan,JPV,USD,other_indices,world_indices
+766,united states,AMEX Mexico,AMEX Mexico,MEV,USD,other_indices,world_indices
+767,united states,S&P Semiconductors,S&P Semiconductors Select Industry,SPSEMIS,USD,other_indices,world_indices
+768,united states,Wilshire 4500 Completion,Wilshire 4500 Completion,W4500,USD,other_indices,world_indices
+769,united states,Wilshire 5000 Total Market Full Cap,Wilshire 5000 Total Market Full Cap,W5000,USD,other_indices,world_indices
+770,united states,Wisdom Tree Earnings,Wisdom Tree Earnings,WTEI,USD,other_indices,world_indices
+771,united states,S&P 600 Financials,S&P 600 Financials,SPSMCF,USD,other_indices,world_indices
+772,united states,S&P 600 Health Care,S&P 600 Health Care,SPSMCA,USD,other_indices,world_indices
+773,united states,S&P 600 Industrials,S&P 600 Industrials,SPSMCI,USD,other_indices,world_indices
+774,united states,S&P 600 Information Technology,S&P 600 Information Technology,SPSMCT,USD,other_indices,world_indices
+775,united states,S&P 600 Materials,S&P 600 Materials,SPSMCM,USD,other_indices,world_indices
+776,united states,S&P 600 Telecommunication Services,S&P 600 Telecommunication Services,SPSMCL,USD,other_indices,world_indices
+777,united states,S&P 600 Utilities,S&P 600 Utilities,SPSMCU,USD,other_indices,world_indices
+778,united states,S&P Aerospace & Defense,S&P Aerospace & Defense Select Industry,SPXSAD,USD,other_indices,world_indices
+779,united states,S&P Biotech Select Industry,S&P Biotechnology Select Industry,SPBIOS,USD,other_indices,world_indices
+780,united states,S&P Composite 1500 Consumer Discretionary,S&P Composite 1500 Consumer Discretionary,SPCOMD,USD,other_indices,world_indices
+781,united states,S&P Composite 1500 Consumer Staples,S&P Composite 1500 Consumer Staples,SPCOMS,USD,other_indices,world_indices
+782,united states,S&P Composite 1500 Energy,S&P Composite 1500 Energy,SPCOME,USD,other_indices,world_indices
+783,united states,S&P Composite 1500 Financials,S&P Composite 1500 Financials,SPCOMF,USD,other_indices,world_indices
+784,united states,S&P Composite 1500 Health Care,S&P Composite 1500 Health Care,SPCOMA,USD,other_indices,world_indices
+785,united states,S&P Composite 1500 Industrials,S&P Composite 1500 Industrials,SPCOMI,USD,other_indices,world_indices
+786,united states,S&P Composite 1500 Information Technology,S&P Composite 1500 Information Technology,SPCOMT,USD,other_indices,world_indices
+787,united states,S&P Composite 1500 Materials,S&P Composite 1500 Materials,SPCOMM,USD,other_indices,world_indices
+788,united states,S&P Composite 1500 Telecommunication Services,S&P Composite 1500 Telecommunication Services,SPCOML,USD,other_indices,world_indices
+789,united states,S&P Composite 1500 Utilities,S&P Composite 1500 Utilities,SPCOMU,USD,other_indices,world_indices
+790,united states,WisdomTree LargeCap Value,WisdomTree LargeCap Value,WTLVI,USD,other_indices,world_indices
+791,united states,Wisdom Tree MidCap earnings,Wisdom Tree MidCap earnings,WTMEI,USD,other_indices,world_indices
+792,united states,S&P 600 Consumer Staples,S&P 600 Consumer Staples,SPSMCS,USD,other_indices,world_indices
+793,united states,NQ OMX Lighting TR,NASDAQ OMX Lighting TR,GRNLIGHTX,USD,other_indices,world_indices
+794,united states,NYSE TRIN,NYSE Short Term Trade Index,STI.N,USD,other_indices,world_indices
+795,united states,NYSE FANG+TM,NYSE FANG+TM,NYFANG,USD,other_indices,world_indices
+796,united states,NQ Global Market Composite,NASDAQ Global Market Composite,NQGM,USD,other_indices,world_indices
+797,united states,Nasdaq Factor Dog,Nasdaq Factor Dog,NQDOG,USD,other_indices,world_indices
+798,united states,Nasdaq Emerging Select Leaders,Nasdaq Emerging Select Leaders,NQEMSL,USD,other_indices,world_indices
+799,united states,Nasdaq Dorsey Wright Peoples Portfolio,Nasdaq Dorsey Wright Peoples Portfolio,NQDWAPP,USD,other_indices,world_indices
+800,united states,Nasdaq Developed Select Leaders,Nasdaq Developed Select Leaders,NQDMSL,USD,other_indices,world_indices
+801,united states,NQ Composite TR,NASDAQ Composite Total Return,XCMP,USD,other_indices,world_indices
+802,united states,NQ Capital Market Composite,NASDAQ Capital Market Composite,RCMP,USD,other_indices,world_indices
+803,united states,Nasdaq BulletShares Investment Grade 7 Year Ladder,Nasdaq BulletShares Investment Grade 7 Year Ladder Total Return,NQBIG7T,USD,other_indices,world_indices
+804,united states,Nasdaq BulletShares Investment Grade 7 Year Ladder,Nasdaq BulletShares Investment Grade 7 Year Ladder,NQBIG7,USD,other_indices,world_indices
+805,united states,NQ Global Select Market Composite,NASDAQ Global Select Market Composite,NQGS,USD,other_indices,world_indices
+806,united states,Nasdaq BulletShares Investment Grade 5 Year Ladder,Nasdaq BulletShares Investment Grade 5 Year Ladder Total Return,NQBIG5T,USD,other_indices,world_indices
+807,united states,Nasdaq BulletShares Investment Grade 3 Year Ladder,Nasdaq BulletShares Investment Grade 3 Year Ladder Total Return,NQBIG3T,USD,other_indices,world_indices
+808,united states,Nasdaq BulletShares Investment Grade 3 Year Ladder,Nasdaq BulletShares Investment Grade 3 Year Ladder,NQBIG3,USD,other_indices,world_indices
+809,united states,Nasdaq BulletShares High Yield 7 Year Ladder TR,Nasdaq BulletShares High Yield 7 Year Ladder Total Return,NQBHY7T,USD,other_indices,world_indices
+810,united states,Nasdaq BulletShares High Yield 7 Year Ladder,Nasdaq BulletShares High Yield 7 Year Ladder,NQBHY7,USD,other_indices,world_indices
+811,united states,Nasdaq BulletShares High Yield 5 Year Ladder TR,Nasdaq BulletShares High Yield 5 Year Ladder Total Return,NQBHY5T,USD,other_indices,world_indices
+812,united states,Nasdaq BulletShares High Yield 5 Year Ladder,Nasdaq BulletShares High Yield 5 Year Ladder,NQBHY5,USD,other_indices,world_indices
+813,united states,Nasdaq BulletShares High Yield 3 Year Ladder TR,Nasdaq BulletShares High Yield 3 Year Ladder Total Return,NQBHY3T,USD,other_indices,world_indices
+814,united states,Nasdaq BulletShares High Yield 3 Year Ladder,Nasdaq BulletShares High Yield 3 Year Ladder,NQBHY3,USD,other_indices,world_indices
+815,united states,Nasdaq Australia Completion Cap Gross Local Return,Nasdaq Australia Completion Cap Gross Local Return,NQAUCCGL,AUD,other_indices,world_indices
+816,united states,Nasdaq BulletShares Investment Grade 5 Year Ladder,Nasdaq BulletShares Investment Grade 5 Year Ladder,NQBIG5,USD,other_indices,world_indices
+817,united states,Nasdaq 100 TR,Nasdaq 100 TR,XNDX,USD,other_indices,world_indices
+818,united states,Nasdaq International Dividend Achievers Local,Nasdaq International Dividend Achievers Local,DATLOC,USD,other_indices,world_indices
+819,united states,NASDAQ Nordea SmartBeta Dividend Sweden PR,NASDAQ Nordea SmartBeta Dividend Sweden PR,NQNDDIP,SEK,other_indices,world_indices
+820,united states,Dow Jones U.S. Completion TSM,Dow Jones U.S. Completion TSM,DWCPF,USD,other_indices,world_indices
+821,united states,DJ US,Dow Jones US,DJUS,USD,other_indices,world_indices
+822,united states,DJ Value,Dow Jones Value,DJUSVA,USD,other_indices,world_indices
+823,united states,Dynamic Daily Long Exposure to Vol,Dynamic Daily Long Exposure to Volatility,DDLEV,USD,other_indices,world_indices
+824,united states,Dynamic Emarket Intellidex,Dynamic Emarket Intellidex,DYI,USD,other_indices,world_indices
+825,united states,EFA ETF Vol,EFA ETF Volatility,VXEFA,USD,other_indices,world_indices
+826,united states,Energy Select Sector NTR,Energy Select Sector NTR,IXENTR,USD,other_indices,world_indices
+827,united states,FTSE Environmental Opportunities USA,FTSE Environmental Opportunities USA,FTEOUS,USD,other_indices,world_indices
+828,united states,FTSE GWA US,FTSE GWA US,FTGWUSA,USD,other_indices,world_indices
+829,united states,NASDAQ Nordea SmartBeta Dividend Momentum PR,NASDAQ Nordea SmartBeta Dividend Momentum PR,NQNDDMP,SEK,other_indices,world_indices
+830,united states,NQ OMX Russia 15,NASDAQ OMX Russia 15,NORUX15,USD,other_indices,world_indices
+831,united states,NASDAQ Nordea SmartBeta Volatility Sweden PR,NASDAQ Nordea SmartBeta Volatility Sweden PR,NQNDVOP,USD,other_indices,world_indices
+832,united states,NASDAQ Nordea SmartBeta Momentum Volatility PR,NASDAQ Nordea SmartBeta Momentum Volatility PR,NQNDMVP,SEK,other_indices,world_indices
+833,united states,NASDAQ Nordea SmartBeta Momentum Sweden PR,NASDAQ Nordea SmartBeta Momentum Sweden PR,NQNDMOP,SEK,other_indices,world_indices
+834,united states,FTSE RAFI US 1000,FTSE RAFI US 1000,FTFR10,USD,other_indices,world_indices
+835,united states,FTSE RAFI US 1000 Net,FTSE RAFI US 1000 Net,FTFR10N,USD,other_indices,world_indices
+836,united states,FTSE RAFI US 1500 Mid Small,FTSE RAFI US 1500 Mid Small,FTFR15N,USD,other_indices,world_indices
+837,united states,FTSE RAFI US Mid Small 1500,FTSE RAFI US Mid Small 1500,FTFR15,USD,other_indices,world_indices
+838,united states,FTSE Shariah USA,FTSE Shariah USA,FTSWUSA,USD,other_indices,world_indices
+839,united states,NASDAQ Nordea SmartBeta Dividend Volatility PR,NASDAQ Nordea SmartBeta Dividend Volatility PR,NQNDDVP,SEK,other_indices,world_indices
+840,united states,Nasdaq North America Air Transportation,Nasdaq North America Air Transportation,NQNAAT,USD,other_indices,world_indices
+841,united states,NQ 100 Leveraged Notional Net Return,NASDAQ 100 Leveraged Notional Net Return,XNDXNNRL,USD,other_indices,world_indices
+842,united states,NQ 100 Hedged EUR Net TR,NASDAQ 100 Hedged EUR Net TR,NDXERNRH,USD,other_indices,world_indices
+843,united states,NQ 100 Double Leverage,NASDAQ 100 Double Leverage,NDXL,USD,other_indices,world_indices
+844,united states,ISE BICK TR,ISE BICK TR,BIQTR,USD,other_indices,world_indices
+845,united states,ISE BICK,ISE BICK,BIQ,USD,other_indices,world_indices
+846,united states,Investing.com US 500,Investing.com United States 500,invus500,USD,other_indices,world_indices
+847,united states,US 50,Investing.com United States 50,invus50,USD,other_indices,world_indices
+848,united states,Investing US 30,Investing.com United States 30,invus30,USD,other_indices,world_indices
+849,united states,ICE Crude Oil,ICE Crude Oil,IPCI,USD,other_indices,world_indices
+850,united states,Horizon Kinetics ISE Wealth TR,Horizon Kinetics ISE Wealth TR,RCHTR,USD,other_indices,world_indices
+851,united states,Horizon Kinetics ISE Wealth,Horizon Kinetics ISE Wealth,RCH,USD,other_indices,world_indices
+852,united states,Horizon Kinetics ISE International Wealth PR,Horizon Kinetics ISE International Wealth PR,INW,USD,other_indices,world_indices
+853,united states,ISE British Pound FX,ISE British Pound FX,BPX,GBP,other_indices,world_indices
+854,united states,HK ISE Global Wealth TR,Horizon Kinetics ISE Global Wealth TR,WEALTHGT,USD,other_indices,world_indices
+855,united states,HK ISE Asia ex Japan Wealth TR,Horizon Kinetics ISE Asia ex Japan Wealth TR,WEALTHAT,USD,other_indices,world_indices
+856,united states,HK ISE Asia ex Japan Wealth Price,Horizon Kinetics ISE Asia ex Japan Wealth Price,WEALTHAX,USD,other_indices,world_indices
+857,united states,HFRX GlbFdIdx,HFRX GlbFdIdx,HFRXGL,USD,other_indices,world_indices
+858,united states,Hashdex Digital Assets,Hashdex Digital Assets,HDAI,USD,other_indices,world_indices
+859,united states,FTSE US 500,FTSE US 500,FTUS500,USD,other_indices,world_indices
+860,united states,FTSE USA,FTSE USA,FTWIUSAU,USD,other_indices,world_indices
+861,united states,FTSE4Good US 100,FTSE4Good US 100,FT4GDUS100,USD,other_indices,world_indices
+862,united states,FTSE4Good US Benchmark,FTSE4Good US Benchmark,FT4GDBUS,USD,other_indices,world_indices
+863,united states,Gold x5 Leveraged,Gold x5 Leveraged,SGIXGD5L,USD,other_indices,world_indices
+864,united states,HK ISE Global Wealth Price,Horizon Kinetics ISE Global Wealth Price,WEALTHGL,USD,other_indices,world_indices
+865,united states,ISE CHIndia,ISE CHIndia,ICK,USD,other_indices,world_indices
+866,united states,ISE ChIndia TR,ISE ChIndia TR,ICKTR,USD,other_indices,world_indices
+867,united states,ISE ETF 50 Price Return,ISE ETF 50 Price Return,ETI,USD,other_indices,world_indices
+868,united states,Mini Nasdaq 100,Mini Nasdaq 100,MNX,USD,other_indices,world_indices
+869,united states,Kinetics ISE International Wealth TR,Kinetics ISE International Wealth TR,INWTR,USD,other_indices,world_indices
+870,united states,KBW Nasdaq Financial Technology NNR 85,KBW Nasdaq Financial Technology NNR 85,KFTXNNR85,USD,other_indices,world_indices
+871,united states,KBW Nasdaq Financial Technology NNR 70,KBW Nasdaq Financial Technology NNR 70,KFTXNNR70,USD,other_indices,world_indices
+872,united states,Jumbo CBOE Volatility,Jumbo CBOE Volatility,VXB,USD,other_indices,world_indices
+873,united states,ISE Water TR,ISE Water TR,HHOTR,USD,other_indices,world_indices
+874,united states,ISE SINdex TR,ISE SINdex TR,SINTR,USD,other_indices,world_indices
+875,united states,ISE SINdex,ISE SINdex,SIN,USD,other_indices,world_indices
+876,united states,ISE Mobile Payments GTR,ISE Mobile Payments GTR,IPYTR,USD,other_indices,world_indices
+877,united states,ISE Mobile Payments,ISE Mobile Payments,IPY,USD,other_indices,world_indices
+878,united states,ISE Junior Silver Small Cap Miners/Explorers TR,ISE Junior Silver Small Cap Miners/Explorers TR,ZIRTR,USD,other_indices,world_indices
+879,united states,ISE HiInc TR,ISE HiInc TR,YLDATR,USD,other_indices,world_indices
+880,united states,ISE HiInc PR,ISE HiInc PR,YLDA,USD,other_indices,world_indices
+881,united states,ISE Global Wind Energy TR,ISE Global Wind Energy TR,GWETR,USD,other_indices,world_indices
+882,united states,ISE Global Engineerng and Construction,ISE Global Engineerng and Construction,CVL,USD,other_indices,world_indices
+883,united states,ISE Global Engineering & Construction TR,ISE Global Engineering & Construction TR,CVLTR,USD,other_indices,world_indices
+884,united states,ISE Exclusively Homebuilders TR,ISE Exclusively Homebuilders TR,RUFTR,USD,other_indices,world_indices
+885,united states,ISE Exclusively Homebuilders,ISE Exclusively Homebuilders,RUF,USD,other_indices,world_indices
+886,united states,ISE ETF Composite TR,ISE ETF Composite TR,ETFCOMPTR,USD,other_indices,world_indices
+887,united states,ISE ETF Composite,ISE ETF Composite,ETFCOMP,USD,other_indices,world_indices
+888,united states,ISE ETF 50 TR,ISE ETF 50 TR,ETIT,USD,other_indices,world_indices
+889,united states,DJ Top-Cap,Dow Jones Top-Cap,DJUSTP,USD,other_indices,world_indices
+890,united states,DJ Small-Cap Value,Dow Jones Small-Cap Value,DJUSVS,USD,other_indices,world_indices
+891,united states,DJ Small-Cap Growth,Dow Jones Small-Cap Growth,DJUSGS,USD,other_indices,world_indices
+892,united states,DJ Small-Cap,Dow Jones Small-Cap,DJUSS,USD,other_indices,world_indices
+893,united states,NQ US Benchmark Life Insurance,NASDAQ US Benchmark Life Insurance,NQUSB8570,USD,other_indices,global_indices
+894,united states,NQ US Large Cap,NASDAQ US Large Cap,NQUSL,USD,other_indices,world_indices
+895,united states,Nasdaq US High Yield Factor,Nasdaq US High Yield Factor,NQFFUSHY,USD,other_indices,world_indices
+896,united states,Nasdaq US Growth Factor,Nasdaq US Growth Factor,NQFFUSG,USD,other_indices,world_indices
+897,united states,NQ US Benchmark,NASDAQ US Benchmark,NQUSB,USD,other_indices,world_indices
+898,united states,NQ US 450 TR,NASDAQ US 450 TR,NQUSM450T,USD,other_indices,world_indices
+899,united states,NQ US 450,NASDAQ US 450,NQUSM450,USD,other_indices,world_indices
+900,united states,NQ US 300 TR,NASDAQ US 300 TR,NQUSL300T,USD,other_indices,world_indices
+901,united states,NQ US 300,NASDAQ US 300,NQUSL300,USD,other_indices,world_indices
+902,united states,Nasdaq US Large Cap Equities for Rising Rates,Nasdaq US Large Cap Equities for Rising Rates,NQERR,USD,other_indices,world_indices
+903,united states,NQ US 1500,NASDAQ US 1500,NQUSS1500,USD,other_indices,world_indices
+904,united states,Nasdaq Riskalyze US Mid Cap,Nasdaq Riskalyze US Mid Cap,NQRSKUSM,USD,other_indices,world_indices
+905,united states,Nasdaq Riskalyze US Large Cap Select Dividend,Nasdaq Riskalyze US Large Cap Select Dividend,NQRSKUSLD,USD,other_indices,world_indices
+906,united states,Nasdaq Riskalyze US Large Cap,Nasdaq Riskalyze US Large Cap,NQRSKUSL,USD,other_indices,world_indices
+907,united states,Nasdaq Riskalyze Emerging Markets,Nasdaq Riskalyze Emerging Markets,NQRSKEM,USD,other_indices,world_indices
+908,united states,Nasdaq Riskalyze Developed Markets,Nasdaq Riskalyze Developed Markets,NQRSKDM,USD,other_indices,world_indices
+909,united states,CBOE Oil 1/10 Value,CBOE Oil 1/10 Value,VIO,USD,other_indices,world_indices
+910,united states,CBOE Reduced-Value,CBOE Reduced-Value,BXO,USD,other_indices,world_indices
+911,united states,NQ Q-50,NASDAQ Q-50,NXTQ,USD,other_indices,world_indices
+912,united states,CBOE Russell 2000 Buy Write,CBOE Russell 2000 Buy Write,BXR,USD,other_indices,world_indices
+913,united states,Nasdaq Riskalyze US Small Cap,Nasdaq Riskalyze US Small Cap,NQRSKUSS,USD,other_indices,world_indices
+914,united states,NQ US Large Cap TR,NASDAQ US Large Cap TR,NQUSLT,USD,other_indices,world_indices
+915,united states,Nasdaq US Low Volatility Factor,Nasdaq US Low Volatility Factor,NQFFUSLV,USD,other_indices,world_indices
+916,united states,NQ US Mid Cap,NASDAQ US Mid Cap,NQUSM,USD,other_indices,world_indices
+917,united states,NYSE Composite TR,NYSE Composite Total Return,NYATR,USD,other_indices,world_indices
+918,united states,NYSE Composite Mini Value,NYSE Composite Mini Value,NYAMN,USD,other_indices,world_indices
+919,united states,NYSE Bitcoin,NYSE Bitcoin,NYXBT,USD,other_indices,world_indices
+920,united states,NASDAQ-100 Target 25 Net Excess Return,NASDAQ-100 Target 25 Net Excess Return,XNDXT25NNER,USD,other_indices,world_indices
+921,united states,NASDAQ-100 Target 25 Excess Return,NASDAQ-100 Target 25 Excess Return,XNDXT25E,USD,other_indices,world_indices
+922,united states,NASDAQ 100 VIX,CBOE NASDAQ 100 Volatility,VXN,USD,other_indices,world_indices
+923,united states,NASDAQ-100 Target 25,NASDAQ-100 Target 25,NDXT25,USD,other_indices,world_indices
+924,united states,CBOE Nasdaq100 Buywrite,CBOE Nasdaq100 Buywrite,BXN,USD,other_indices,world_indices
+925,united states,Nasdaq-100 Notional Net TR,Nasdaq-100 Notional Net TR,XNDXNNR,USD,other_indices,world_indices
+926,united states,NQ-100 Ex-Tech TR,NASDAQ-100 Ex-Tech TR,NXTR,USD,other_indices,world_indices
+927,united states,Nasdaq Victory Multi-Factor US Minimum Volatility,Nasdaq Victory Multi-Factor US Minimum Volatility,NQVMVUS,USD,other_indices,world_indices
+928,united states,CBOE Near-Term Vix,CBOE Near-Term Vix,VIN,USD,other_indices,world_indices
+929,united states,Nasdaq Victory Dividend Accelerator Dividend Point,Nasdaq Victory Dividend Accelerator Dividend Point,NQVDIVDVP,USD,other_indices,world_indices
+930,united states,Nasdaq Victory Dividend Accelerator,Nasdaq Victory Dividend Accelerator,NQVDIV,USD,other_indices,world_indices
+931,united states,Nasdaq US Value Factor,Nasdaq US Value Factor,NQFFUSV,USD,other_indices,world_indices
+932,united states,NQ US Small Cap,NASDAQ US Small Cap,NQUSS,USD,other_indices,world_indices
+933,united states,CBOE OEX Implied Volatility,CBOE OEX Implied Volatility,VXO,USD,other_indices,world_indices
+934,united states,Nasdaq US Quality Factor,Nasdaq US Quality Factor,NQFFUSQ,USD,other_indices,world_indices
+935,united states,Nasdaq US Multi-Asset Diversified Income NTR,Nasdaq US Multi-Asset Diversified Income NTR,NQMAUSN,USD,other_indices,world_indices
+936,united states,Nasdaq US Momentum Factor,Nasdaq US Momentum Factor,NQFFUSM,USD,other_indices,world_indices
+937,united states,NQ US Mid Cap TR,NASDAQ US Mid Cap TR,NQUSMT,USD,other_indices,world_indices
+938,united states,CBOE Russell 2000 Volatility,CBOE Russell 2000 Volatility,RVX,USD,other_indices,world_indices
+939,united states,NYSE International 100 Mini,NYSE International 100 Mini,NINMN,USD,other_indices,world_indices
+940,united states,CBOE S&P 500 3 Month Volatility,CBOE S&P 500 3 Month Volatility,VIX3M,USD,other_indices,world_indices
+941,united states,CBOE S&P 500 Implied Correlation 2014,CBOE S&P 500 Implied Correlation 2014,ICJ,USD,other_indices,world_indices
+942,united states,Cohen & Steers Realty Majors Portfolio,Cohen & Steers Realty Majors Portfolio,RMP,USD,other_indices,world_indices
+943,united states,CRSP US Mid Cap TR,CRSP US Mid Cap TR,CRSPMIT,USD,other_indices,world_indices
+944,united states,CRSP US Small Cap TR,CRSP US Small Cap TR,CRSPSCT,USD,other_indices,world_indices
+945,united states,CRSP US Total Market TR,CRSP US Total Market TR,CRSPTMT,USD,other_indices,world_indices
+946,united states,DJIA BuyWrite,DJIA BuyWrite,BXD,USD,other_indices,world_indices
+947,united states,DJIA Volatility,DJIA Volatility,VXD,USD,other_indices,world_indices
+948,united states,DJl Average Net TR,DJl Average Net TR,DJINR,USD,other_indices,world_indices
+949,united states,DJ Dividend 100,Dow Jones Dividend 100,DJUSDIV,USD,other_indices,world_indices
+950,united states,DJ EW US Corporate Bond,Dow Jones Equal Weight US Corporate Bond,DJCBP,USD,other_indices,world_indices
+951,united states,Cohen Steers Global Realty Majors Portfolio,Cohen & Steers Global Realty Majors Portfolio,GRM,USD,other_indices,world_indices
+952,united states,DJ Growth,Dow Jones Growth,DJUSGR,USD,other_indices,world_indices
+953,united states,DJ Large-Cap,Dow Jones Large-Cap,DJUSL,USD,other_indices,world_indices
+954,united states,DJ Large-Cap Growth,Dow Jones Large-Cap Growth,DJUSGL,USD,other_indices,world_indices
+955,united states,DJ Large-Cap Value,Dow Jones Large-Cap Value,DJUSVL,USD,other_indices,world_indices
+956,united states,DJ Low-Cap,Dow Jones Low-Cap,DJUSLW,USD,other_indices,world_indices
+957,united states,DJ Mid-Cap,Dow Jones Mid-Cap,DJUSM,USD,other_indices,world_indices
+958,united states,DJ Mid-Cap Growth,Dow Jones Mid-Cap Growth,DJUSGM,USD,other_indices,world_indices
+959,united states,DJ Mid-Cap Value,Dow Jones Mid-Cap Value,DJUSVM,USD,other_indices,world_indices
+960,united states,DJ Select Dividend,Dow Jones Select Dividend,DJDVP,USD,other_indices,world_indices
+961,united states,DJ Select Micro-Cap,Dow Jones Select Micro-Cap,DJSM,USD,other_indices,world_indices
+962,united states,DJ High Yield Select 10,Dow Jones High Yield Select 10,MUT,USD,other_indices,world_indices
+963,united states,FX Yen Volatility,CBOE/CME FX Yen Volatility,JYVIX,USD,other_indices,world_indices
+964,united states,FX Euro Volatility,CBOE/CME FX Euro Volatility,EUVIX,USD,other_indices,world_indices
+965,united states,FX British Pound Volatility,CBOE/CME FX British Pound Volatility,BPVIX,USD,other_indices,world_indices
+966,united states,CBOE S&P 500 Implied Correlation 2015,CBOE S&P 500 Implied Correlation 2015,KCJ,USD,other_indices,world_indices
+967,united states,CBOE S&P 500 Putwrite,CBOE S&P 500 Putwrite,PUT,USD,other_indices,world_indices
+968,united states,S&P 500 Short Term Volatility,CBOE S&P 500 Short-Term Volatility,VXST,USD,other_indices,world_indices
+969,united states,CBOE S&P500 Buy Write 2% Otm,CBOE S&P500 Buy Write 2% Otm,BXY,USD,other_indices,world_indices
+970,united states,CBOE S&P500 Dec Volatility,CBOE S&P500 Dec Volatility,VXDEC,USD,other_indices,world_indices
+971,united states,CBOE S&P500 Jun Volatility,CBOE S&P500 Jun Volatility,VXJUN,USD,other_indices,world_indices
+972,united states,CBOE S&P500 Mar Volatility,CBOE S&P500 Mar Volatility,VXMAR,USD,other_indices,world_indices
+973,united states,CBOE S&P500 Sep Volatility,CBOE S&P500 Sep Volatility,VXSEP,USD,other_indices,world_indices
+974,united states,CBOE Silver Etf Volatility,CBOE Silver Etf Volatility,VXSLV,USD,other_indices,world_indices
+975,united states,CBOE SKEW,CBOE SKEW,SKEWX,USD,other_indices,world_indices
+976,united states,SPX Far Term VXST,CBOE SPX Far Term VXST,VSTF,USD,other_indices,world_indices
+977,united states,SPX Near Term VXST,CBOE SPX Near Term VXST,VSTN,USD,other_indices,world_indices
+978,united states,CBOE Spx Nearterm Expiry Vix,CBOE Spx Nearterm Expiry Vix,VINXE,USD,other_indices,world_indices
+979,united states,CBOE U.S.-Europe-Japan Basket,CBOE U.S.-Europe-Japan Basket,CXU,USD,other_indices,world_indices
+980,united states,CBOE Vix Premium Strategy,CBOE Vix Premium Strategy,VPD,USD,other_indices,world_indices
+981,united states,CBOE Vix Tail Hedge,CBOE Vix Tail Hedge,VXTH,USD,other_indices,world_indices
+982,united states,CBOE Vix Volatility,CBOE Vix Volatility,VVIX,USD,other_indices,world_indices
+983,united states,CBOE Vxeem Ask,CBOE Vxeem Ask,VAEEM,USD,other_indices,world_indices
+984,united states,CBOE Vxeem Bid,CBOE Vxeem Bid,VBEEM,USD,other_indices,world_indices
+985,united states,CBOE/Cbot Corn Volatility,CBOE/Cbot Corn Volatility,CIV,USD,other_indices,world_indices
+986,united states,CBOE/Cbot Soybean Volatility,CBOE/Cbot Soybean Volatility,SIV,USD,other_indices,world_indices
+987,united states,CBOE S&P 500 95-110 Collar,CBOE S&P 500 95-110 Collar,CLL,USD,other_indices,world_indices
+988,united states,NQ OMX Lighting,NASDAQ OMX Lighting,GRNLIGHT,USD,other_indices,world_indices
+989,united states,AMEX Tick Index,AMEX Tick Index,TIC.A,USD,other_indices,world_indices
+990,united states,NQ OMX Healthy Living,NASDAQ OMX Healthy Living,GRNHL,USD,other_indices,world_indices
+991,united states,DJ U.S. Relative Value,Dow Jones US Relative Value,DJTLSV,USD,other_indices,global_indices
+992,united states,DJ U.S. Thematic Long Size,Dow Jones US Thematic Long Size,DJTLSS,USD,other_indices,global_indices
+993,united states,DJ U.S. Thematic Long Quality,Dow Jones US Thematic Long Quality,DJTLQU,USD,other_indices,global_indices
+994,united states,DJ U.S. High Momentum,Dow Jones US High Momentum,DJTLMO,USD,other_indices,global_indices
+995,united states,DJ US Low Beta,Dow Jones US Low Beta,DJTLAB,USD,other_indices,global_indices
+996,united states,DJ U.S. Select Regional Banks,Dow Jones US Select Regional Banks,DJSRBK,USD,other_indices,global_indices
+997,united states,DJ US Select Pharmaceuticals,Dow Jones US Select Pharmaceuticals,DJSPHM,USD,other_indices,global_indices
+998,united states,DJ US Select Oil Equipment Services,Dow Jones US Select Oil Equipment & Services,DJSOES,USD,other_indices,global_indices
+999,united states,DJ US Select Oil Exploration Prod,Dow Jones US Select Oil Exploration & Production,DJSOEP,USD,other_indices,global_indices
+1000,united states,DJ US Select Medical Equipment,Dow Jones US Select Medical Equipment,DJSMDQ,USD,other_indices,global_indices
+1001,united states,DJ US Select Investment Services,Dow Jones US Select Investment Services,DJSINV,USD,other_indices,global_indices
+1002,united states,DJ US Select Home Construction,Dow Jones US Select Home Construction,DJSHMB,USD,other_indices,global_indices
+1003,united states,DJ US Select Health Care Providers,Dow Jones US Select Health Care Providers,DJSHCP,USD,other_indices,global_indices
+1004,united states,DJ US Select Aerospace Defense,Dow Jones US Select Aerospace & Defense,DJSASD,USD,other_indices,global_indices
+1005,united states,Mini SPX,Mini SPX,XSP,USD,other_indices,global_indices
+1006,united states,CBOE S&P 500 BuyWrite,CBOE S&P 500 BuyWrite,BXM,USD,other_indices,global_indices
+1007,united states,NDXF 4XS,Nasdaq 100 Futures 4x Short,X0DT,USD,other_indices,global_indices
+1008,united states,NDXF 3XS,Nasdaq 100 Futures 3x Short,X0DS,USD,other_indices,global_indices
+1009,united states,NDXF 4XL,Nasdaq 100 Futures 4x Long,X0DR,USD,other_indices,global_indices
+1010,united states,NDXF 3XL,Nasdaq 100 Futures 3x Long,X0DQ,USD,other_indices,global_indices
+1011,united states,SPXF 4XS,S&P 500 Futures 4x Short,X0DP,USD,other_indices,global_indices
+1012,united states,SPXF 3XS,S&P 500 Futures 3x Short,X0DN,USD,other_indices,global_indices
+1013,united states,SPXF 4XL,S&P 500 Futures 4x Long,X0DM,USD,other_indices,global_indices
+1014,united states,SPXF 3XL,S&P 500 Futures 3x Long,X0DL,USD,other_indices,global_indices
+1015,united states,DJIAF 4XS,DJI Average Futures 4x Short,X0DK,USD,other_indices,global_indices
+1016,united states,DJ US Thematic Market Neut Low Beta,Dow Jones US Thematic Market Neutral Low Beta,DJTMNAB,USD,other_indices,global_indices
+1017,united states,DJIAF 3XS,DJI Average Futures 3x Short,X0DJ,USD,other_indices,global_indices
+1018,united states,DJ US Thematic Market Neut Momentum,Dow Jones US Thematic Market Neutral Momentum,DJTMNMO,USD,other_indices,global_indices
+1019,united states,DJ US Thematic Market Neutral Size,Dow Jones US Thematic Market Neutral Size,DJTMNSS,USD,other_indices,global_indices
+1020,united states,NQ US Broad Dividend Achievers,NASDAQ US Broad Dividend Achievers,DAA,USD,other_indices,global_indices
+1021,united states,DJ Islamic Market US Small-Cap,Dow Jones Islamic Market US Small-Cap,IMUSS,USD,other_indices,global_indices
+1022,united states,DJ Islamic Market US Large-Cap,Dow Jones Islamic Market US Large-Cap,IMUSL,USD,other_indices,global_indices
+1023,united states,DJ Global ex-US Select Real Estate,Dow Jones Global ex-US Select Real Estate Securities,DWXRS,USD,other_indices,global_indices
+1024,united states,DJ US Select Real Estate,Dow Jones US Select Real Estate Securities,DWRSF,USD,other_indices,global_indices
+1025,united states,DJ U.S. Target Today,Dow Jones US Target Today,DJUSTGT,USD,other_indices,global_indices
+1026,united states,DJ U.S. Target 2055,Dow Jones US Target 2055,DJUSTG55,USD,other_indices,global_indices
+1027,united states,DJ U.S. Target 2050,Dow Jones US Target 2050,DJUSTG50,USD,other_indices,global_indices
+1028,united states,DJ U.S. Target 2045,Dow Jones US Target 2045,DJUSTG45,USD,other_indices,global_indices
+1029,united states,DJ U.S. Target 2040,Dow Jones US Target 2040,DJUSTG40,USD,other_indices,global_indices
+1030,united states,DJ U.S. Target 2035,Dow Jones US Target 2035,DJUSTG35,USD,other_indices,global_indices
+1031,united states,DJ U.S. Target 2030,Dow Jones US Target 2030,DJUSTG30,USD,other_indices,global_indices
+1032,united states,DJ U.S. Target 2025,Dow Jones US Target 2025,DJUSTG25,USD,other_indices,global_indices
+1033,united states,DJ U.S. Target 2020,Dow Jones US Target 2020,DJUSTG20,USD,other_indices,global_indices
+1034,united states,DJ U.S. Target 2015,Dow Jones US Target 2015,DJUSTG15,USD,other_indices,global_indices
+1035,united states,DJ U.S. Target 2010,Dow Jones US Target 2010,DJUSTG10,USD,other_indices,global_indices
+1036,united states,DJ U.S. Target 2005,Dow Jones US Target 2005,DJUSTG05,USD,other_indices,global_indices
+1037,united states,DJ Islamic Market US Titans 50,Dow Jones Islamic Market US Titans 50,DJUS50,USD,other_indices,global_indices
+1038,united states,DJ US Select Equal Weight REIT CAD,Dow Jones US Select Equal Weight REIT CAD,DJURTEWC,CAD,other_indices,global_indices
+1039,united states,DJ US Select Equal Weight REIT USD,Dow Jones US Select Equal Weight REIT USD,DJURTEW,USD,other_indices,global_indices
+1040,united states,DJ U.S. Short Relative Value,Dow Jones US Short Relative Value,DJTSSV,USD,other_indices,global_indices
+1041,united states,DJ U.S. Thematic Short Size,Dow Jones US Thematic Short Size,DJTSSS,USD,other_indices,global_indices
+1042,united states,DJ US Thematic Short Quality,Dow Jones US Thematic Short Quality,DJTSQU,USD,other_indices,global_indices
+1043,united states,DJ U.S. Low Momentum,Dow Jones US Low Momentum,DJTSMO,USD,other_indices,global_indices
+1044,united states,DJ US High Beta,Dow Jones US High Beta,DJTSAB,USD,other_indices,global_indices
+1045,united states,DJ US Thematic Market Neut Quality,Dow Jones US Thematic Market Neutral Quality,DJTMNQU,USD,other_indices,global_indices
+1046,united states,DJIAF 4XL,DJI Average Futures 4x Long,X0DI,USD,other_indices,global_indices
+1047,united states,DJIAF 3XL,DJI Average Futures 3x Long,X0DH,USD,other_indices,global_indices
+1048,united states,DJ US Mid Cap Total Market,Dow Jones US Mid-Cap Total Market,DWM,USD,other_indices,global_indices
+1049,united states,DJ Equal Weight US Issued Corporate Bond TR,Dow Jones Equal Weight U.S. Issued Corporate Bond TR,DJCBT,USD,bonds,global_indices
+1050,united states,TR US 10 Year Government Benchmark,Thomson Reuters US 10 Year Government Benchmark,TRXVUSGOV10U,USD,bonds,global_indices
+1051,united states,TR US 7 Years Government Benchmark,Thomson Reuters US 7 Years Government Benchmark,TRXVUSGOV7U,USD,bonds,global_indices
+1052,united states,TR US 5 Years Government Benchmark,Thomson Reuters US 5 Years Government Benchmark,TRXVUSGOV5U,USD,bonds,global_indices
+1053,united states,TR US 30 Years Government Benchmark,Thomson Reuters US 30 Years Government Benchmark,TRXVUSGOV30U,USD,bonds,global_indices
+1054,united states,TR US 3 Years Government Benchmark,Thomson Reuters US 3 Years Government Benchmark,TRXVUSGOV3U,USD,bonds,global_indices
+1055,united states,TR US 2 Years Government Benchmark,Thomson Reuters US 2 Years Government Benchmark,TRXVUSGOV2U,USD,bonds,global_indices
+1056,united states,SGI Double Short 10Y US Treasuries,SGI Double Short 10Y US Treasuries,SGIXDSTY,USD,bonds,global_indices
+1057,united states,CBK FED Funds Effective Rate USD,CBK FED Funds Effective Rate USD,COBAFEDFER,USD,bonds,global_indices
+1058,united states,Short Treas 7-10T,Short Treas 7-10T,SHORTUS2,USD,bonds,global_indices
+1059,united states,MSCI US REIT,MSCI US REIT,RMZ,USD,primary_sectors,global_indices
+1060,united states,NQ US Benchmark Technology,NASDAQ US Benchmark Technology,NQUSB9000,USD,primary_sectors,global_indices
+1061,united states,NQ US Benchmark Financ Services,NASDAQ US Benchmark Financ Services,NQUSB8700,USD,primary_sectors,global_indices
+1062,united states,NQ US Benchmark Real Estate,NASDAQ US Benchmark Real Estate,NQUSB8600,USD,primary_sectors,global_indices
+1063,united states,NQ US Benchmark Insurance,NASDAQ US Benchmark Insurance,NQUSB8500,USD,primary_sectors,global_indices
+1064,united states,NQ US Benchmark Banks,NASDAQ US Benchmark Banks,NQUSB8300,USD,primary_sectors,global_indices
+1065,united states,NQ US Benchmark Financials,NASDAQ US Benchmark Financials,NQUSB8000,USD,primary_sectors,global_indices
+1066,united states,NQ US Benchmark Utilities,NASDAQ US Benchmark Utilities,NQUSB7000,USD,primary_sectors,global_indices
+1067,united states,NQ US Benchmark Telecommunications,NASDAQ US Benchmark Telecommunications,NQUSB6000,USD,primary_sectors,global_indices
+1068,united states,NQ US Benchmark Retail,NASDAQ US Benchmark Retail,NQUSB5300,USD,primary_sectors,global_indices
+1069,united states,NQ US Benchmark Pharmaceuticals & Biotechnology,NASDAQ US Benchmark Pharmaceuticals & Biotechnology,NQUSB4570,USD,primary_sectors,global_indices
+1070,united states,NQ US Benchmark Health Care,NASDAQ US Benchmark Health Care,NQUSB4000,USD,primary_sectors,global_indices
+1071,united states,NQ US Benchmark Personal & Household Goods,NASDAQ US Benchmark Personal & Household Goods,NQUSB3700,USD,primary_sectors,global_indices
+1072,united states,NQ US Benchmark Food & Beverage,NASDAQ US Benchmark Food & Beverage,NQUSB3500,USD,primary_sectors,global_indices
+1073,united states,NQ US Benchmark Automobiles & Parts,NASDAQ US Benchmark Automobiles & Parts,NQUSB3300,USD,primary_sectors,global_indices
+1074,united states,TR US 50,Thomson Reuters United States 50,TRX50USP,USD,additional_indices,global_indices
+1075,united states,MSCI USA,MSCI USA,MIUS00000PUS,USD,additional_indices,global_indices
+1076,united states,Russell Midcap NR,Russell Midcap NR,RUMNU,USD,additional_indices,global_indices
+1077,united states,KBW Financial Sector Dividend Yield,KBW Financial Sector Dividend Yield,KDX,USD,other_indices,global_indices
+1078,united states,CRSP US Total Market,CRSP US Total Market,CRSPTM1,USD,other_indices,global_indices
+1079,united states,NQ OMX Healthy Living TR,NASDAQ OMX Healthy Living TR,GRNHLX,USD,other_indices,world_indices
+1080,united states,CRSP US Mid Cap,CRSP US Mid Cap,CRSPMI1,USD,other_indices,global_indices
+1081,united states,CRSP US Mega Cap,CRSP US Mega Cap,CRSPME1,USD,other_indices,global_indices
+1082,united states,CRSP US Large Cap,CRSP US Large Cap,CRSPLC1,USD,other_indices,global_indices
+1083,united states,MSCI United States Short Gross USD,MSCI United States Short Gross USD,MIUS00000SUS,USD,other_indices,global_indices
+1084,united states,MSCI US RE Price USD,MSCI US RE Price USD,MIUS0RE00PUS,USD,other_indices,global_indices
+1085,united states,MSCI US Small Net USD,MSCI US Small Net USD,MIUS000S0NUS,USD,other_indices,global_indices
+1086,united states,MSCI US Mid Price USD,MSCI US Mid Price USD,MIUS000M0PUS,USD,other_indices,global_indices
+1087,united states,MSCI US Mid Net USD,MSCI US Mid Net USD,MIUS000M0NUS,USD,other_indices,global_indices
+1088,united states,MSCI US Large Price USD,MSCI US Large Price USD,MIUS000L0PUS,USD,other_indices,global_indices
+1089,united states,MSCI US Large Net USD,MSCI US Large Net USD,MIUS000L0NUS,USD,other_indices,global_indices
+1090,united states,NQ US Dividend Achievers 50,NASDAQ US Dividend Achievers 50,DAY,USD,other_indices,global_indices
+1091,united states,MSCI USA Quality NR USD,MSCI USA Quality NR USD,MIUS0000VNUS,USD,other_indices,global_indices
+1092,united states,MSCI US Leveraged 2x Net EUR,MSCI US Leveraged 2x Net EUR,MIUS00000MEU,EUR,other_indices,global_indices
+1093,united states,S&P High Yield Div Aristocrats TR,S&P High Yield Div Aristocrats TR,TRSPHYDA,USD,other_indices,global_indices
+1094,united states,S&P 600 TR,S&P 600 TR,TR6GSPC,USD,other_indices,global_indices
+1095,united states,S&P 500 TR,S&P 500 TR,SPXTR,USD,other_indices,global_indices
+1096,united states,SP 500 VIX Short Term Futures TRI,SP 500 VIX Short Term Futures TRI,SPVIXSTR,USD,other_indices,global_indices
+1097,united states,SP 500 VIX Mid Term Futures TRI,SP 500 VIX Mid Term Futures TRI,SPVIXMTR,USD,other_indices,global_indices
+1098,united states,S&P 500 Low Volatility Net TR,S&P 500 Low Volatility Net TR,SP5LVIN,USD,other_indices,global_indices
+1099,united states,SP 500 EUR Hedged NTR,SP 500 EUR Hedged NTR,NTRGSPCEH,EUR,other_indices,global_indices
+1100,united states,MSCI USA Barra Momentum,MSCI USA Barra Momentum,MIUS0000KPUS,USD,other_indices,global_indices
+1101,united states,MSCI USA Barra Low Volatility,MSCI USA Barra Low Volatility,MIUS0000IPUS,USD,other_indices,global_indices
+1102,united states,MSCI USA Barra Low Leverage,MSCI USA Barra Low Leverage,MIUS0000JPUS,USD,other_indices,global_indices
+1103,united states,MSCI USA Barra Earnings Yield,MSCI USA Barra Earnings Yield,MIUS0000PPUS,USD,other_indices,global_indices
+1104,united states,MSCI US Growth Net USD,MSCI US Growth Net USD,MIUS0000GNUS,USD,other_indices,global_indices
+1105,united states,NQ US Buyback Achievers,NASDAQ US Buyback Achievers,DRB,USD,other_indices,global_indices
+1106,united states,NQ US Buyback Achievers Select,NASDAQ US Buyback Achievers Select,DRBS,USD,other_indices,global_indices
+1107,united states,NQ US Dividend Achievers Select,NASDAQ US Dividend Achievers Select,DVG,USD,other_indices,global_indices
+1108,united states,NQ US Benchmark Consumer Services,NASDAQ US Benchmark Consumer Services,NQUSB5000,USD,other_indices,global_indices
+1109,united states,NQ US Benchmark Pharmaceuticals,NASDAQ US Benchmark Pharmaceuticals,NQUSB4577,USD,other_indices,global_indices
+1110,united states,NQ US Benchmark Biotechnology,NASDAQ US Benchmark Biotechnology,NQUSB4573,USD,other_indices,global_indices
+1111,united states,NQ US Benchmark Medical Supplies,NASDAQ US Benchmark Medical Supplies,NQUSB4537,USD,other_indices,global_indices
+1112,united states,NQ US Benchmark Medical Equipment,NASDAQ US Benchmark Medical Equipment,NQUSB4535,USD,other_indices,global_indices
+1113,united states,NQ US Benchmark Health Care Providers,NASDAQ US Benchmark Health Care Providers,NQUSB4533,USD,other_indices,global_indices
+1114,united states,NQ US Benchmark Health Care Equipment & Services,NASDAQ US Benchmark Health Care Equipment & Services,NQUSB4530,USD,other_indices,global_indices
+1115,united states,NQ US Benchmark Tobacco,NASDAQ US Benchmark Tobacco,NQUSB3780,USD,other_indices,global_indices
+1116,united states,NQ US Benchmark Personal Products,NASDAQ US Benchmark Personal Products,NQUSB3767,USD,other_indices,global_indices
+1117,united states,NQ US Benchmark Footwear,NASDAQ US Benchmark Footwear,NQUSB3765,USD,other_indices,global_indices
+1118,united states,NQ US Benchmark Clothing & Accessories,NASDAQ US Benchmark Clothing & Accessories,NQUSB3763,USD,other_indices,global_indices
+1119,united states,NQ US Benchmark Personal Goods,NASDAQ US Benchmark Personal Goods,NQUSB3760,USD,other_indices,global_indices
+1120,united states,NQ US Benchmark Toys,NASDAQ US Benchmark Toys,NQUSB3747,USD,other_indices,global_indices
+1121,united states,NQ US Benchmark Recreational Products,NASDAQ US Benchmark Recreational Products,NQUSB3745,USD,other_indices,global_indices
+1122,united states,NQ US Benchmark Consumer Electronics,NASDAQ US Benchmark Consumer Electronics,NQUSB3743,USD,other_indices,global_indices
+1123,united states,NQ US Benchmark Leisure Goods,NASDAQ US Benchmark Leisure Goods,NQUSB3740,USD,other_indices,global_indices
+1124,united states,NQ US Benchmark Furnishings,NASDAQ US Benchmark Furnishings,NQUSB3726,USD,other_indices,global_indices
+1125,united states,NQ US Benchmark Nondurable Household Products,NASDAQ US Benchmark Nondurable Household Products,NQUSB3724,USD,other_indices,global_indices
+1126,united states,NQ US Benchmark Durable Household Products,NASDAQ US Benchmark Durable Household Products,NQUSB3722,USD,other_indices,global_indices
+1127,united states,NQ US Benchmark Food Products,NASDAQ US Benchmark Food Products,NQUSB3577,USD,other_indices,global_indices
+1128,united states,NQ US Benchmark Farming & Fishing,NASDAQ US Benchmark Farming & Fishing,NQUSB3573,USD,other_indices,global_indices
+1129,united states,NQ US Benchmark Food Producers,NASDAQ US Benchmark Food Producers,NQUSB3570,USD,other_indices,global_indices
+1130,united states,NQ US Benchmark Soft Drinks,NASDAQ US Benchmark Soft Drinks,NQUSB3537,USD,other_indices,global_indices
+1131,united states,NQ US Benchmark Distillers & Vintners,NASDAQ US Benchmark Distillers & Vintners,NQUSB3535,USD,other_indices,global_indices
+1132,united states,NQ US Benchmark Beverages,NASDAQ US Benchmark Beverages,NQUSB3530,USD,other_indices,global_indices
+1133,united states,NQ US Benchmark Food & Drug Retailers,NASDAQ US Benchmark Food & Drug Retailers,NQUSB5330,USD,other_indices,global_indices
+1134,united states,NQ US Benchmark Drug Retailers,NASDAQ US Benchmark Drug Retailers,NQUSB5333,USD,other_indices,global_indices
+1135,united states,NQ US Benchmark Food Retailers & Wholesalers,NASDAQ US Benchmark Food Retailers & Wholesalers,NQUSB5337,USD,other_indices,global_indices
+1136,united states,NQ US Benchmark General Retailers,NASDAQ US Benchmark General Retailers,NQUSB5370,USD,other_indices,global_indices
+1137,united states,NQ US Benchmark Property & Casualty Insurance,NASDAQ US Benchmark Property & Casualty Insurance,NQUSB8536,USD,other_indices,global_indices
+1138,united states,NQ US Benchmark Full Line Insurance,NASDAQ US Benchmark Full Line Insurance,NQUSB8532,USD,other_indices,global_indices
+1139,united states,NQ US Benchmark Nonlife Insurance,NASDAQ US Benchmark Nonlife Insurance,NQUSB8530,USD,other_indices,global_indices
+1140,united states,NQ US Benchmark Water,NASDAQ US Benchmark Water,NQUSB7577,USD,other_indices,global_indices
+1141,united states,NQ US Benchmark Multiutilities,NASDAQ US Benchmark Multiutilities,NQUSB7575,USD,other_indices,global_indices
+1142,united states,"NQ US Benchmark Gas, Water & Multiutilities","NASDAQ US Benchmark Gas, Water & Multiutilities",NQUSB7570,USD,other_indices,global_indices
+1143,united states,NQ US Benchmark Conventional Electricity,NASDAQ US Benchmark Conventional Electricity,NQUSB7535,USD,other_indices,global_indices
+1144,united states,NQ US Benchmark Electricity,NASDAQ US Benchmark Electricity,NQUSB7530,USD,other_indices,global_indices
+1145,united states,NQ US Benchmark Mobile Telecommunications,NASDAQ US Benchmark Mobile Telecommunications,NQUSB6570,USD,other_indices,global_indices
+1146,united states,NQ US Benchmark Fixed Line Telecommunications,NASDAQ US Benchmark Fixed Line Telecommunications,NQUSB6530,USD,other_indices,global_indices
+1147,united states,NQ US Benchmark Travel & Tourism,NASDAQ US Benchmark Travel & Tourism,NQUSB5759,USD,other_indices,global_indices
+1148,united states,NQ US Benchmark Restaurants & Bars,NASDAQ US Benchmark Restaurants & Bars,NQUSB5757,USD,other_indices,global_indices
+1149,united states,NQ US Benchmark Auto Parts,NASDAQ US Benchmark Auto Parts,NQUSB3355,USD,other_indices,global_indices
+1150,united states,NQ US Benchmark Recreational Services,NASDAQ US Benchmark Recreational Services,NQUSB5755,USD,other_indices,global_indices
+1151,united states,NQ US Benchmark Gambling,NASDAQ US Benchmark Gambling,NQUSB5752,USD,other_indices,global_indices
+1152,united states,NQ US Benchmark Airlines,NASDAQ US Benchmark Airlines,NQUSB5751,USD,other_indices,global_indices
+1153,united states,NQ US Benchmark Travel & Leisure,NASDAQ US Benchmark Travel & Leisure,NQUSB5700,USD,other_indices,global_indices
+1154,united states,NQ US Benchmark Publishing,NASDAQ US Benchmark Publishing,NQUSB5557,USD,other_indices,global_indices
+1155,united states,NQ US Benchmark Media Agencies,NASDAQ US Benchmark Media Agencies,NQUSB5555,USD,other_indices,global_indices
+1156,united states,NQ US Benchmark Broadcasting & Entertainment,NASDAQ US Benchmark Broadcasting & Entertainment,NQUSB5553,USD,other_indices,global_indices
+1157,united states,NQ US Benchmark Media,NASDAQ US Benchmark Media,NQUSB5500,USD,other_indices,global_indices
+1158,united states,NQ US Benchmark Specialty Retailers,NASDAQ US Benchmark Specialty Retailers,NQUSB5379,USD,other_indices,global_indices
+1159,united states,NQ US Benchmark Specialized Consumer Services,NASDAQ US Benchmark Specialized Consumer Services,NQUSB5377,USD,other_indices,global_indices
+1160,united states,NQ US Benchmark Home Improvement Retailers,NASDAQ US Benchmark Home Improvement Retailers,NQUSB5375,USD,other_indices,global_indices
+1161,united states,NQ US Benchmark Broadline Retailers,NASDAQ US Benchmark Broadline Retailers,NQUSB5373,USD,other_indices,global_indices
+1162,united states,NQ US Benchmark Apparel Retailers,NASDAQ US Benchmark Apparel Retailers,NQUSB5371,USD,other_indices,global_indices
+1163,united states,NQ US Benchmark Hotels,NASDAQ US Benchmark Hotels,NQUSB5753,USD,other_indices,global_indices
+1164,united states,NQ US Benchmark Transportation Services,NASDAQ US Benchmark Transportation Services,NQUSB2777,USD,primary_sectors,global_indices
+1165,united states,NQ US Benchmark Consumer Goods,NASDAQ US Benchmark Consumer Goods,NQUSB3000,USD,other_indices,global_indices
+1166,united states,NQ US Benchmark Industrial Suppliers,NASDAQ US Benchmark Industrial Suppliers,NQUSB2797,USD,other_indices,global_indices
+1167,united states,NQ US Benchmark Forestry & Paper,NASDAQ US Benchmark Forestry & Paper,NQUSB1730,USD,other_indices,global_indices
+1168,united states,NQ US Benchmark Basic Resources,NASDAQ US Benchmark Basic Resources,NQUSB1700,USD,other_indices,global_indices
+1169,united states,NQ US Benchmark Specialty Chemicals,NASDAQ US Benchmark Specialty Chemicals,NQUSB1357,USD,other_indices,global_indices
+1170,united states,NQ US Benchmark Commodity Chemicals,NASDAQ US Benchmark Commodity Chemicals,NQUSB1353,USD,other_indices,global_indices
+1171,united states,NQ US Benchmark Renewable Energy Equipment,NASDAQ US Benchmark Renewable Energy Equipment,NQUSB0583,USD,other_indices,global_indices
+1172,united states,NQ US Benchmark Alternative Energy,NASDAQ US Benchmark Alternative Energy,NQUSB0580,USD,other_indices,global_indices
+1173,united states,NQ US Benchmark Pipelines,NASDAQ US Benchmark Pipelines,NQUSB0577,USD,other_indices,global_indices
+1174,united states,NQ US Benchmark Oil Equipment & Services,NASDAQ US Benchmark Oil Equipment & Services,NQUSB0573,USD,other_indices,global_indices
+1175,united states,NQ US Benchmark Integrated Oil & Gas,NASDAQ US Benchmark Integrated Oil & Gas,NQUSB0537,USD,other_indices,global_indices
+1176,united states,NQ US Benchmark Exploration & Production,NASDAQ US Benchmark Exploration & Production,NQUSB0533,USD,other_indices,global_indices
+1177,united states,NQ US Benchmark Oil & Gas Producers,NASDAQ US Benchmark Oil & Gas Producers,NQUSB0530,USD,other_indices,global_indices
+1178,united states,NQ Chaikin Power US Large Cap,NASDAQ Chaikin Power US Large Cap,NQULCHK,USD,other_indices,global_indices
+1179,united states,NQ US Preferred Security,NASDAQ US Preferred Security,NQPFDUS,USD,other_indices,global_indices
+1180,united states,NQ US Multi-Asset Diversified Income,NASDAQ US Multi-Asset Diversified Income,NQMAUS,USD,other_indices,global_indices
+1181,united states,NQ AlphaDEX US Total Market,NASDAQ AlphaDEX US Total Market,NQDXUSB,USD,other_indices,global_indices
+1182,united states,NQ US Rising Dividend Achievers,NASDAQ US Rising Dividend Achievers,NQDVRIS,USD,other_indices,global_indices
+1183,united states,NQ Chaikin Power US Dividend Achievers,NASDAQ Chaikin Power US Dividend Achievers,NQDACHK,USD,other_indices,global_indices
+1184,united states,NQ 100 Ex Tech Sector,NASDAQ 100 Ex Tech Sector,NDXX,USD,other_indices,global_indices
+1185,united states,NQ 100 Technology Sector,NASDAQ 100 Technology Sector,NDXT,USD,other_indices,global_indices
+1186,united states,NQ 100 3x Inverse,NASDAQ 100 3x Inverse,NDXS3,USD,other_indices,global_indices
+1187,united states,NQ 100 3x Leveraged,NASDAQ 100 3x Leveraged,NDXL3,USD,other_indices,global_indices
+1188,united states,NQ 100 Currency Hedged EUR,NASDAQ 100 Currency Hedged EUR,NDXEURH,USD,other_indices,global_indices
+1189,united states,NQ 100 Equal Weighted,NASDAQ 100 Equal Weighted,NDXE,USD,other_indices,global_indices
+1190,united states,NQ 100 Currency Hedged CAD,NASDAQ 100 Currency Hedged CAD,NDXCADH,USD,other_indices,global_indices
+1191,united states,NQ OMX Green Economy US,NASDAQ OMX Green Economy US,GRNUS,USD,other_indices,global_indices
+1192,united states,NQ US Benchmark Paper,NASDAQ US Benchmark Paper,NQUSB1737,USD,other_indices,global_indices
+1193,united states,NQ US Benchmark Industrial Metals & Mining,NASDAQ US Benchmark Industrial Metals & Mining,NQUSB1750,USD,other_indices,global_indices
+1194,united states,NQ US Benchmark Nonferrous Metals,NASDAQ US Benchmark Nonferrous Metals,NQUSB1755,USD,other_indices,global_indices
+1195,united states,NQ US Benchmark Coal,NASDAQ US Benchmark Coal,NQUSB1771,USD,other_indices,global_indices
+1196,united states,NQ US Benchmark Financial Administration,NASDAQ US Benchmark Financial Administration,NQUSB2795,USD,other_indices,global_indices
+1197,united states,NQ US Benchmark Business Training & Emp Agencies,NASDAQ US Benchmark Business Training & Employment Agencies,NQUSB2793,USD,other_indices,global_indices
+1198,united states,NQ US Benchmark Business Support Services,NASDAQ US Benchmark Business Support Services,NQUSB2791,USD,other_indices,global_indices
+1199,united states,NQ US Benchmark Support Services,NASDAQ US Benchmark Support Services,NQUSB2790,USD,other_indices,global_indices
+1200,united states,NQ US Benchmark Trucking,NASDAQ US Benchmark Trucking,NQUSB2779,USD,other_indices,global_indices
+1201,united states,NQ US Benchmark Railroads,NASDAQ US Benchmark Railroads,NQUSB2775,USD,other_indices,global_indices
+1202,united states,NQ US Benchmark Marine Transportation,NASDAQ US Benchmark Marine Transportation,NQUSB2773,USD,other_indices,global_indices
+1203,united states,NQ US Benchmark Delivery Services,NASDAQ US Benchmark Delivery Services,NQUSB2771,USD,other_indices,global_indices
+1204,united states,NQ US Benchmark Industrial Transportation,NASDAQ US Benchmark Industrial Transportation,NQUSB2770,USD,other_indices,global_indices
+1205,united states,NQ US Benchmark Industrial Machinery,NASDAQ US Benchmark Industrial Machinery,NQUSB2757,USD,other_indices,global_indices
+1206,united states,NQ US Benchmark Commercial Vehicles & Trucks,NASDAQ US Benchmark Commercial Vehicles & Trucks,NQUSB2753,USD,other_indices,global_indices
+1207,united states,NQ US Benchmark Industrial Engineering,NASDAQ US Benchmark Industrial Engineering,NQUSB2750,USD,other_indices,global_indices
+1208,united states,NQ US Benchmark Waste & Disposal Services,NASDAQ US Benchmark Waste & Disposal Services,NQUSB2799,USD,other_indices,global_indices
+1209,united states,NQ US Benchmark Electronic Equipment,NASDAQ US Benchmark Electronic Equipment,NQUSB2737,USD,other_indices,global_indices
+1210,united states,NQ US Benchmark Electronic & Electrical Equipment,NASDAQ US Benchmark Electronic & Electrical Equipment,NQUSB2730,USD,other_indices,global_indices
+1211,united states,NQ US Benchmark Diversified Industrials,NASDAQ US Benchmark Diversified Industrials,NQUSB2727,USD,other_indices,global_indices
+1212,united states,NQ US Benchmark Containers & Packaging,NASDAQ US Benchmark Containers & Packaging,NQUSB2723,USD,other_indices,global_indices
+1213,united states,NQ US Benchmark General Industrials,NASDAQ US Benchmark General Industrials,NQUSB2720,USD,other_indices,global_indices
+1214,united states,NQ US Benchmark Defense,NASDAQ US Benchmark Defense,NQUSB2717,USD,other_indices,global_indices
+1215,united states,NQ US Benchmark Aerospace,NASDAQ US Benchmark Aerospace,NQUSB2713,USD,other_indices,global_indices
+1216,united states,NQ US Benchmark Industrial G&S,NASDAQ US Benchmark Industrial G&S,NQUSB2700,USD,other_indices,global_indices
+1217,united states,NQ US Benchmark Building Materials & Fixtures,NASDAQ US Benchmark Building Materials & Fixtures,NQUSB2353,USD,other_indices,global_indices
+1218,united states,NQ US Benchmark Construction & Materials,NASDAQ US Benchmark Construction & Materials,NQUSB2300,USD,other_indices,global_indices
+1219,united states,NQ US Benchmark Industrials,NASDAQ US Benchmark Industrials,NQUSB2000,USD,other_indices,global_indices
+1220,united states,NQ US Benchmark Gold Mining,NASDAQ US Benchmark Gold Mining,NQUSB1777,USD,other_indices,global_indices
+1221,united states,NQ US Benchmark General Mining,NASDAQ US Benchmark General Mining,NQUSB1775,USD,other_indices,global_indices
+1222,united states,NQ US Benchmark Electrical Components & Equipment,NASDAQ US Benchmark Electrical Components & Equipment,NQUSB2733,USD,other_indices,global_indices
+1223,united states,NQ US Benchmark Aerospace & Defense,NASDAQ US Benchmark Aerospace & Defense,NQUSB2710,USD,primary_sectors,global_indices
+1224,united states,CRSP US Small Cap,CRSP US Small Cap,CRSPSC1,USD,other_indices,global_indices
+1225,united states,ISE Cyber Security UCITS,ISE Cyber Security UCITS,HUR,USD,other_indices,world_indices
+1226,united states,DJ Pharmaceuticals,Dow Jones Pharmaceuticals,DJUSPR,USD,other_indices,world_indices
+1227,united states,NQ OMX Clean Energy Europe,NASDAQ OMX Clean Energy Europe,GRNFOCEUR,USD,other_indices,world_indices
+1228,united states,NQ OMX Clean Energy Asia TR,NASDAQ OMX Clean Energy Asia TR,GRNFOCASX,USD,other_indices,world_indices
+1229,united states,NQ OMX Clean Energy Asia,NASDAQ OMX Clean Energy Asia,GRNFOCAS,USD,other_indices,world_indices
+1230,united states,NQ OMX Clean Edge Smart Grid Infrastructure,NASDAQ OMX Clean Edge Smart Grid Infrastructure,QGRD,USD,other_indices,world_indices
+1231,united states,NQ OMX China Technology,NASDAQ OMX China Technology,NQCH9000,USD,other_indices,world_indices
+1232,united states,NQ Dividend Achievers TR,NASDAQ Dividend Achievers TR,DIVQTR,USD,other_indices,world_indices
+1233,united states,NQ OMX CEA Smartphone TR,NASDAQ OMX CEA Smartphone TR,QFNX,USD,other_indices,world_indices
+1234,united states,DJ Personal Products,Dow Jones Personal Products,DJUSCM,USD,other_indices,world_indices
+1235,united states,NQ OMX CEA Smartphone,NASDAQ OMX CEA Smartphone,QFON,USD,other_indices,world_indices
+1236,united states,NQ OMX Bio/Clean Fuels,NASDAQ OMX Bio/Clean Fuels,GRNBIO,USD,other_indices,world_indices
+1237,united states,NQ OMX Advanced Materials TR,NASDAQ OMX Advanced Materials TR,GRNAMX,USD,other_indices,world_indices
+1238,united states,NQ OMX Advanced Materials,NASDAQ OMX Advanced Materials,GRNAM,USD,other_indices,world_indices
+1239,united states,DJ Pharmaceuticals & Biotechnology,Dow Jones Pharmaceuticals & Biotechnology,DJUSPN,USD,other_indices,world_indices
+1240,united states,DJ Pipelines,Dow Jones Pipelines,DJUSPL,USD,other_indices,world_indices
+1241,united states,DJ Precious Metals,Dow Jones Precious Metals,DJGSP,USD,other_indices,world_indices
+1242,united states,DJ Property & Casualty Insurance,Dow Jones Property & Casualty Insurance,DJUSIP,USD,other_indices,world_indices
+1243,united states,DJ Publishing,Dow Jones Publishing,DJUSPB,USD,other_indices,world_indices
+1244,united states,NQ OMX Bio/Clean Fuels TR,NASDAQ OMX Bio/Clean Fuels TR,GRNBIOX,USD,other_indices,world_indices
+1245,united states,DJ Railroads,Dow Jones Railroads,DJUSRR,USD,other_indices,world_indices
+1246,united states,DJ Personal Goods,Dow Jones Personal Goods,DJUSPG,USD,other_indices,world_indices
+1247,united states,DJ Paper,Dow Jones Paper,DJUSPP,USD,other_indices,world_indices
+1248,united states,DJ Media Agencies,Dow Jones Media Agencies,DJUSAV,USD,other_indices,world_indices
+1249,united states,DJ Medical Equipment,Dow Jones Medical Equipment,DJUSAM,USD,other_indices,world_indices
+1250,united states,DJ Medical Supplies,Dow Jones Medical Supplies,DJUSMS,USD,other_indices,world_indices
+1251,united states,DJ Mining,Dow Jones Mining,DJUSMG,USD,other_indices,world_indices
+1252,united states,DJ Mobile Telecom,Dow Jones Mobile Telecommunications,DJUSWC,USD,other_indices,world_indices
+1253,united states,DJ Mortgage Finance,Dow Jones Mortgage Finance,DJUSMF,USD,other_indices,world_indices
+1254,united states,DJ Mortgage,Dow Jones Mortgage REITs,DJUSMR,USD,other_indices,world_indices
+1255,united states,NQ OMX Clean Energy US,NASDAQ OMX Clean Energy US,GRNFOCUS,USD,other_indices,world_indices
+1256,united states,DJ Personal & Household Goods,Dow Jones Personal & Household Goods,DJUSNG,USD,other_indices,world_indices
+1257,united states,NQ Dividend Achievers,NASDAQ Dividend Achievers,DIVQ,USD,other_indices,world_indices
+1258,united states,NQ OMX Clean Energy Focused,NASDAQ OMX Clean Energy Focused,GRNCLNFO,USD,other_indices,world_indices
+1259,united states,NQ OMX Clean Energy Europe TR,NASDAQ OMX Clean Energy Europe TR,GRNFOCEURX,USD,other_indices,world_indices
+1260,united states,DJ Multiutilities,Dow Jones Multiutilities,DJUSMU,USD,other_indices,world_indices
+1261,united states,DJ Nonferrous Metals,Dow Jones Nonferrous Metals,DJUSNF,USD,other_indices,world_indices
+1262,united states,DJ Nonlife Insurance,Dow Jones Nonlife Insurance,DJUSIX,USD,other_indices,world_indices
+1263,united states,DJ Oil & Gas Producers,Dow Jones Oil & Gas Producers,DJUSOG,USD,other_indices,world_indices
+1264,united states,DJ Oil Equipment & Services,Dow Jones Oil Equipment & Services,DJUSOI,USD,other_indices,world_indices
+1265,united states,DJ Oil Equipment Services & Distribution,Dow Jones Oil Equipment Services & Distribution,DJUSOQ,USD,other_indices,world_indices
+1266,united states,DJ Travel & Tourism,Dow Jones Travel & Tourism,DJUSTT,USD,other_indices,world_indices
+1267,united states,DJ RE,Dow Jones Real Estate,DJUSRE,USD,other_indices,world_indices
+1268,united states,DJ Real Estate Holding & Development,Dow Jones Real Estate Holding & Development,DJUSEH,USD,other_indices,world_indices
+1269,united states,DJ Real Estate Investment & Services,Dow Jones Real Estate Investment & Services,DJUSRH,USD,other_indices,world_indices
+1270,united states,DJ Software,Dow Jones Software,DJUSSW,USD,other_indices,world_indices
+1271,united states,DJ Fixed Line Telecom,DowJones Fixed Line Telecommunications,DJUSFC,USD,other_indices,world_indices
+1272,united states,DJ Electronic Office Equipment,DowJones Electronic Office Equipment,DJUSOE,USD,other_indices,world_indices
+1273,united states,DJ Water,Dow Jones Water,DJUSWU,USD,other_indices,world_indices
+1274,united states,DJ Waste & Disposal Services,Dow Jones Waste & Disposal Services,DJUSPC,USD,other_indices,world_indices
+1275,united states,DJ Software & Computer Services,Dow Jones Software & Computer Services,DJUSSV,USD,other_indices,world_indices
+1276,united states,DJ Specialized Consumer Services,Dow Jones Specialized Consumer Services,DJUSCS,USD,other_indices,world_indices
+1277,united states,DJ Specialty Chemicals,Dow Jones Specialty Chemicals,DJUSCX,USD,other_indices,world_indices
+1278,united states,DJ Soft Drinks,Dow Jones Soft Drinks,DJUSSD,USD,other_indices,world_indices
+1279,united states,DJ Specialty Finance,Dow Jones Specialty Finance,DJUSSP,USD,other_indices,world_indices
+1280,united states,DJ Specialty Retailers,Dow Jones Specialty Retailers,DJUSRS,USD,other_indices,world_indices
+1281,united states,DJ Support Services,Dow Jones Support Services,DJUSIS,USD,other_indices,world_indices
+1282,united states,DJ Technology Hardware & Equipment,Dow Jones Technology Hardware & Equipment,DJUSTQ,USD,other_indices,world_indices
+1283,united states,DJ Tires,Dow Jones Tires,DJUSTR,USD,other_indices,world_indices
+1284,united states,DJ Tobacco,Dow Jones Tobacco,DJUSTB,USD,other_indices,world_indices
+1285,united states,DJ Toys,Dow Jones Toys,DJUSTY,USD,other_indices,world_indices
+1286,united states,DJ Transportation Services,Dow Jones Transportation Services,DJUSTS,USD,other_indices,world_indices
+1287,united states,DJ Travel & Leisure,Dow Jones Travel & Leisure,DJUSCG,USD,other_indices,world_indices
+1288,united states,DJ Specialty REITs,Dow Jones Specialty REITs,DJUSSR,USD,other_indices,world_indices
+1289,united states,DJ Semiconductors,Dow Jones Semiconductors,DJUSSC,USD,other_indices,world_indices
+1290,united states,DJ Select REIT,Dow Jones Select REIT,DWRTF,USD,other_indices,world_indices
+1291,united states,DJ Retailers,Dow Jones Retailers,DJUSRT,USD,other_indices,world_indices
+1292,united states,DJ RE Services,Dow Jones Real Estate Services,DJUSES,USD,other_indices,world_indices
+1293,united states,ISE Cyber Security NTR,ISE Cyber Security NTR,HXRNTR,USD,other_indices,world_indices
+1294,united states,DJ Recreational Products,Dow Jones Recreational Products,DJUSRP,USD,other_indices,world_indices
+1295,united states,DJ Recreational Services,Dow Jones Recreational Services,DJUSRQ,USD,other_indices,world_indices
+1296,united states,DJ Reinsurance,Dow Jones Reinsurance,DJUSIU,USD,other_indices,world_indices
+1297,united states,DJ Residential,Dow Jones Residential REITs,DJUSRN,USD,other_indices,world_indices
+1298,united states,ISE Cloud Computing TR,ISE Cloud Computing TR,CPQTR,USD,other_indices,world_indices
+1299,united states,ISE Cloud Computing,ISE Cloud Computing,CPQ,USD,other_indices,world_indices
+1300,united states,FTSE RAFI US 100 Real Estate,FTSE RAFI US 100 Real Estate,FTFRUR,USD,other_indices,world_indices
+1301,united states,FTSE EPRA/NAREIT USA,FTSE EPRA/NAREIT United States,FTUNUS,USD,other_indices,world_indices
+1302,united states,EEFund Video Game Tech PR,EEFund Video Game Tech PR,GMB,USD,other_indices,world_indices
+1303,united states,NQ Internet TR,NASDAQ Internet TR,NETX,USD,other_indices,world_indices
+1304,united states,EEFund Video Game Tech NTR,EEFund Video Game Tech NTR,GMBNTR,USD,other_indices,world_indices
+1305,united states,DJ Restaurants & Bars,Dow Jones Restaurants & Bars,DJUSRU,USD,other_indices,world_indices
+1306,united states,EEFund Video Game Tech  GTR,EEFund Video Game Tech  GTR,GMBTR,USD,other_indices,world_indices
+1307,united states,DJ Telecom Equipment,DowJones Telecommunications Equipment,DJUSCT,USD,other_indices,world_indices
+1308,united states,DJ RE Investment Trusts,DowJones Real Estate Investment Trusts,DJUSRI,USD,other_indices,world_indices
+1309,united states,DJ Nondurable Household,DowJones Nondurable Household Products,DJUSHN,USD,other_indices,world_indices
+1310,united states,DJ Retail REITs,Dow Jones Retail REITs,DJUSRL,USD,other_indices,world_indices
+1311,united states,NQ OMX Clean Energy US TR,NASDAQ OMX Clean Energy US TR,GRNFOCUSX,USD,other_indices,world_indices
+1312,united states,DJ Media,Dow Jones Media,DJUSME,USD,other_indices,world_indices
+1313,united states,NQ OMX Clean Energy Focused TR,NASDAQ OMX Clean Energy Focused TR,GRNCLNFOX,USD,other_indices,world_indices
+1314,united states,DJ Trucking,Dow Jones Trucking,DJUSTK,USD,other_indices,world_indices
+1315,united states,NQ US Benchmark Iron & Steel,NASDAQ US Benchmark Iron & Steel,NQUSB1757,USD,primary_sectors,global_indices
+1316,united states,NQ OMX Energy Efficiency TR,NASDAQ OMX Energy Efficiency TR,GRNENEFX,USD,other_indices,world_indices
+1317,united states,NQ OMX Energy Management,NASDAQ OMX Energy Management,GRNMAN,USD,other_indices,world_indices
+1318,united states,NQ US Benchmark Chemicals,NASDAQ US Benchmark Chemicals,NQUSB1300,USD,primary_sectors,global_indices
+1319,united states,MSCI US Net EUR,MSCI US Net EUR,MIUS00000NEU,EUR,major_indices,global_indices
+1320,united states,NQ US Benchmark Basic Materials,NASDAQ US Benchmark Basic Materials,NQUSB1000,USD,primary_sectors,global_indices
+1321,united states,NQ OMX Energy Management TR,NASDAQ OMX Energy Management TR,GRNMANX,USD,other_indices,world_indices
+1322,united states,NQ OMX Energy Storage,NASDAQ OMX Energy Storage,GRNSTOR,USD,other_indices,world_indices
+1323,united states,NQ OMX Energy Storage TR,NASDAQ OMX Energy Storage TR,GRNSTORX,USD,other_indices,world_indices
+1324,united states,NQ US Benchmark Oil & Gas,NASDAQ US Benchmark Oil & Gas,NQUSB0001,USD,primary_sectors,global_indices
+1325,united states,MSCI US Net USD,MSCI US Net USD,MIUS00000NUS,USD,major_indices,global_indices
+1326,united states,NQ OMX Green Economy Asia TR USD,NASDAQ OMX Green Economy Asia TR USD,GRNASIAX,USD,other_indices,world_indices
+1327,united states,NQ OMX Green Economy,NASDAQ OMX Green Economy,QGREEN,USD,other_indices,world_indices
+1328,united states,NQ OMX Energy Efficiency,NASDAQ OMX Energy Efficiency,GRNENEF,USD,other_indices,world_indices
+1329,united states,NQ OMX Green Building TR,NASDAQ OMX Green Building TR,GRNGBX,USD,other_indices,world_indices
+1330,united states,NQ OMX Global Water TR,NASDAQ OMX Global Water TR,GRNWATERLX,USD,other_indices,world_indices
+1331,united states,NQ OMX Global Water,NASDAQ OMX Global Water,GRNWATERL,USD,other_indices,world_indices
+1332,united states,NQ OMX Global Gold & Precious Metals,NASDAQ OMX Global Gold & Precious Metals,QGLD,USD,other_indices,world_indices
+1333,united states,NQ OMX Global Agriculture TR,NASDAQ OMX Global Agriculture TR,QAGX,USD,other_indices,world_indices
+1334,united states,NQ OMX Global Agriculture Notional Net TR,NASDAQ OMX Global Agriculture Notional Net TR,QAGXNNR,USD,other_indices,world_indices
+1335,united states,NQ OMX Global Agriculture,NASDAQ OMX Global Agriculture,QAGR,USD,other_indices,world_indices
+1336,united states,DJ U.S. Select Insurance,Dow Jones US Select Insurance,DJSINS,USD,primary_sectors,global_indices
+1337,united states,NQ Clean Edge Green Energy,NASDAQ Clean Edge Green Energy,CELS,USD,other_indices,world_indices
+1338,united states,NQ OMX Geothermal TR,NASDAQ OMX Geothermal TR,GRNGEOX,USD,other_indices,world_indices
+1339,united states,NQ OMX Geothermal,NASDAQ OMX Geothermal,GRNGEO,USD,other_indices,world_indices
+1340,united states,NQ OMX Fuel Cell,NASDAQ OMX Fuel Cell,GRNFUEL,USD,other_indices,world_indices
+1341,united states,NQ OMX Fuel Cell TR,NASDAQ OMX Fuel Cell TR,GRNFUELX,USD,other_indices,world_indices
+1342,united states,NQ US Technology Dividend,NASDAQ US Technology Dividend,NQ96DIVUS,USD,primary_sectors,global_indices
+1343,united states,NQ OMX Green Building,NASDAQ OMX Green Building,GRNGB,USD,other_indices,world_indices
+1344,united states,DJ US Select Telecom,Dow Jones US Select Telecommunications,DJSTEL,USD,primary_sectors,global_indices
+1345,united states,NQ OMX Developer/Operator TR,NASDAQ OMX Developer/Operator TR,GRNDOX,USD,other_indices,world_indices
+1346,united states,DJ Insurance,Dow Jones Insurance,DJUSIR,USD,other_indices,world_indices
+1347,united states,ISE Cyber Security UCITS TR,ISE Cyber Security UCITS TR,HURTR,USD,other_indices,world_indices
+1348,united states,NQ OMX Green Transportation TR,NASDAQ OMX Green Transportation TR,GRNTRNX,USD,other_indices,world_indices
+1349,united states,ISE Junior Silver Small Cap Miners/Explorers,ISE Junior Silver Small Cap Miners/Explorers,ZIR,USD,other_indices,world_indices
+1350,united states,KBW Nasdaq Financial Technology,KBW Nasdaq Financial Technology,KFTX,USD,other_indices,world_indices
+1351,united states,ISE Cyber Security UCITS Net TR,ISE Cyber Security UCITS Net TR,HURNTR,USD,other_indices,world_indices
+1352,united states,MS HI-Tech 35 Settlement Value,MS HI-Tech 35 Settlement Value,MVH,USD,other_indices,world_indices
+1353,united states,DJ Marine Transportation,Dow Jones Marine Transportation,DJUSMT,USD,other_indices,world_indices
+1354,united states,NQ OMX Green Transportation,NASDAQ OMX Green Transportation,GRNTRN,USD,other_indices,world_indices
+1355,united states,NQ OMX Green IT TR,NASDAQ OMX Green IT TR,GREENITX,USD,other_indices,world_indices
+1356,united states,DJ Life Insurance,Dow Jones Life Insurance,DJUSIL,USD,other_indices,world_indices
+1357,united states,NQ OMX Green IT,NASDAQ OMX Green IT,GREENIT,USD,other_indices,world_indices
+1358,united states,DJ Leisure Goods,Dow Jones Leisure Goods,DJUSLE,USD,other_indices,world_indices
+1359,united states,NQ OMX Green Economy TR,NASDAQ OMX Green Economy TR,QGREENX,USD,other_indices,world_indices
+1360,united states,NQ 100 Technology TR,NASDAQ 100 Technology TR,NTTR,USD,other_indices,world_indices
+1361,united states,NQ US Benchmark Mining,NASDAQ US Benchmark Mining,NQUSB1770,USD,primary_sectors,global_indices
+1362,united states,NQ OMX Green Economy ex-US USD,NASDAQ OMX Green Economy ex-US USD,GRNEXUS,USD,other_indices,world_indices
+1363,united states,NQ OMX Green Economy Europe USD,NASDAQ OMX Green Economy Europe USD,GRNEUROPE,USD,other_indices,world_indices
+1364,united states,NQ OMX Green Economy Europe TR USD,NASDAQ OMX Green Economy Europe TR USD,GRNEUROPEX,USD,other_indices,world_indices
+1365,united states,NQ OMX Green Economy Asia USD,NASDAQ OMX Green Economy Asia USD,GRNASIA,USD,other_indices,world_indices
+1366,united states,NQ OMX Developer/Operator,NASDAQ OMX Developer/Operator,GRNDO,USD,other_indices,world_indices
+1367,united states,DJ Large-Cap Technology,Dow Jones Large-Cap Technology,DJULTC,USD,other_indices,world_indices
+1368,united states,DJ Iron & Steel,Dow Jones Iron & Steel,DJUSST,USD,other_indices,world_indices
+1369,united states,DJ Investment Services,Dow Jones Investment Services,DJUSSB,USD,other_indices,world_indices
+1370,united states,DJ Internet Services,Dow Jones Internet Services,DJISVC,USD,other_indices,world_indices
+1371,united states,DJ Internet Composite,Dow Jones Internet Composite,DJINET,USD,other_indices,world_indices
+1372,united states,DJ Internet Commerce,Dow Jones Internet Commerce,DJECOM,USD,other_indices,world_indices
+1373,united states,DJ Internet,Dow Jones Internet,DJUSNS,USD,other_indices,world_indices
+1374,united states,DJ Integrated Oil & Gas,Dow Jones Integrated Oil & Gas,DJUSOL,USD,other_indices,world_indices
+1375,united states,DJ Insurance Brokers,Dow Jones Insurance Brokers,DJUSIB,USD,other_indices,world_indices
+1376,united states,NQ OMX Green Economy ex-US TR USD,NASDAQ OMX Green Economy ex-US TR USD,GRNEXUSX,USD,other_indices,world_indices
+1377,united states,DJ Global ex-U.S. Select REIT,Dow Jones Global ex-US Select REIT,DWXRT,USD,primary_sectors,global_indices

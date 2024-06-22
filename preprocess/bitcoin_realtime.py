@@ -6,6 +6,8 @@ from config import url
 import datetime
 from kafka import KafkaProducer
 
+# 비트코인 컨슈머
+
 PARAMS = {
     "action": "subscribe",  # 구독을 하겠다는 의미
     "params": {

@@ -5,3 +5,4 @@ preprocess/config.ini
 preprocess/config.py
 __pycache__
 .idea/
+bitcointwit/

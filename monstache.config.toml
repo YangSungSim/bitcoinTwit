@@ -1,0 +1,43 @@
+mongo-url = "mongodb://mongodb:27017"
+
+elasticsearch-urls = ["http://es:9200"]
+
+elasticsearch-max-conns = 4
+
+elasticsearch-max-seconds = 5
+
+elasticsearch-max-bytes = 800000
+
+dropped-collections = false
+
+dropped-databases = false
+
+replay = false
+
+resume = false
+
+resume-write-unsafe = true
+
+resume-name = "default"
+
+index-as-update = true
+
+index-oplog-time = true
+
+direct-read-namespaces = ["bitcointwit.news"]
+
+index-files = false
+
+file-highlighting = false
+
+verbose = true
+
+[logs]
+info = "/monstache/info.log"
+warn = "/monstache/warn.log"
+error = "/monstathe/error.log"
+trace = "/monstache/trace.log"
+
+[[mapping]]
+namespace = "bitcointwit.news"
+index = "news_index"

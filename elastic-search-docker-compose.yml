@@ -32,6 +32,8 @@ services:
       - certs:/usr/share/elasticsearch/config/certs
     ports:
       - 9200:9200
+    networks:
+      - monstache-networks
 
   kibana:
     image: docker.elastic.co/kibana/kibana:8.4.3
@@ -41,9 +43,68 @@ services:
       - 5601:5601
     depends_on:
       - es
+    networks:
+      - monstache-networks
+
+  mongodb:
+    image: promise6424/mymongo:1.1.1
+    container_name: mongodb
+    # environment:
+    #    - MONGO_INITDB_ROOT_USERNAME=root
+    #    - MONGO_INITDB_ROOT_PASSWORD=password
+    volumes:
+      - ./mongo-data:/data/db
+      #- ./mongod.conf:/etc/mongod.conf.orig
+    expose:
+      - "27017"
+    ports:
+      - 27017:27017
+    networks:
+      - monstache-networks
+    hostname: mongodb
+
+  mongo-express:
+    depends_on:
+      - mongodb
+    image: mongo-express
+    container_name: mongo-express
+    ports:
+      - 27117:8081
+    environment:
+      - PORT=8081
+      - ME_CONFIG_MONGODB_PORT=27017
+      - ME_CONFIG_MONGODB_SERVER=mongodb
+      - ME_CONFIG_MONGODB_ADMINUSERNAME=root
+      - ME_CONFIG_MONGODB_ADMINPASSWORD=password
+      - ME_CONFIG_MONGODB_URL=mongodb://root:password@mongodb:27017/
+    networks:
+      - monstache-networks
+    hostname: mongo-express
+
+  monstache:
+    restart: always
+    image: rwynn/monstache:rel6
+    container_name: monstache
+    depends_on:
+      - mongodb
+      - es
+    volumes:
+      - ./monstache.config.toml:/monstache.config.toml
+    command: -f ./monstache.config.toml &
+    links:
+      - es
+    ports:
+      - 8080:8080
+    networks:
+      - monstache-networks
 
 volumes:
   certs:
     driver: local
   es-data:
     driver: local
+  mongo-data:
+    driver: local
+
+networks:
+  monstache-networks:
