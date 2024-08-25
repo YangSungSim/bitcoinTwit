@@ -49,7 +49,7 @@ x-airflow-common:
   # In order to add custom dependencies or upgrade provider packages you can use your extended image.
   # Comment the image line, place your Dockerfile in the directory where you placed the docker-compose.yaml
   # and uncomment the "build" line below, Then run `docker-compose build` to build the images.
-  image: ${AIRFLOW_IMAGE_NAME:-apache/airflow:2.9.1}
+  image: ${AIRFLOW_IMAGE_NAME:-apache/airflow:2.9.2}
   # build: .
   environment:
     &airflow-common-env
@@ -59,7 +59,7 @@ x-airflow-common:
     AIRFLOW__CELERY__BROKER_URL: redis://:@redis:6379/0
     AIRFLOW__CORE__FERNET_KEY: ''
     AIRFLOW__CORE__DAGS_ARE_PAUSED_AT_CREATION: 'true'
-    AIRFLOW__CORE__LOAD_EXAMPLES: 'true'
+    AIRFLOW__CORE__LOAD_EXAMPLES: 'false'
     AIRFLOW__API__AUTH_BACKENDS: 'airflow.api.auth.backend.basic_auth,airflow.api.auth.backend.session'
     # yamllint disable rule:line-length
     # Use simple http server on scheduler for health checks
@@ -68,21 +68,25 @@ x-airflow-common:
     AIRFLOW__SCHEDULER__ENABLE_HEALTH_CHECK: 'true'
     # WARNING: Use _PIP_ADDITIONAL_REQUIREMENTS option ONLY for a quick checks
     # for other purpose (development, test and especially production usage) build/extend Airflow image.
-    _PIP_ADDITIONAL_REQUIREMENTS: ${_PIP_ADDITIONAL_REQUIREMENTS:-selenium pymongo}
+    _PIP_ADDITIONAL_REQUIREMENTS: ${_PIP_ADDITIONAL_REQUIREMENTS:-finance-datareader Flask influxdb influxdb-client numpy pendulum pymongo selenium webdriver_manager}
     # The following line can be used to set a custom config file, stored in the local config folder
     # If you want to use it, outcomment it and replace airflow.cfg with the name of your config file
-    # AIRFLOW_CONFIG: '/opt/airflow/config/airflow.cfg'
+    AIRFLOW_CONFIG: '/opt/airflow/config/airflow.cfg'
   volumes:
     - ${AIRFLOW_PROJ_DIR:-.}/dags:/opt/airflow/dags
     - ${AIRFLOW_PROJ_DIR:-.}/logs:/opt/airflow/logs
     - ${AIRFLOW_PROJ_DIR:-.}/config:/opt/airflow/config
     - ${AIRFLOW_PROJ_DIR:-.}/plugins:/opt/airflow/plugins
+    - ./config/airflow.cfg:/opt/airflow/airflow.cfg
+    - ./chrome_driver:/usr/local/bin/chrome_driver
   user: "${AIRFLOW_UID:-50000}:0"
   depends_on:
     &airflow-common-depends-on
     redis:
       condition: service_healthy
     postgres:
+      condition: service_healthy
+    mongodb:
       condition: service_healthy
 
 services:
@@ -236,7 +240,7 @@ services:
         fi
         mkdir -p /sources/logs /sources/dags /sources/plugins
         chown -R "${AIRFLOW_UID}:0" /sources/{logs,dags,plugins}
-        exec /entrypoint airflow version
+        exec /entrypoint bash -c "airflow db upgrade && airflow version"
     # yamllint enable rule:line-length
     environment:
       <<: *airflow-common-env
@@ -283,12 +287,48 @@ services:
       <<: *airflow-common-depends-on
       airflow-init:
         condition: service_completed_successfully
-  selenium:
-    container_name: remote_chromedriver
-    image: selenium/standalone-chrome:latest
+
+  mongodb:
+    image: promise6424/mymongo:1.1.1
+    container_name: mongodb
+    # environment:
+    #    - MONGO_INITDB_ROOT_USERNAME=root
+    #    - MONGO_INITDB_ROOT_PASSWORD=password
+    volumes:
+      - ./mongo-data:/data/db
+    healthcheck:
+      test: echo 'db.runCommand("ping").ok' | mongo localhost:27017/test --quiet
+      interval: 5s
+      timeout: 30s
+      retries: 50
+    restart: "on-failure"
+    expose:
+      - "27017"
     ports:
-     - 4444:4444
-    restart: always
+      - 27017:27017
+    networks:
+      - monstache-networks
+    hostname: mongodb
+
+  mongo-express:
+    depends_on:
+      - mongodb
+    image: mongo-express
+    container_name: mongo-express
+    ports:
+      - 27117:8081
+    environment:
+      - PORT=8081
+      - ME_CONFIG_MONGODB_PORT=27017
+      - ME_CONFIG_MONGODB_SERVER=mongodb
+      - ME_CONFIG_MONGODB_ADMINUSERNAME=root
+      - ME_CONFIG_MONGODB_ADMINPASSWORD=password
+      - ME_CONFIG_MONGODB_URL=mongodb://root:password@mongodb:27017/
+    networks:
+      - monstache-networks
+    hostname: mongo-express
 
 volumes:
   postgres-db-volume:
+networks:
+  monstache-networks:

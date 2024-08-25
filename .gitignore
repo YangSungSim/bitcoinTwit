@@ -6,3 +6,6 @@ preprocess/config.py
 __pycache__
 .idea/
 bitcointwit/
+chrome_driver/
+logs/
+mongo-data/

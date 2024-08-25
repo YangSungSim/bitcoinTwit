@@ -1,4 +1,5 @@
 # news realtime google
+
 from selenium import webdriver
 from selenium.webdriver.common.by import By
 from selenium.webdriver.support.ui import WebDriverWait
@@ -6,11 +7,23 @@ from selenium.webdriver.support import expected_conditions as EC
 import datetime
 import time
 from pymongo import MongoClient
+from selenium.webdriver.chrome.service import Service as ChromeService
+import requests
+from webdriver_manager.chrome import ChromeDriverManager
 
-remote_webdriver = 'remote_chromedriver'
-options = webdriver.ChromeOptions()
+chrome_options = webdriver.ChromeOptions()
+chrome_options.add_argument('--headless')
+chrome_options.add_argument('--no-sandbox')
+chrome_options.add_argument('--single-process')
+chrome_options.add_argument('--disable-dev-shm-usage')
+chrome_options.add_argument("--disable-gpu")
+release = 'https://chromedriver.storage.googleapis.com/LATEST_RELEASE'
+version = requests.get(release).text
+#service = ChromeService(executable_path=ChromeDriverManager(driver_version=version).install())
+#driver = webdriver.Chrome(service=service, options=chrome_options)
 
-driver = webdriver.Remote(f'{remote_webdriver}:4444/wd/hub', options=options)
+#driver = webdriver.Chrome(service=ChromeService(executable_path='/usr/local/bin/chrome-linux64'), options=chrome_options)
+driver = webdriver.Chrome(options=chrome_options)
 driver.get('https://www.google.com/finance/')
 driver.implicitly_wait(1)
 
