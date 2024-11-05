@@ -29,7 +29,7 @@
 
 # django
 ## 트레이딩 거래 플랫폼
-## 포트 폴리오 대시보드
+## 포트 폴리오 대시보드(이거 먼저)
 ## redis: 임시 비밀번호, 로그인세션, JWT 등
 
 # react
@@ -87,3 +87,7 @@ InsertOneResult(ObjectId('66619b0cbae93c4dc1663308'), acknowledged=True) -->
 
 ### airflow docker compose 파일 출처
 #### https://airflow.apache.org/docs/apache-airflow/stable/howto/docker-compose/index.html
+
+
+### airflow 초기 user 생성 방법
+##### airflow users create -u admin -p admin -f Clueless -l Coder -r Admin -e admin@admin.com 

@@ -38,6 +38,9 @@ INSTALLED_APPS = [
     "django.contrib.messages",
     "django.contrib.staticfiles",
     "rest_framework",
+    "drf_yasg",
+    "twitterstockapp.apps.TwitterstockappConfig",
+    "dashboard.apps.DashboardConfig"
 ]
 
 MIDDLEWARE = [
@@ -67,6 +70,16 @@ TEMPLATES = [
         },
     },
 ]
+
+REST_FRAMEWORK = {
+    'DEFAULT_PAGINATION_CLASS': 'rest_framework.pagination.PageNumberPagination',
+    'DEFAULT_PARSER_CLASSES': [
+        'rest_framework.parsers.FormParser',
+        'rest_framework.parsers.MultiPartParser',
+    ],
+    'TEST_REQUEST_DEFAULT_FORMAT': 'json',
+    'PAGE_SIZE': 15
+}
 
 WSGI_APPLICATION = "twitterstock.wsgi.application"
 

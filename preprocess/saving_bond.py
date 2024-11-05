@@ -1,20 +1,63 @@
-import json
-from influxdb_client import InfluxDBClient, Point
-from influxdb_client.client.write_api import SYNCHRONOUS
 import pandas as pd
 from selenium import webdriver
 from selenium.webdriver.common.by import By
 import datetime
+import psycopg2
+from psycopg2 import sql
+import time
 
 # 채권 정보 수집 모듈
 
 #한국 국채 회사채
-bucket= "korea_bond"
+bucket_korea= "korea_bond"
 
-client = InfluxDBClient(url="http://localhost:8086", token="uULKZwxtEOUwW7t23lzbmRHkEEACdhmWAfAoyqiPidsMeEm9My1V7hdyO89RSJAoEQcJVcgenmLFUmBfRXFknw==", org="simmy")
-write_api = client.write_api(write_options=SYNCHRONOUS)
-query_api = client.query_api()
+def create_table_to_postgres(host, database, user, password, table_name, data):
+    try:
+        connection = psycopg2.connect(
+            host=host,
+            database=database,
+            user=user,
+            password=password
+        )
+        cursor = connection.cursor()
 
+        drop_table_query= f"""
+        DROP TABLE IF EXISTS {table_name};
+        """
+        cursor.execute(drop_table_query)
+        print("table droped successfully")
+
+        create_table_if_not_exist_query = f"""
+        CREATE TABLE IF NOT EXISTS {table_name} (
+            id SERIAL PRIMARY KEY,
+            item_name VARCHAR(255) NOT NULL,
+            close DECIMAL(20, 6) NOT NULL,
+            change VARCHAR(255) NOT NULL,
+            one_month VARCHAR(255) NOT NULL,
+            six_month VARCHAR(255) NOT NULL,
+            one_year VARCHAR(255) NOT NULL
+        );
+        """
+        cursor.execute(create_table_if_not_exist_query)
+
+        print("table created successfully.")
+
+        insert_query = sql.SQL(
+            'INSERT INTO {table} (item_name, close, change, one_month, six_month, one_year) VALUES (%s, %s, %s, %s, %s, %s)'
+        ).format(table=sql.Identifier(table_name))
+
+        cursor.executemany(insert_query, data)
+        connection.commit()
+
+    except Exception as error:
+        print(f"Error inserting data: {error}")
+        if connection:
+            connection.rollback()
+    
+    finally:
+        if connection:
+            cursor.close()
+            connection.close()
 
 driver = webdriver.Chrome()
 driver.get('https://datacenter.hankyung.com/rates-bonds')
@@ -49,34 +92,22 @@ for num in range(4, 7):
     if (len(col_data_list)) > 0:
         table.append(col_data_list)
 
-df = pd.DataFrame(table)
-df = df.transpose()
-df.columns = ['item_name', 'close', 'change', '1month', '6month', '1year']
-print(df)
+df_korea_bond = pd.DataFrame(table)
+df_korea_bond = df_korea_bond.transpose()
+df_korea_bond.columns = ['item_name', 'close', 'change', 'one_month', 'six_month', 'one_year']
+print(df_korea_bond)
 
-
-
-for i in range(0, len(df)):
-    row = df.iloc[i,:]
-    print("row : ", row)
-    p = Point("bond")\
-        .tag("date", datetime.datetime.now())\
-        .field("kind", row['item_name'])\
-        .field("close", row['close'])\
-        .field("change", row['change'])\
-        .field("1month", row['1month']) \
-        .field("6month", row['6month']) \
-        .field("1year", row['1year'])
-    
-    write_api.write(bucket=bucket, org="simmy", record=p)
 
 # 한국 국채 끝
 submit_button = driver.find_element(by=By.XPATH, value='//*[@id="container"]/div/div[2]/ul/li[2]/a')
 submit_button.click()
 driver.implicitly_wait(1)
+tab_button = driver.find_element(by=By.XPATH, value='//*[@id="container"]/div/div[3]/ul/li[1]/a')
+tab_button.click()
+driver.implicitly_wait(5)
 
 # 미국 회사채, 국채
-bucket= "us_bond"
+bucket_us= "us_bond"
 table =[]
 row_select_list = [2,3,5]
 for num in row_select_list:
@@ -92,7 +123,7 @@ for num in row_select_list:
 
 submit_button = driver.find_element(by=By.XPATH, value='//*[@id="container"]/div/div[3]/ul/li[2]/a')
 submit_button.click()
-driver.implicitly_wait(1)
+driver.implicitly_wait(5)
 
 for num in range(4, 7):
     path = '#container > div > div.table-stock-wrap > table.table-stock.type-no-bar.table-period > tbody > tr > td:nth-child(' + str(num) + ') > span'
@@ -106,23 +137,12 @@ for num in range(4, 7):
     if (len(col_data_list)) > 0:
         table.append(col_data_list)
 
-df = pd.DataFrame(table)
-df = df.transpose()
-df.columns = ['item_name', 'close', 'change', '1month', '6month', '1year']
-print(df)
+df_us_bond = pd.DataFrame(table)
+print(df_us_bond)
+df_us_bond = df_us_bond.transpose()
+print(df_us_bond)
+df_us_bond.columns = ['item_name', 'close', 'change', 'one_month', 'six_month', 'one_year']
+print(df_us_bond)
 
-
-
-for i in range(0, len(df)):
-    row = df.iloc[i,:]
-    print("row : ", row)
-    p = Point("bond")\
-        .tag("date", datetime.datetime.now())\
-        .field("kind", row['item_name'])\
-        .field("close", row['close'])\
-        .field("change", row['change'])\
-        .field("1month", row['1month']) \
-        .field("6month", row['6month']) \
-        .field("1year", row['1year'])
-    
-    write_api.write(bucket=bucket, org="simmy", record=p)
+create_table_to_postgres('localhost', 'postgres', 'admin', 'postgres', bucket_us, df_us_bond.values.tolist())
+create_table_to_postgres('localhost', 'postgres', 'admin', 'postgres', bucket_korea, df_korea_bond.values.tolist())

@@ -10,7 +10,7 @@ from influxdb_client.client.write_api import SYNCHRONOUS
 
 bucket= "bitcoin"
 
-client = InfluxDBClient(url="http://localhost:8086", token="uULKZwxtEOUwW7t23lzbmRHkEEACdhmWAfAoyqiPidsMeEm9My1V7hdyO89RSJAoEQcJVcgenmLFUmBfRXFknw==", org="simmy")
+client = InfluxDBClient(url="http://localhost:8086", token="KPTWhc52uC_awgqmqzjv6wIJkxAg1dCrBU2dBGkCehs2n3kxzwWA7AQDUd701oJX6yvn9ABamUgGtosvhuBejA==", org="simmy")
 #client = InfluxDBClient.from_config_file("config.ini")
 
 # 데이터를 쓸 버킷 선택

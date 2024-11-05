@@ -1,4 +1,6 @@
-from influxdb import InfluxDBClient
+#from influxdb import InfluxDBClient
+from influxdb_client import InfluxDBClient, Point
+import json
 
 # client = InfluxDBClient('localhost', 8086, 'root', 'root', 'example')
 #  client.write_points(json_body)
@@ -25,26 +27,27 @@ class InfluxOrm:
     def __init__(self):
         self.json_body = None
         self.query = None
-        self.client =  None #InfluxDBClient('localhost', 8086, 'root', 'root', 'example')
+        self.client = InfluxDBClient(url="http://localhost:8086", token="KPTWhc52uC_awgqmqzjv6wIJkxAg1dCrBU2dBGkCehs2n3kxzwWA7AQDUd701oJX6yvn9ABamUgGtosvhuBejA==", org="simmy") #InfluxDBClient('localhost', 8086, 'admin', '12345678', 'p2p')
+        self.query_api = self.client.query_api()
+        self.delete_api = self.client.delete_api()
+        self.org = 'simmy'
 
     def insert(self, json_body):
         try:
-            self.client.write_points(json_body)
+            self.client.write_api(json_body)
         except:
             return "에러가 발생했습니다."
         return True
 
     def update(self, query):
-        result = self.client.query(query)
+        result = self.query_api.query(org=self.org, query=query)
         return result
 
-    def delete(self, query):
-        result = self.client.query(query)
+    def delete(self, start, stop, bucket):
+        result = self.delete_api.delete(start=start, stop=stop, bucket=bucket, org="simmy")
         return result
-
-    def drop_database(self, name):
-        try:
-            self.client.drop_database(name)
-        except:
-            return "에러가 발생했습니다."
-        return True
+    
+    def select(self, query):
+        result = self.query_api.query(org=self.org, query=query)
+        records = [record.values for table in result for record in table.records]
+        return str(records)

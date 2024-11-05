@@ -9,17 +9,13 @@ from lxml import html
 from urllib.request import Request, urlopen
 from urllib.parse import urlencode, quote_plus, unquote
 import datetime
+import psycopg2
+from psycopg2 import sql
+import re
 
 # 인증키 번호 : 98b67378fb7abacb85f4be584a6cf70c
 
 bucket= "interest"
-from influxdb_client import InfluxDBClient, Point
-from influxdb_client.client.write_api import SYNCHRONOUS
-
-client = InfluxDBClient(url="http://localhost:8086", token="TjaHFUdpuEjk3zmsNFNL0JRnZkVzXpoNPLqTJkmuStQ8XhZU_-3qpSSk1J-MoJ2D6YBXVeeS-sTxvOo3MHYF-w==", org="simmy")
-write_api = client.write_api(write_options=SYNCHRONOUS)
-query_api = client.query_api()
-
 
 KEY = '98b67378fb7abacb85f4be584a6cf70c'
 url = "http://finlife.fss.or.kr/finlifeapi/savingProductsSearch.xml?auth={}&topFinGrpNo=020000&pageNo=1".format(KEY)
@@ -121,22 +117,69 @@ bank_savings_df = DataFrame(bank_savings_list, columns=[
 , '최고우대금리' 
 ])
 
-for i in range(0, len(bank_savings_df)):
-    row = bank_savings_df.iloc[i,:]
-    print("row : ", row)
-    p = Point("bond")\
-        .tag("submitpn", row['공시제출월'])\
-        .field("banknm", row['금융회사명'])\
-        .field("goodnm", row['금융상품명'])\
-        .field("wayre", row['가입방법'])\
-        .field("materityinterest", row['만기후이자율']) \
-        .field("priority", row['우대조건']) \
-		.field("limit", row['가입제한']) \
-		.field("atmost", row['최고한도']) \
-		.field("interestnm", row['저축금리유형명']) \
-		.field("typesave", row['적립유형명']) \
-		.field("period", row['저축기간']) \
-		.field("interestrate", row['저축금리']) \
-        .field("maxinterest", row['최고우대금리'])
+bank_savings_df.replace('', '-',regex=True, inplace=True)
+bank_savings_df.replace(r'\n', ' ',regex=True, inplace=True)
+# 모든 특수기호를 제거하는 함수 정의
+def remove_special_characters(text):
+    return re.sub(r'[^\w\s]', '', text)  # 모든 특수기호 제거
+
+# DataFrame의 각 요소에 함수 적용
+bank_savings_df = bank_savings_df.applymap(lambda x: remove_special_characters(x) if isinstance(x, str) else x)
+
+def create_table_to_postgres(host, database, user, password, table_name, data):
+    try:
+        connection = psycopg2.connect(
+            host=host,
+            database=database,
+            user=user,
+            password=password
+        )
+        cursor = connection.cursor()
+
+        drop_table_query= """
+        DROP TABLE IF EXISTS interest;
+        """
+        cursor.execute(drop_table_query)
+        print("table droped successfully")
+
+        create_table_if_not_exist_query = """
+        CREATE TABLE IF NOT EXISTS interest (
+            id SERIAL PRIMARY KEY,
+            submitpn TEXT NOT NULL,
+            banknm TEXT NOT NULL,
+            goodnm TEXT NOT NULL,
+            wayre TEXT NOT NULL,
+            materityinterest TEXT NOT NULL,
+            priority TEXT NOT NULL,
+            limit_rate TEXT NOT NULL,
+            retarget TEXT NOT NULL,
+            atmost TEXT NOT NULL,
+            interestnm TEXT NOT NULL,
+            typesave TEXT NOT NULL,
+            period TEXT NOT NULL,
+            interestrate TEXT NOT NULL,
+            maxinterest TEXT NOT NULL
+        );
+        """ 
+        cursor.execute(create_table_if_not_exist_query)
+
+        print(f"1 table created successfully.")
+
+        insert_query = sql.SQL(
+            'INSERT INTO interest (submitpn, banknm, goodnm, wayre, materityinterest, priority, limit_rate, retarget, atmost, interestnm, typesave, period, interestrate, maxinterest) VALUES (%s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s)'
+        ).format(table=sql.Identifier(table_name))
+
+        cursor.execute(insert_query, data[0])
+        connection.commit()
+
+    except Exception as error:
+        print(f"Error inserting data: {error}")
+        if connection:
+            connection.rollback()
     
-    write_api.write(bucket=bucket, org="simmy", record=p)
+    finally:
+        if connection:
+            cursor.close()
+            connection.close()
+
+create_table_to_postgres('localhost', 'postgres', 'admin', 'postgres', bucket, bank_savings_df.values.tolist())
