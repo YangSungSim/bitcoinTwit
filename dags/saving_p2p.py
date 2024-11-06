@@ -1,27 +1,19 @@
 # 피플 펀드
 
-import json
 from influxdb_client import InfluxDBClient, Point
 from influxdb_client.client.write_api import SYNCHRONOUS
 import pandas as pd
 from selenium import webdriver
 from selenium.webdriver.common.by import By
-import datetime
 from typing import List
 import psycopg2
 from psycopg2 import sql
 
 
+
 bucket= "p2p"
 
-chrome_options = webdriver.ChromeOptions()
-chrome_options.add_argument('--headless')
-chrome_options.add_argument('--no-sandbox')
-chrome_options.add_argument('--single-process')
-chrome_options.add_argument('--disable-dev-shm-usage')
-chrome_options.add_argument("--disable-gpu")
-
-driver = webdriver.Chrome(options=chrome_options)
+driver = webdriver.Chrome()
 driver.get('https://www.peoplefund.co.kr/investing/list?type=all&is_investable=true')
 driver.implicitly_wait(1)
 
@@ -33,6 +25,15 @@ card_num_1 = len(card_num)
 print("card_num:   ", card_num_1)
 for card in card_num:
     information: List[str] = card.text.split('\n')
+    # category: str = information[0]
+    # open_yn: str = information[1]
+    # address: str = information[2]
+    # year_yield: float = float(information[information.index('연 수익률')+1].replace('%',''))
+    # period: str = information[information.index('투자 기간')+1]
+    # collected_money: str = information[-2]
+    # total_money: str = information[-1]
+
+    # table.append([information, category, open_yn, address, year_yield, period, collected_money, total_money])
     table.append([information])
 
 
@@ -66,7 +67,7 @@ def create_table_to_postgres(host, database, user, password, table_name, data):
             'INSERT INTO p2p (information) VALUES (%s)'
         ).format(table=sql.Identifier(table_name))
 
-        cursor.execute(insert_query, data[0])
+        cursor.executemany(insert_query, data)
         connection.commit()
 
     except Exception as error:

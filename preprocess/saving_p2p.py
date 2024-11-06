@@ -67,7 +67,7 @@ def create_table_to_postgres(host, database, user, password, table_name, data):
             'INSERT INTO p2p (information) VALUES (%s)'
         ).format(table=sql.Identifier(table_name))
 
-        cursor.execute(insert_query, data[0])
+        cursor.executemany(insert_query, data)
         connection.commit()
 
     except Exception as error:

@@ -1,7 +1,5 @@
 # 미국(INDEX(investpy), ETF(investpy), 배당주(investpy), 한국 kospi, kosdaq.
 import json
-from influxdb_client import InfluxDBClient, Point
-from influxdb_client.client.write_api import SYNCHRONOUS
 import pandas as pd
 import datetime as dt
 from datetime import timedelta
@@ -12,6 +10,7 @@ import FinanceDataReader as fdr
 import psycopg2
 from psycopg2 import sql
 import yfinance as yf
+from datetime import datetime
 
 bucket= "ETF"
 
@@ -39,18 +38,18 @@ print("etf finished")
 us_index_table = []
 us_bucket = "US_INDEX"
 
-# today = dt.datetime.now() 
-# formatted_today = today.strftime('%Y-%m-%d')
-# yesterday = today - timedelta(days=1)
-# formatted_yesterday = yesterday.strftime('%Y-%m-%d')
+today = dt.datetime.now() 
+formatted_today = today.strftime('%Y-%m-%d')
+yesterday = today - timedelta(days=1)
+formatted_yesterday = yesterday.strftime('%Y-%m-%d')
 
 def write_stock_data(symbol, item_tag):
     data = yf.Ticker(symbol).history(period="5d")
     pd.options.display.float_format = '{:.4f}'.format
     data['item'] = item_tag
-    data['date'] = data.index
+    data['date'] = data.index.strftime('%Y-%m-%d')
     modified = data[['item','Close','date']]
-    us_index_table.append(modified.values.tolist())
+    us_index_table.extend(modified.values.tolist())
 
 # dowjones DJIA
 write_stock_data('^DJI', 'DJI')
@@ -99,6 +98,7 @@ def create_table_to_postgres(host, database, user, password, table_name, data):
 
         print(f"1 table created successfully.")
 
+        print('data:   ', data)
         insert_query = None
         if table_name == 'ETF':
             insert_query = sql.SQL(

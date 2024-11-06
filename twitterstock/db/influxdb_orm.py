@@ -27,7 +27,7 @@ class InfluxOrm:
     def __init__(self):
         self.json_body = None
         self.query = None
-        self.client = InfluxDBClient(url="http://localhost:8086", token="KPTWhc52uC_awgqmqzjv6wIJkxAg1dCrBU2dBGkCehs2n3kxzwWA7AQDUd701oJX6yvn9ABamUgGtosvhuBejA==", org="simmy") #InfluxDBClient('localhost', 8086, 'admin', '12345678', 'p2p')
+        self.client = InfluxDBClient(url="http://localhost:8086", token="cWaJQ511moq3PPfVlJyEi-QnSmbSytkUpFAPQlOywFrdEGfKlikaVyP713bmruVdclsJmi7DE7YEccvy9jbERQ==", org="simmy") #InfluxDBClient('localhost', 8086, 'admin', '12345678', 'p2p')
         self.query_api = self.client.query_api()
         self.delete_api = self.client.delete_api()
         self.org = 'simmy'

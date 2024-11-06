@@ -169,7 +169,7 @@ def create_table_to_postgres(host, database, user, password, table_name, data):
             'INSERT INTO interest (submitpn, banknm, goodnm, wayre, materityinterest, priority, limit_rate, retarget, atmost, interestnm, typesave, period, interestrate, maxinterest) VALUES (%s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s)'
         ).format(table=sql.Identifier(table_name))
 
-        cursor.execute(insert_query, data[0])
+        cursor.executemany(insert_query, data)
         connection.commit()
 
     except Exception as error:
