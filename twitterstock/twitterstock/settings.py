@@ -27,6 +27,10 @@ DEBUG = True
 
 ALLOWED_HOSTS = []
 
+CORS_ALLOWED_ORIGINS = [
+    "http://localhost:3001",
+    "http://127.0.0.1:3000"
+]
 
 # Application definition
 
@@ -40,10 +44,13 @@ INSTALLED_APPS = [
     "rest_framework",
     "drf_yasg",
     "twitterstockapp.apps.TwitterstockappConfig",
-    "dashboard.apps.DashboardConfig"
+    "dashboard.apps.DashboardConfig",
+    "corsheaders"
 ]
 
 MIDDLEWARE = [
+    'corsheaders.middleware.CorsMiddleware',  
+    'django.middleware.common.CommonMiddleware',
     "django.middleware.security.SecurityMiddleware",
     "django.contrib.sessions.middleware.SessionMiddleware",
     "django.middleware.common.CommonMiddleware",

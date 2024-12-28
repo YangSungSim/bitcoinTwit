@@ -2,7 +2,7 @@ from django.urls import path
 from dashboard import views
 
 urlpatterns = [
-    path('', views.get_bitcoin, name="bitcoin"),
+    path('bitcoin/', views.get_bitcoin, name="bitcoin"),
     path('korea-bond/', views.get_korea_bond, name="korea_bond"),
     path('us_bond/', views.get_us_bond, name="us_bond"),
     path('interest/', views.get_interest, name="interest"),
